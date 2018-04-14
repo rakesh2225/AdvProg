@@ -24,7 +24,7 @@ public class BigNumberCalculator extends Application {
         Scene scene = new Scene(root);
         
         stage.setScene(scene);
-        stage.setTitle("BigNumber Calculator");
+        stage.setTitle("BigNumber Calci");
         stage.show();
     }
 
