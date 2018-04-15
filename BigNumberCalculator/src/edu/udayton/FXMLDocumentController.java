@@ -22,19 +22,47 @@ public class FXMLDocumentController implements Initializable {
     
     @FXML
     private Label lblNum1;
+    
+    @FXML
     private Label lblNum2;
+    
+    @FXML
     private Label lblResult;
+    
+    @FXML
     private TextField txtNum1;
+    
+    @FXML
     private TextField txtNum2;
+    
+    @FXML
     private TextField txtResult;
+    
+    @FXML
     private Button btnComp;
+    
+    @FXML
     private Button btnQuit;
+    
+    @FXML
     private Button btnAdd;
+    
+    @FXML
     private Button btnSub;
+    
+    @FXML
     private Button btnMul;
+    
+    @FXML
     private Button btnGrt;
+    
+    @FXML
     private Button btnLess;
+    
+    @FXML
     private Button btnEqls;
+    
+    @FXML
     private Label lblOptr;
     
     @FXML
@@ -49,7 +77,13 @@ public class FXMLDocumentController implements Initializable {
     
     @FXML
     private void handleAddButtonAction(ActionEvent event) {
-       
+       if (txtNum1.getText().equals("") || txtNum2.getText().equals("")) {
+           return;
+       }
+       BigNumber bigNum1 = new BigNumber(txtNum1.getText());
+       BigNumber bigNum2 = new BigNumber(txtNum2.getText());
+        new OperatorService().printDLL(bigNum1.digits);
+        new OperatorService().printDLL(bigNum2.digits);
     }
     
     @FXML
