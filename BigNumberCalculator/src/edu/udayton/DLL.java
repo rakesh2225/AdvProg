@@ -12,6 +12,16 @@ package edu.udayton;
 public class DLL {
     
     private Node first;
+    
+    private Node last;
+
+    public Node getLast() {
+        return last;
+    }
+
+    public void setLast(Node last) {
+        this.last = last;
+    }
 
     public Node getFirst() {
         return first;
@@ -32,6 +42,6 @@ public class DLL {
         }
         temp.next = node;
         node.prev = temp;
-    }    
+    }
     
 }

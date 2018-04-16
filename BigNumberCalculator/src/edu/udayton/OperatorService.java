@@ -15,25 +15,16 @@ public class OperatorService {
         if (num == null || num.length() < 1) {
             return null;
         }
-        num = new StringBuilder(num).reverse().toString();
-        DLL dll = new DLL();        
-        Node cur = new Node(num.charAt(0));
-        dll.setFirst(cur);
+        DLL dll = new DLL(); 
+        Node newNode = new Node(num.charAt(0));
+        dll.setFirst(newNode);
+        dll.setLast(newNode);
         for (int i = 1; i < num.length(); i++) {
-            Node node = new Node(num.charAt(i));
-            cur.next = node;
-            node.prev = cur;
-            cur = node;
+            Node node = new Node(num.charAt(i), dll.getFirst(), null);
+            dll.getFirst().prev = node;
+            dll.setFirst(node);
         }
         return dll;
-    }
-    
-    public void printDLL(DLL dll) {
-        for (Node cur = dll.getFirst(); cur != null; cur = cur.next) {
-            if (cur != null) {
-                System.out.print(" -> " + cur.ele);
-            }
-        }
-    }
+    }    
     
 }
