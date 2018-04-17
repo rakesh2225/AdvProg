@@ -27,7 +27,69 @@ public class BigNumber {
     }
     
     public BigNumber add(BigNumber num) {
+        if ((this.isPositive && num.isPositive)
+                || (!this.isPositive && !num.isPositive)) {
+            String result = null;
+            if (this.decimalPointPosition > num.decimalPointPosition) {
+                result = addBigNumbers(this, num);
+            } else {
+                result = addBigNumbers(num, this);
+            }
+            if (!this.isPositive && !num.isPositive) {
+                result += "-";
+            }                
+            return new BigNumber(result);
+        }
         return null;
+    }
+    
+    private String addBigNumbers(BigNumber num1, BigNumber num2) {
+        int dec1 = num1.decimalPointPosition < 0 ? 0 : num1.decimalPointPosition;
+        int dec2 = num2.decimalPointPosition < 0 ? 0 : num2.decimalPointPosition;
+        int counter = dec1 - dec2;
+        int carry = 0;
+        String result = "";
+        Node num1Node = num1.digits.getFirst();
+        Node num2Node = num2.digits.getFirst();
+        while (counter-- > 0) {
+            result += String.valueOf(num1Node.ele);
+            num1Node = num1Node.next;
+        }
+        while (num1Node != null && num2Node != null
+                && (!String.valueOf(num1Node.ele).equals("-"))
+                && (!String.valueOf(num2Node.ele).equals("-"))) {
+            
+            if ((String.valueOf(num1Node.ele)).equals(".")) {
+                result += ".";
+                num1Node = num1Node.next;
+                num2Node = num2Node.next;
+                continue;
+            }
+            int val =Integer.parseInt(String.valueOf(num1Node.ele)) + Integer.parseInt(String.valueOf(num2Node.ele)) + carry;
+            result += val % 10;
+            carry = val / 10;
+            num1Node = num1Node.next;
+            num2Node = num2Node.next;
+        }
+        if (num1Node == null && num2Node != null) {
+            while (num2Node != null && !String.valueOf(num2Node.ele).equals("-")) {
+                int val = Integer.parseInt(String.valueOf(num2Node.ele)) + carry;
+                result += val % 10;
+                carry = val / 10;
+                num2Node = num2Node.next;
+            }
+        } else if (num2Node == null && num1Node != null) {
+           while (num1Node != null && !String.valueOf(num1Node.ele).equals("-")) {
+                int val = Integer.parseInt(String.valueOf(num1Node.ele)) + carry;
+                result += val % 10;
+                carry = val / 10;
+                num1Node = num1Node.next;
+            }
+        }
+        if (carry > 0) {
+            result += carry;
+        }
+        return result;
     }
     
     public BigNumber sub(BigNumber n) {
@@ -115,10 +177,13 @@ public class BigNumber {
             }
     }
     
-    public void printDLL() {
+    public String toBigString() {
+        String dll = "";
         for (Node cur = digits.getFirst(); cur != null; cur = cur.next) 
-            System.out.print(" -> " + cur.ele);
-        System.out.println("");
+            dll += cur.ele;
+        return dll;
     }
+    
+    
     
 }

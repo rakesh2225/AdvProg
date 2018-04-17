@@ -97,18 +97,26 @@ public class FXMLDocumentController implements Initializable {
     }
     
     @FXML
+    private void handleClearButtonAction(ActionEvent event) {
+        txtNum1.setText("");
+        txtNum2.setText("");
+        txtResult.setText("");
+        lblOptr.setText("");
+        errMsg.setText("");
+    }    
+    
+    @FXML
     private void handleAddButtonAction(ActionEvent event) {
         try {
             clearErrorMessage();
             updateLabelOperator("+");
             validateInput();
             BigNumber bigNum1 = new BigNumber(txtNum1.getText());
-            //bigNum1.printDLL();
-            //System.out.println("");
             BigNumber bigNum2 = new BigNumber(txtNum2.getText());
-            //bigNum2.printDLL();
-            //BigNumber result = bigNum1.add(bigNum2);
+            BigNumber result = bigNum1.add(bigNum2);
+            txtResult.setText(result.toBigString());
         } catch (Exception e) {
+            e.printStackTrace();
             setErrorMessage();
         }
     }
