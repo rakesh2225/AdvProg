@@ -14,6 +14,7 @@ import javafx.fxml.Initializable;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
+import javafx.scene.control.Tooltip;
 
 /**
  *
@@ -72,10 +73,6 @@ public class FXMLDocumentController implements Initializable {
     private void validateInput() throws Exception {
         double dobNum1 = Double.parseDouble(txtNum1.getText());
         double dobNum2 = Double.parseDouble(txtNum2.getText());
-        String num1 = String.valueOf(dobNum1);
-        String num2 = String.valueOf(dobNum2);
-        txtNum1.setText(num1);
-        txtNum2.setText(num2);
     }
     
     private void setErrorMessage() {
@@ -113,8 +110,19 @@ public class FXMLDocumentController implements Initializable {
             validateInput();
             BigNumber bigNum1 = new BigNumber(txtNum1.getText());
             BigNumber bigNum2 = new BigNumber(txtNum2.getText());
-            BigNumber result = bigNum1.add(bigNum2);
-            txtResult.setText(result.toBigString());
+            BigNumber result = null;
+            if ((bigNum1.isPositive && bigNum2.isPositive)
+                || (!bigNum1.isPositive && !bigNum2.isPositive)) {
+                result = bigNum1.add(bigNum2);
+            } else if (bigNum1.isPositive && !bigNum2.isPositive) {
+                result = bigNum1.sub(bigNum2);
+            } else {
+                result = bigNum2.sub(bigNum1);
+            }
+            if (!bigNum1.isPositive && !bigNum2.isPositive) result.isPositive = false;
+            String res = result != null ? result.toBigString(true) : "";
+            txtResult.setText(res);
+            txtResult.setTooltip(new Tooltip(res));
         } catch (Exception e) {
             e.printStackTrace();
             setErrorMessage();
@@ -123,26 +131,47 @@ public class FXMLDocumentController implements Initializable {
     
     @FXML
     private void handleSubButtonAction(ActionEvent event) {
-        clearErrorMessage();
-        updateLabelOperator("-");
         try {
-            
+            clearErrorMessage();
+            updateLabelOperator("-");
+            validateInput();
+            BigNumber bigNum1 = new BigNumber(txtNum1.getText());
+            BigNumber bigNum2 = new BigNumber(txtNum2.getText());
+            bigNum2.isPositive = !bigNum2.isPositive;
+            BigNumber result = null;
+            if ((bigNum1.isPositive && !bigNum2.isPositive)
+                    || (!bigNum1.isPositive && bigNum2.isPositive)) {
+                result = bigNum1.sub(bigNum2);
+            } else {
+                result = bigNum1.add(bigNum2);
+            }
+            String res = result != null ? result.toBigString(true) : "";
+            txtResult.setText(res);
+            txtResult.setTooltip(new Tooltip(res));
         } catch (Exception e) {
+            e.printStackTrace();
             setErrorMessage();
-        }        
+        }      
     }
     
     @FXML
     private void handleMulButtonAction(ActionEvent event) {
-        clearErrorMessage();
-        updateLabelOperator("*");
-        try {
-            
-        } catch (Exception e) {
-            setErrorMessage();
-        } 
+            clearErrorMessage();
+            updateLabelOperator("*");
+            try {
+                validateInput();
+                BigNumber bigNum1 = new BigNumber(txtNum1.getText());
+                BigNumber bigNum2 = new BigNumber(txtNum2.getText());
+                BigNumber result = bigNum1.mul(bigNum2);
+                String res = result != null ? result.toBigString(true) : "";
+                txtResult.setText(res);
+                txtResult.setTooltip(new Tooltip(res));
+            } catch (Exception e) {
+                e.printStackTrace();
+                setErrorMessage();
+            }
     }
-    
+
     @FXML
     private void handleGreaterButtonAction(ActionEvent event) throws Exception {
             clearErrorMessage();
@@ -151,7 +180,9 @@ public class FXMLDocumentController implements Initializable {
                 validateInput();
                 BigNumber bigNum1 = new BigNumber(txtNum1.getText());
                 BigNumber bigNum2 = new BigNumber(txtNum2.getText());
-                txtResult.setText(String.valueOf(bigNum1.compare(bigNum2) > 0).toUpperCase());
+                String res = String.valueOf(bigNum1.compare(bigNum2, true, false) > 0).toUpperCase();
+                txtResult.setText(res);
+                txtResult.setTooltip(new Tooltip(res));
             } catch (Exception e) {
                 e.printStackTrace();
                 setErrorMessage();
@@ -166,7 +197,9 @@ public class FXMLDocumentController implements Initializable {
                 validateInput();
                 BigNumber bigNum1 = new BigNumber(txtNum1.getText());
                 BigNumber bigNum2 = new BigNumber(txtNum2.getText());
-                txtResult.setText(String.valueOf(bigNum1.compare(bigNum2) < 0).toUpperCase());
+                String res = String.valueOf(bigNum1.compare(bigNum2, true, false) < 0).toUpperCase();
+                txtResult.setText(res);
+                txtResult.setTooltip(new Tooltip(res));
             } catch (Exception e) {
                 e.printStackTrace();
                 setErrorMessage();
@@ -181,7 +214,9 @@ public class FXMLDocumentController implements Initializable {
                 validateInput();
                 BigNumber bigNum1 = new BigNumber(txtNum1.getText());
                 BigNumber bigNum2 = new BigNumber(txtNum2.getText());
-                txtResult.setText(String.valueOf(bigNum1.compare(bigNum2) == 0).toUpperCase());
+                String res = String.valueOf(bigNum1.compare(bigNum2, true, false) == 0).toUpperCase();
+                txtResult.setText(res);
+                txtResult.setTooltip(new Tooltip(res));
             } catch (Exception e) {
                 e.printStackTrace();
                 setErrorMessage();
@@ -193,5 +228,6 @@ public class FXMLDocumentController implements Initializable {
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
     }    
+    
     
 }

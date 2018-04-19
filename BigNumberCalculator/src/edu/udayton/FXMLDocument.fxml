@@ -19,9 +19,15 @@
             <Font name="Calibri" size="15.0" />
          </font></TextField>
       <Label fx:id="lblNum2" layoutX="22.0" layoutY="66.0" text="Number 2:" />
-      <TextField fx:id="txtNum2" layoutX="95.0" layoutY="59.0" prefHeight="28.0" prefWidth="168.0" />
+      <TextField fx:id="txtNum2" layoutX="95.0" layoutY="59.0" prefHeight="28.0" prefWidth="168.0">
+         <font>
+            <Font name="Calibri" size="15.0" />
+         </font></TextField>
       <Label fx:id="lblResult" layoutX="22.0" layoutY="105.0" text="Result:" />
-      <TextField fx:id="txtResult" disable="true" editable="false" layoutX="95.0" layoutY="98.0" prefHeight="28.0" prefWidth="168.0" />
+      <TextField fx:id="txtResult" disable="true" editable="false" layoutX="95.0" layoutY="98.0" prefHeight="28.0" prefWidth="168.0">
+         <font>
+            <Font name="Calibri Bold" size="15.0" />
+         </font></TextField>
       <Button fx:id="btnAdd" layoutX="102.0" layoutY="175.0" mnemonicParsing="false" onAction="#handleAddButtonAction" prefHeight="37.0" prefWidth="47.0" text="+">
          <font>
             <Font name="System Bold" size="16.0" />

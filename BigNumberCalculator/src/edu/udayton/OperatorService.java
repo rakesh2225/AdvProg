@@ -25,6 +25,6 @@ public class OperatorService {
             dll.setFirst(node);
         }
         return dll;
-    }    
+    }
     
 }

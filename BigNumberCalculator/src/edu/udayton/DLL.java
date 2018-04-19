@@ -44,4 +44,25 @@ public class DLL {
         node.prev = temp;
     }
     
+    public int insertAtIndex(Node node, int index) {
+        if (index < 0 || (first == null && index > 0)) {
+            return - 1;
+        }
+        int i = 0;
+        if (index == 0) {
+            node.next = first;
+            first.prev = node;
+            first = node;
+        }
+        for (Node cur = first; cur != null; cur = cur.next, i++) {
+            if (i + 1== index) {
+                node.next = cur.next;
+                node.prev = cur;
+                cur.next = node;
+                return 1;
+            }
+        }
+        return -1;
+    }
+    
 }
