@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="317.0" prefWidth="281.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.udayton.FXMLDocumentController">
+    <children>
+        <Label fx:id="lblNum1" layoutX="22.0" layoutY="22.0" minHeight="16" minWidth="69" prefHeight="25.0" prefWidth="75.0" text="Number 1:" />
+      <Button fx:id="btnQuit" layoutX="102.0" layoutY="257.0" mnemonicParsing="false" onAction="#handleQuitButtonAction" prefHeight="37.0" prefWidth="99.0" text="Quit">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Button>
+      <TextField fx:id="txtNum1" layoutX="94.0" layoutY="20.0" prefHeight="25.0" prefWidth="168.0">
+         <font>
+            <Font name="Calibri" size="15.0" />
+         </font></TextField>
+      <Label fx:id="lblNum2" layoutX="22.0" layoutY="66.0" text="Number 2:" />
+      <TextField fx:id="txtNum2" layoutX="95.0" layoutY="59.0" prefHeight="28.0" prefWidth="168.0">
+         <font>
+            <Font name="Calibri" size="15.0" />
+         </font></TextField>
+      <Label fx:id="lblResult" layoutX="22.0" layoutY="105.0" text="Result:" />
+      <TextField fx:id="txtResult" disable="true" editable="false" layoutX="95.0" layoutY="98.0" prefHeight="28.0" prefWidth="168.0">
+         <font>
+            <Font name="Calibri Bold" size="15.0" />
+         </font></TextField>
+      <Button fx:id="btnAdd" layoutX="102.0" layoutY="175.0" mnemonicParsing="false" onAction="#handleAddButtonAction" prefHeight="37.0" prefWidth="47.0" text="+">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font></Button>
+      <Button fx:id="btnSub" layoutX="154.0" layoutY="175.0" mnemonicParsing="false" onAction="#handleSubButtonAction" prefHeight="37.0" prefWidth="47.0" text="-">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font></Button>
+      <Button fx:id="btnMul" layoutX="205.0" layoutY="175.0" mnemonicParsing="false" onAction="#handleMulButtonAction" prefHeight="37.0" prefWidth="47.0" text="x">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font></Button>
+      <Button fx:id="btnGrt" layoutX="103.0" layoutY="216.0" mnemonicParsing="false" onAction="#handleGreaterButtonAction" prefHeight="37.0" prefWidth="47.0" text="&gt;">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font></Button>
+      <Button fx:id="btnLess" layoutX="154.0" layoutY="216.0" mnemonicParsing="false" onAction="#handleLessButtonAction" prefHeight="37.0" prefWidth="47.0" text="&lt;">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font></Button>
+      <Button fx:id="btnEqls" layoutX="205.0" layoutY="216.0" mnemonicParsing="false" onAction="#handleEqualButtonAction" prefHeight="37.0" prefWidth="47.0" text="==">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font></Button>
+      <Label fx:id="lblOptr" alignment="CENTER" layoutX="27.0" layoutY="211.0" prefHeight="51.0" prefWidth="52.0" style="-fx-background-color: mistyrose;">
+         <font>
+            <Font name="System Bold" size="35.0" />
+         </font></Label>
+      <Label fx:id="errMsg" layoutX="116.0" layoutY="136.0" prefHeight="25.0" prefWidth="123.0">
+         <font>
+            <Font name="Calibri" size="16.0" />
+         </font></Label>
+      <Button fx:id="btnClear" layoutX="205.0" layoutY="257.0" mnemonicParsing="false" onAction="#handleClearButtonAction" prefHeight="37.0" prefWidth="47.0" text="CE">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Button>
+    </children>
+</AnchorPane>
