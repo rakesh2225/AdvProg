@@ -231,8 +231,62 @@ public class BigNumber {
         } 
         return new BigNumber(result, false);
     }
+        
+    private void format(BigNumber num) {
+        boolean numStart = false;
+        for (Node cur = this.digits.getFirst(); cur != null && !".".equals(String.valueOf(cur.ele)); cur = cur.next) {
+            if (!numStart && "0".equals(String.valueOf(cur.ele)) && (!".".equals(cur.next.ele))) {
+                cur.prev = null;
+                this.numLen--;
+                cur.next.prev = null;
+                this.decimalPointPosition--;
+                this.digits.setFirst(cur.next);
+            } else {
+                break;
+            }
+        }
+        numStart = false;
+        for (Node cur = this.digits.getLast(); cur != null && !".".equals(String.valueOf(cur.ele)); cur = cur.prev) {
+            if (!numStart && "0".equals(String.valueOf(cur.ele)) && (!".".equals(cur.prev.ele))) {
+                cur.next = null;
+                this.numLen--;
+                cur.prev.next = null;
+                this.digits.setLast(cur.prev);
+            } else {
+                break;
+            }
+        }
+        numStart = false;
+        for (Node cur = num.digits.getFirst(); cur != null && !".".equals(String.valueOf(cur.ele)); cur = cur.next) {
+            if (!numStart && "0".equals(String.valueOf(cur.ele)) && (!".".equals(cur.next.ele))) {
+                cur.prev = null;
+                num.numLen--;
+                cur.next.prev = null;
+                num.decimalPointPosition--;
+                num.digits.setFirst(cur.next);
+            } else {
+                break;
+            }
+        }
+        numStart = false;
+        for (Node cur = num.digits.getLast(); cur != null && !".".equals(String.valueOf(cur.ele)); cur = cur.prev) {
+            if (!numStart && "0".equals(String.valueOf(cur.ele)) && (!".".equals(cur.prev.ele))) {
+                cur.next = null;
+                num.numLen--;
+                cur.prev.next = null;
+                num.digits.setLast(cur.prev);
+            } else {
+                break;
+            }
+        }
+    }
 
     public boolean isEqualTo(BigNumber num) {
+        this.format(num);
+        if (this.numLen == 1 && num.numLen == 1
+                && this.decimalPointPosition == num.decimalPointPosition) {
+            return true;
+        }
         if (this.numLen != num.numLen) {
             return false;
         } else if ((this.isPositive && !num.isPositive)
