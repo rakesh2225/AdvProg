@@ -5,8 +5,9 @@ import java.util.Stack;
 public class BalancedBrackets {
 
     public static void main(String[] args) {
-        System.out.println(new BalancedBrackets().isValid("(]"));
+        System.out.println(new BalancedBrackets().isValid("([])"));
     }
+
     public boolean isValid(String s) {
         if (s == null || s.isEmpty()) {
             return true;
