@@ -1,3 +1,7 @@
 /BigNumberCalculator/nbproject/private/
 /BigNumberCalculator/build/
 /BigNumberCalculator/dist/
+.idea
+out
+DataStructures.iml
+
