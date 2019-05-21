@@ -1,0 +1,1 @@
+void showhistory (FILE* f);

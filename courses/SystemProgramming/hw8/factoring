@@ -1,0 +1,26 @@
+args=" "$*
+echo args:$args:
+
+options=${args%% ([a-zA-Z0-9]|/)*}
+echo $options
+options=$(echo $options | sed 's/^[ ]//')
+echo $options
+
+files=${args# $options}
+
+print - options:$options:
+print files:$files:
+
+for option in $options
+do
+   case $option in
+     -d)
+        print "found a -d";;
+     -f | -q)
+        print - "-f or -q" ;;
+     *)
+        print "some other options" ;;
+   esac
+done
+
+exit 0

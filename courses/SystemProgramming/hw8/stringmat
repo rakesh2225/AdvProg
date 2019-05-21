@@ -1,0 +1,7 @@
+#!/usr/bin/env ksh
+
+path=$PATH
+print ${path#*:}
+print ${path##*:}
+print ${path#:*}
+print ${path##:*}

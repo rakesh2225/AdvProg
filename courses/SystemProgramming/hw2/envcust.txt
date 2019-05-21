@@ -1,0 +1,172 @@
+#*******************************************************************************
+#
+#      filename:  envcust.txt
+#
+#   description:  An ASCII text file containing various information about
+#                 the configuration of a Linux account.
+#
+#        author:  Sunkaralakunta Venkatarama Reddy, Rakesh
+#      login id:  FA_16_CPS444_11
+#
+#         class:  CPS 444/544
+#    instructor:  Perugini
+#    assignment:  Homework #3
+#
+#      assigned:  January 23, 2019
+#           due:  February 01, 2019
+#
+#*******************************************************************************
+
+1.
+a) Added "set is" line at the beginning of the file
+b) So that I see the searched pattern in the file as I typed so far to search
+c) .vimrc
+d) I added this property in .vimrc so that I have this feature every time I 
+   login or open a new shell.
+
+2.
+a) Added "set cul" line at the beginning of the file
+2) So that I can debug the issues in the huge and cluttered log files easily.
+  This will add a underline for the entire row where the cursor is placed.
+c) .vimrc
+d) I added this property in .vimrc so that I have this feature every time I 
+   login or open a new shell.
+
+3.
+a) Added "set ic" line at the beginning of the file
+b) So that I can search for a string in a file with case-insensitivity.
+c) .vimrc
+d) Because I wanted it to be loaded every time I login or open a new shell.
+
+4.
+a) Added "set spell" line at the beginning of the file
+b) So that I can know the misspelled words in a file when using vi.
+c) .vimrc
+d) Because I wanted it to be loaded every time I login or open a new shell.
+
+5.
+a) Added my plans in .plan files
+b) So that it provides information about my plans if some one finger my username
+c) .plan
+d) Because I wanted it to be loaded every time I login or open a new shell.
+
+6.
+a) Added my prject details ".project" file
+b) So that it provides information about my projects if some one finger me.
+c) .project
+d) Because I wanted it to be loaded every time I login or open a new shell.
+
+7.
+a) Added "set nu" line at the beginning of the file
+b) So that vim displays line numbers when a file is opened.
+c) .vimrc
+d) Because I wanted it to be loaded every time I login or open a new shell.
+
+8.
+a) Added 'echo "Your login shell: $SHELL"' at the end of the file
+b) So the user will know his login shell.
+c) .kshrc
+d) Because I wanted it to be loaded every time I login or open a new shell.
+
+9.
+a) Added "date" command at the end of the file
+b) To print the current login date and time in the console.
+c) .kshrc
+d) Because I wanted it to be loaded every time I login or open a new shell.
+
+10.
+a) Added "cd homeworks" at the end of the file
+b) To have "/home/SP_19_CPS444_11/homeworks" as my landing directory.
+c) .kshrc
+d) Because I wanted it to be loaded every time I login or open a new shell.
+
+11.
+a) Added 'alias -x dd="rm -rfi"' line as alias
+b) So that I can delete directories with just 'dd <dir_name>' instead of typing
+   'rm -rf <dir_name>' and also have an interactive recursive folder deletion.
+c).kshrc
+d) Because I wanted it to be loaded every time I login or open new shell.
+
+12.
+a) Added 'alias -x b="cd .."' as alias.
+b) So that I can navigate to parent directories easily by just typing b 
+  instead of "cd ..".
+c) .kshrc
+d) Because I wanted it to be loaded every time I login or open new shell.
+
+13.
+a) Added 'alias -x hw2="cd /home/SP_19_CPS444_11/homeworks/hw2"' as alias
+b) So that I can navigate to hw1 directory when I login and just type "hw1"
+   I dont have to type the full path to hw2 as shown in the alias.
+c) .kshrc
+d) Because I wanted it to be loaded every time I login or open new shell.
+ 
+14.
+a) Added 'alias -x b2="cd ../.."' 'alias -x b3="cd ../../.."' 
+   and 'alias -x b4="cd ../../../.."'
+b) So that I can navigate to parent directories easily. I do not have to 
+   nest "../" to navigate multiple layers 
+c) .kshrc
+d) Because I wanted it to be loaded every time I login or open new shell.
+
+15.
+a) Added 'alias -x openports="netstat -tualnp"'
+b) So that I can get all the open ports easily
+c) .kshrc
+d) Because I wanted it to be loaded every time I login or open new shell.
+
+
+--> Start of .kshrc  <--
+
+  set -o  trackall
+  set -o ignoreeof
+  set tabstop 3
+  #set -o cul on
+  #set -o vi
+  #set -o noclobber
+   
+  # -x is deprecated and has no effect
+  alias -x more="less"
+  unalias ls
+  alias -x ls="ls --color=auto -F"
+  alias -x l="ls -l"
+  alias -x ll="ls -l"
+  alias -x vi="vim"
+  alias -x b="cd .."
+  alias -x b2="cd ../.."
+  alias -x b3="cd ../../.."
+  alias -x b4="cd ../../../.."
+  alias -x openports="netstat -tualnp"
+  alias -x dd="rm -rfi"
+  alias -x hw2="cd /home/SP_19_CPS444_11/homeworks/hw2"
+  #alias -x print1="enscript -d LaserJetP4015"
+  date
+  echo "Current shell $SHELL"
+  . $HOME/.profile
+
+--> end of .kshrc <--
+
+
+--> start of .vimrc <--
+
+  set is ic nu ruler showmode showmatch ts=3 noexpandtab bg=dark
+  syntax on
+  colorscheme desert
+  map ^T <CR>:!aspell --dont-backup check %<CR>:e! %<CR>
+  nmap <C-J> vipgq
+
+--> end of .vimrc <--
+
+--> start of .project <--
+
+Do Homework 2
+1. learn about linux shell commands and to work with .profile and .kshrc
+2. Implement env command in GoLang
+--> end of .project <--
+
+--> start of .plan <--
+
+1. Understanding Linux shells, kernel, basic commands and utilities.
+2. Learn to code in GoLang
+
+--> end of .plan <--

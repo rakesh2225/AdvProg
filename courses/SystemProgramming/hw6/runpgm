@@ -1,0 +1,63 @@
+#!/usr/bin/env ksh
+
+integer num=$2
+integer continued_num=$3
+integer i=0
+prefix=./
+
+#minor bug in i, say barrier size is 5,
+#and run 2 and then 3
+
+if [[ $1 = 'clean' ]]; then
+   if ps | awk '{print $4}' | grep -q "barrierserver" ; then
+      killall barrierserver
+      print Just killed barrier server.
+   fi
+
+   if ps | awk '{print $4}' | grep -q "barrierclient" ; then
+      killall barrierclient
+      print Just killed barrier client.
+   fi
+   rm *.release *.request
+fi
+
+# clean up from prior execution
+if [[ $1 = 'all' ]]; then
+   if ps | awk '{print $4}' | grep -q "barrierserver" ; then
+      killall barrierserver
+      print Just killed barrier server.
+   fi
+
+   if ps | awk '{print $4}' | grep -q "barrierclient" ; then
+      killall barrierclient
+      print Just killed barrier client.
+   fi
+   rm *.release *.request
+fi
+
+if [[ $1 = 'all' ]]; then
+   print Just started barrier server.
+   $prefix/barrierserver/barrierserver barrier $num &
+
+   sleep 3
+
+   while (( i < num )); do
+      #echo $i
+      $prefix/barrierclient/barrierclient $i &
+      let i='i+1'
+   done
+
+elif [[ $1 = 'clients' ]]; then
+   while (( i < num )); do
+      print Just started barrier client $i.
+      $prefix/barrierclient/barrierclient $continued_num &
+     let i='i+1'
+   done
+
+elif [[ $1 = 'server' ]]; then
+   $prefix/barrierserver/barrierserver barrier $num &
+   print Just started barrier server.
+fi
+
+exit 0
+

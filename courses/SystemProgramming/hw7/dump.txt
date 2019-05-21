@@ -1,0 +1,5450 @@
+
+   #[1]Vote Smart
+
+   [2]
+   
+Please help us! Donate
+
+   ____________________ ____________________
+   [3]Login with Facebook
+   [4]Login with Twitter
+   (Submit) Login (Submit) Cancel
+   [5]Forgot username or password?
+   [6]Vote Smart Just The Facts
+   [7]Sign up [8]Login
+   "Experts nearly all recommend Vote Smart."
+   The New York Times
+   "Vote Smart is a bright light in an often desultory civic culture."
+   - Bill Moyers
+   "We think so highly of Vote Smart that we are distributing their
+   materials to all of our affiliates."
+   CNN
+
+   Search Form
+
+   First, enter a politician or zip code |>
+   Now, choose a category |>
+   ____________________
+   Submit
+   [Please select a politician...]
+   BIO
+   BIO
+   VOTES
+   VOTES
+   POSITIONS
+   POSITIONS
+   RATINGS
+   RATINGS
+   SPEECHES
+   SPEECHES
+   FUNDING
+   FUNDING
+
+     * [9]Offices & Officials
+     * [10]Legislation
+     * [11]Interest Groups
+     * [12]Public Statements
+     * [13]Committees
+     * [14]Leadership
+     * [15]Vetoes
+
+Officials
+
+National Congressional Officials
+
+Office Type
+
+     * Congressional down
+          + [16]Presidential
+          + [17]Congressional
+          + [18]Gubernatorial
+          + [19]State Legislative
+          + [20]Federal Judicial
+          + [21]Statewide
+          + [22]State Judicial
+          + [23]Local Executive
+          + [24]Local Legislative
+          + [25]Local Judicial
+
+State
+
+     * National down
+          + [26]National
+          + [27]Alabama
+          + [28]Alaska
+          + [29]American Samoa
+          + [30]Arizona
+          + [31]Arkansas
+          + [32]California
+          + [33]Colorado
+          + [34]Connecticut
+          + [35]Delaware
+          + [36]District of Columbia
+          + [37]Florida
+          + [38]Georgia
+          + [39]Guam
+          + [40]Hawaii
+          + [41]Idaho
+          + [42]Illinois
+          + [43]Indiana
+          + [44]Iowa
+          + [45]Kansas
+          + [46]Kentucky
+          + [47]Louisiana
+          + [48]Maine
+          + [49]Maryland
+          + [50]Massachusetts
+          + [51]Michigan
+          + [52]Minnesota
+          + [53]Mississippi
+          + [54]Missouri
+          + [55]Montana
+          + [56]National
+          + [57]Nebraska
+          + [58]Nevada
+          + [59]New Hampshire
+          + [60]New Jersey
+          + [61]New Mexico
+          + [62]New York
+          + [63]North Carolina
+          + [64]North Dakota
+          + [65]Northern Mariana Islands
+          + [66]Ohio
+          + [67]Oklahoma
+          + [68]Oregon
+          + [69]Pennsylvania
+          + [70]Puerto Rico
+          + [71]Rhode Island
+          + [72]South Carolina
+          + [73]South Dakota
+          + [74]Tennessee
+          + [75]Texas
+          + [76]Utah
+          + [77]Vermont
+          + [78]Virgin Islands
+          + [79]Virginia
+          + [80]Washington
+          + [81]West Virginia
+          + [82]Wisconsin
+          + [83]Wyoming
+
+Chamber
+
+     * All down
+          + [84]All
+          + [85]Upper
+          + [86]Lower
+
+   [87]Lamar Alexander [15691.jpg]
+
+[88]Lamar Alexander
+
+   U.S. Senate (TN)
+   Republican
+   Sr
+   [89]Michael Bennet [110942.jpg]
+
+[90]Michael Bennet
+
+   U.S. Senate (CO)
+   Democratic
+   Sr
+   [91]Richard Blumenthal [1568.jpg]
+
+[92]Richard Blumenthal
+
+   U.S. Senate (CT)
+   Democratic
+   Sr
+   [93]Roy Blunt [418.jpg]
+
+[94]Roy Blunt
+
+   U.S. Senate (MO)
+   Republican
+   Sr
+   [95]John Boozman [27958.jpg]
+
+[96]John Boozman
+
+   U.S. Senate (AR)
+   Republican
+   Sr
+   [97]Sherrod Brown [27018.jpg]
+
+[98]Sherrod Brown
+
+   U.S. Senate (OH)
+   Democratic
+   Sr
+   [99]Richard Burr [21787.jpg]
+
+[100]Richard Burr
+
+   U.S. Senate (NC)
+   Republican
+   Sr
+   [101]Ben Cardin [26888.jpg]
+
+[102]Ben Cardin
+
+   U.S. Senate (MD)
+   Democratic
+   Sr
+   [103]Tom Carper [22421.jpg]
+
+[104]Tom Carper
+
+   U.S. Senate (DE)
+   Democratic
+   Sr
+   [105]Bob Casey, Jr. [2541.jpg]
+
+[106]Bob Casey, Jr.
+
+   U.S. Senate (PA)
+   Democratic
+   Sr
+   [107]Bill Cassidy [69494.jpg]
+
+[108]Bill Cassidy
+
+   U.S. Senate (LA)
+   Republican
+   Sr
+   [109]Susan Collins [379.jpg]
+
+[110]Susan Collins
+
+   U.S. Senate (ME)
+   Republican
+   Sr
+   [111]John Cornyn [15375.jpg]
+
+[112]John Cornyn
+
+   U.S. Senate (TX)
+   Republican
+   Sr
+   [113]Catherine Cortez Masto [69579.jpg]
+
+[114]Catherine Cortez Masto
+
+   U.S. Senate (NV)
+   Democratic
+   Sr
+   [115]Mike Crapo [26830.jpg]
+
+[116]Mike Crapo
+
+   U.S. Senate (ID)
+   Republican
+   Sr
+   [117]Dick Durbin [26847.jpg]
+
+[118]Dick Durbin
+
+   U.S. Senate (IL)
+   Democratic
+   Sr
+   [119]Mike Enzi [558.jpg]
+
+[120]Mike Enzi
+
+   U.S. Senate (WY)
+   Republican
+   Sr
+   [121]Dianne Feinstein [53273.jpg]
+
+[122]Dianne Feinstein
+
+   U.S. Senate (CA)
+   Democratic
+   Sr
+   [123]Deb Fischer [41963.jpg]
+
+[124]Deb Fischer
+
+   U.S. Senate (NE)
+   Republican
+   Sr
+   [125]Lindsey Graham [21992.jpg]
+
+[126]Lindsey Graham
+
+   U.S. Senate (SC)
+   Republican
+   Sr
+   [127]Chuck Grassley [53293.jpg]
+
+[128]Chuck Grassley
+
+   U.S. Senate (IA)
+   Republican
+   Sr
+   [129]John Hoeven [41788.jpg]
+
+[130]John Hoeven
+
+   U.S. Senate (ND)
+   Republican
+   Sr
+   [131]Jim Inhofe [27027.jpg]
+
+[132]Jim Inhofe
+
+   U.S. Senate (OK)
+   Republican
+   Sr
+   [133]Johnny Isakson [1721.jpg]
+
+[134]Johnny Isakson
+
+   U.S. Senate (GA)
+   Republican
+   Sr
+   [135]Ron Johnson [126217.jpg]
+
+[136]Ron Johnson
+
+   U.S. Senate (WI)
+   Republican
+   Sr
+   [137]Amy Klobuchar [65092.jpg]
+
+[138]Amy Klobuchar
+
+   U.S. Senate (MN)
+   Democratic
+   Sr
+   [139]Patrick Leahy [53353.jpg]
+
+[140]Patrick Leahy
+
+   U.S. Senate (VT)
+   Democratic
+   Sr
+   [141]Mike Lee [66395.jpg]
+
+[142]Mike Lee
+
+   U.S. Senate (UT)
+   Republican
+   Sr
+   [143]Joe Manchin III [7547.jpg]
+
+[144]Joe Manchin III
+
+   U.S. Senate (WV)
+   Democratic
+   Sr
+   [145]Mitch McConnell [53298.jpg]
+
+[146]Mitch McConnell
+
+   U.S. Senate (KY)
+   Republican
+   Sr
+   [147]Bob Menendez [26961.jpg]
+
+[148]Bob Menendez
+
+   U.S. Senate (NJ)
+   Democratic
+   Sr
+   [149]Lisa Murkowski [15841.jpg]
+
+[150]Lisa Murkowski
+
+   U.S. Senate (AK)
+   Republican
+   Sr
+   [151]Patty Murray [53358.jpg]
+
+[152]Patty Murray
+
+   U.S. Senate (WA)
+   Democratic
+   Sr
+   [153]Jack Reed [27060.jpg]
+
+[154]Jack Reed
+
+   U.S. Senate (RI)
+   Democratic
+   Sr
+   [155]Pat Roberts [26866.jpg]
+
+[156]Pat Roberts
+
+   U.S. Senate (KS)
+   Republican
+   Sr
+   [157]Marco Rubio [1601.jpg]
+
+[158]Marco Rubio
+
+   U.S. Senate (FL)
+   Republican
+   Sr
+   [159]Brian Schatz [17852.jpg]
+
+[160]Brian Schatz
+
+   U.S. Senate (HI)
+   Democratic
+   Sr
+   [161]Chuck Schumer [26976.jpg]
+
+[162]Chuck Schumer
+
+   U.S. Senate (NY)
+   Democratic
+   Sr
+   [163]Jeanne Shaheen [1663.jpg]
+
+[164]Jeanne Shaheen
+
+   U.S. Senate (NH)
+   Democratic
+   Sr
+   [165]Richard Shelby [53266.jpg]
+
+[166]Richard Shelby
+
+   U.S. Senate (AL)
+   Republican
+   Sr
+   [167]Kyrsten Sinema [28338.jpg]
+
+[168]Kyrsten Sinema
+
+   U.S. Senate (AZ)
+   Democratic
+   Sr
+   [169]Debbie Stabenow [515.jpg]
+
+[170]Debbie Stabenow
+
+   U.S. Senate (MI)
+   Democratic
+   Sr
+   [171]Jon Tester [20928.jpg]
+
+[172]Jon Tester
+
+   U.S. Senate (MT)
+   Democratic
+   Sr
+   [173]John Thune [398.jpg]
+
+[174]John Thune
+
+   U.S. Senate (SD)
+   Republican
+   Sr
+   [175]Tom Udall [22658.jpg]
+
+[176]Tom Udall
+
+   U.S. Senate (NM)
+   Democratic
+   Sr
+   [177]Mark Warner [535.jpg]
+
+[178]Mark Warner
+
+   U.S. Senate (VA)
+   Democratic
+   Sr
+   [179]Elizabeth Warren [141272.jpg]
+
+[180]Elizabeth Warren
+
+   U.S. Senate (MA)
+   Democratic
+   Sr
+   [181]Roger Wicker [21926.jpg]
+
+[182]Roger Wicker
+
+   U.S. Senate (MS)
+   Republican
+   Sr
+   [183]Ron Wyden [27036.jpg]
+
+[184]Ron Wyden
+
+   U.S. Senate (OR)
+   Democratic
+   Sr
+   [185]Todd Young [120345.jpg]
+
+[186]Todd Young
+
+   U.S. Senate (IN)
+   Republican
+   Sr
+   [187]Tammy Baldwin [3470.jpg]
+
+[188]Tammy Baldwin
+
+   U.S. Senate (WI)
+   Democratic
+   Jr
+   [189]John Barrasso [52662.jpg]
+
+[190]John Barrasso
+
+   U.S. Senate (WY)
+   Republican
+   Jr
+   [191]Marsha Blackburn [25186.jpg]
+
+[192]Marsha Blackburn
+
+   U.S. Senate (TN)
+   Republican
+   Jr
+   [193]Cory Booker [76151.jpg]
+
+[194]Cory Booker
+
+   U.S. Senate (NJ)
+   Democratic
+   Jr
+   [195]Mike Braun [148564.jpg]
+
+[196]Mike Braun
+
+   U.S. Senate (IN)
+   Republican
+   Jr
+   [197]Maria Cantwell [27122.jpg]
+
+[198]Maria Cantwell
+
+   U.S. Senate (WA)
+   Democratic
+   Jr
+   [199]Shelley Capito [11701.jpg]
+
+[200]Shelley Capito
+
+   U.S. Senate (WV)
+   Republican
+   Jr
+   [201]Chris Coons [122834.jpg]
+
+[202]Chris Coons
+
+   U.S. Senate (DE)
+   Democratic
+   Jr
+   [203]Tom Cotton [135651.jpg]
+
+[204]Tom Cotton
+
+   U.S. Senate (AR)
+   Republican
+   Jr
+   [205]Kevin Cramer [444.jpg]
+
+[206]Kevin Cramer
+
+   U.S. Senate (ND)
+   Republican
+   Jr
+   [207]Ted Cruz [135705.jpg]
+
+[208]Ted Cruz
+
+   U.S. Senate (TX)
+   Republican
+   Jr
+   [209]Steve Daines [135720.jpg]
+
+[210]Steve Daines
+
+   U.S. Senate (MT)
+   Republican
+   Jr
+   [211]Tammy Duckworth [57442.jpg]
+
+[212]Tammy Duckworth
+
+   U.S. Senate (IL)
+   Democratic
+   Jr
+   [213]Joni Ernst [128583.jpg]
+
+[214]Joni Ernst
+
+   U.S. Senate (IA)
+   Republican
+   Jr
+   [215]Cory Gardner [30004.jpg]
+
+[216]Cory Gardner
+
+   U.S. Senate (CO)
+   Republican
+   Jr
+   [217]Kirsten Gillibrand [65147.jpg]
+
+[218]Kirsten Gillibrand
+
+   U.S. Senate (NY)
+   Democratic
+   Jr
+   [219]Kamala Harris [120012.jpg]
+
+[220]Kamala Harris
+
+   U.S. Senate (CA)
+   Democratic
+   Jr
+   [221]Maggie Hassan [42552.jpg]
+
+[222]Maggie Hassan
+
+   U.S. Senate (NH)
+   Democratic
+   Jr
+   [223]Josh Hawley [169716.jpg]
+
+[224]Josh Hawley
+
+   U.S. Senate (MO)
+   Republican
+   Jr
+   [225]Martin Heinrich [74517.jpg]
+
+[226]Martin Heinrich
+
+   U.S. Senate (NM)
+   Democratic
+   Jr
+   [227]Mazie Hirono [1677.jpg]
+
+[228]Mazie Hirono
+
+   U.S. Senate (HI)
+   Democratic
+   Jr
+   [229]Cindy Hyde-Smith [20784.jpg]
+
+[230]Cindy Hyde-Smith
+
+   U.S. Senate (MS)
+   Republican
+   Jr
+   [231]Doug Jones [176464.jpg]
+
+[232]Doug Jones
+
+   U.S. Senate (AL)
+   Democratic
+   Jr
+   [233]Tim Kaine [50772.jpg]
+
+[234]Tim Kaine
+
+   U.S. Senate (VA)
+   Democratic
+   Jr
+   [235]John Kennedy [35496.jpg]
+
+[236]John Kennedy
+
+   U.S. Senate (LA)
+   Republican
+   Jr
+   [237]Angus King, Jr. [22381.jpg]
+
+[238]Angus King, Jr.
+
+   U.S. Senate (ME)
+   Independent
+   Jr
+   [239]James Lankford [124938.jpg]
+
+[240]James Lankford
+
+   U.S. Senate (OK)
+   Republican
+   Jr
+   [241]Ed Markey [26900.jpg]
+
+[242]Ed Markey
+
+   U.S. Senate (MA)
+   Democratic
+   Jr
+   [243]Martha McSally [137299.jpg]
+
+[244]Martha McSally
+
+   U.S. Senate (AZ)
+   Republican
+   Jr
+   [245]Jeff Merkley [23644.jpg]
+
+[246]Jeff Merkley
+
+   U.S. Senate (OR)
+   Democratic
+   Jr
+   [247]Jerry Moran [542.jpg]
+
+[248]Jerry Moran
+
+   U.S. Senate (KS)
+   Republican
+   Jr
+   [249]Chris Murphy [17189.jpg]
+
+[250]Chris Murphy
+
+   U.S. Senate (CT)
+   Democratic
+   Jr
+   [251]Rand Paul [117285.jpg]
+
+[252]Rand Paul
+
+   U.S. Senate (KY)
+   Republican
+   Jr
+   [253]David Perdue [151330.jpg]
+
+[254]David Perdue
+
+   U.S. Senate (GA)
+   Republican
+   Jr
+   [255]Gary Peters [8749.jpg]
+
+[256]Gary Peters
+
+   U.S. Senate (MI)
+   Democratic
+   Jr
+   [257]Rob Portman [27008.jpg]
+
+[258]Rob Portman
+
+   U.S. Senate (OH)
+   Republican
+   Jr
+   [259]James Risch [2919.jpg]
+
+[260]James Risch
+
+   U.S. Senate (ID)
+   Republican
+   Jr
+   [261]Mitt Romney [21942.jpg]
+
+[262]Mitt Romney
+
+   U.S. Senate (UT)
+   Republican
+   Jr
+   [263]Jacky Rosen [169471.jpg]
+
+[264]Jacky Rosen
+
+   U.S. Senate (NV)
+   Democratic
+   Jr
+   [265]Mike Rounds [7455.jpg]
+
+[266]Mike Rounds
+
+   U.S. Senate (SD)
+   Republican
+   Jr
+   [267]Bernie Sanders [27110.jpg]
+
+[268]Bernie Sanders
+
+   U.S. Senate (VT)
+   Independent
+   Jr
+   [269]Ben Sasse [150182.jpg]
+
+[270]Ben Sasse
+
+   U.S. Senate (NE)
+   Republican
+   Jr
+   [271]Rick Scott [124204.jpg]
+
+[272]Rick Scott
+
+   U.S. Senate (FL)
+   Republican
+   Jr
+   [273]Tim Scott [11940.jpg]
+
+[274]Tim Scott
+
+   U.S. Senate (SC)
+   Republican
+   Jr
+   [275]Tina Smith [152968.jpg]
+
+[276]Tina Smith
+
+   U.S. Senate (MN)
+   Democratic
+   Jr
+   [277]Dan Sullivan [114964.jpg]
+
+[278]Dan Sullivan
+
+   U.S. Senate (AK)
+   Republican
+   Jr
+   [279]Thom Tillis [57717.jpg]
+
+[280]Thom Tillis
+
+   U.S. Senate (NC)
+   Republican
+   Jr
+   [281]Pat Toomey [24096.jpg]
+
+[282]Pat Toomey
+
+   U.S. Senate (PA)
+   Republican
+   Jr
+   [283]Chris Van Hollen, Jr. [6098.jpg]
+
+[284]Chris Van Hollen, Jr.
+
+   U.S. Senate (MD)
+   Democratic
+   Jr
+   [285]Sheldon Whitehouse [2572.jpg]
+
+[286]Sheldon Whitehouse
+
+   U.S. Senate (RI)
+   Democratic
+   Jr
+   [287]Jack Bergman [170172.jpg]
+
+[288]Jack Bergman
+
+   U.S. House (MI)
+   Republican
+   District 1
+   [289]Rob Bishop [50544.jpg]
+
+[290]Rob Bishop
+
+   U.S. House (UT)
+   Republican
+   District 1
+   [291]Suzanne Bonamici [59641.jpg]
+
+[292]Suzanne Bonamici
+
+   U.S. House (OR)
+   Democratic
+   District 1
+   [293]G.K. Butterfield, Jr. [41077.jpg]
+
+[294]G.K. Butterfield, Jr.
+
+   U.S. House (NC)
+   Democratic
+   District 1
+   [295]Bradley Byrne [27584.jpg]
+
+[296]Bradley Byrne
+
+   U.S. House (AL)
+   Republican
+   District 1
+   [297]Buddy Carter [32085.jpg]
+
+[298]Buddy Carter
+
+   U.S. House (GA)
+   Republican
+   District 1
+   [299]Edward Case [3422.jpg]
+
+[300]Edward Case
+
+   U.S. House (HI)
+   Democratic
+   District 1
+   [301]Steve Chabot [21790.jpg]
+
+[302]Steve Chabot
+
+   U.S. House (OH)
+   Republican
+   District 1
+   [303]David Cicilline [7349.jpg]
+
+[304]David Cicilline
+
+   U.S. House (RI)
+   Democratic
+   District 1
+   [305]Lacy Clay, Jr. [8967.jpg]
+
+[306]Lacy Clay, Jr.
+
+   U.S. House (MO)
+   Democratic
+   District 1
+   [307]James Comer, Jr. [35169.jpg]
+
+[308]James Comer, Jr.
+
+   U.S. House (KY)
+   Republican
+   District 1
+   [309]Rick Crawford [119208.jpg]
+
+[310]Rick Crawford
+
+   U.S. House (AR)
+   Republican
+   District 1
+   [311]Joe Cunningham [179601.jpg]
+
+[312]Joe Cunningham
+
+   U.S. House (SC)
+   Democratic
+   District 1
+   [313]Diana DeGette [561.jpg]
+
+[314]Diana DeGette
+
+   U.S. House (CO)
+   Democratic
+   District 1
+   [315]Suzan DelBene [126272.jpg]
+
+[316]Suzan DelBene
+
+   U.S. House (WA)
+   Democratic
+   District 1
+   [317]Abby Finkenauer [151127.jpg]
+
+[318]Abby Finkenauer
+
+   U.S. House (IA)
+   Democratic
+   District 1
+   [319]Brian Fitzpatrick [167708.jpg]
+
+[320]Brian Fitzpatrick
+
+   U.S. House (PA)
+   Republican
+   District 1
+   [321]Jeff Fortenberry [41929.jpg]
+
+[322]Jeff Fortenberry
+
+   U.S. House (NE)
+   Republican
+   District 1
+   [323]Russ Fulcher [33091.jpg]
+
+[324]Russ Fulcher
+
+   U.S. House (ID)
+   Republican
+   District 1
+   [325]Matt Gaetz [117101.jpg]
+
+[326]Matt Gaetz
+
+   U.S. House (FL)
+   Republican
+   District 1
+   [327]Louie Gohmert [50029.jpg]
+
+[328]Louie Gohmert
+
+   U.S. House (TX)
+   Republican
+   District 1
+   [329]Deb Haaland [149368.jpg]
+
+[330]Deb Haaland
+
+   U.S. House (NM)
+   Democratic
+   District 1
+   [331]Jim Hagedorn [146027.jpg]
+
+[332]Jim Hagedorn
+
+   U.S. House (MN)
+   Republican
+   District 1
+   [333]Andy Harris [19157.jpg]
+
+[334]Andy Harris
+
+   U.S. House (MD)
+   Republican
+   District 1
+   [335]Kevin Hern [180004.jpg]
+
+[336]Kevin Hern
+
+   U.S. House (OK)
+   Republican
+   District 1
+   [337]Trent Kelly [156389.jpg]
+
+[338]Trent Kelly
+
+   U.S. House (MS)
+   Republican
+   District 1
+   [339]Doug LaMalfa [29713.jpg]
+
+[340]Doug LaMalfa
+
+   U.S. House (CA)
+   Republican
+   District 1
+   [341]John Larson [17188.jpg]
+
+[342]John Larson
+
+   U.S. House (CT)
+   Democratic
+   District 1
+   [343]Roger Marshall [172080.jpg]
+
+[344]Roger Marshall
+
+   U.S. House (KS)
+   Republican
+   District 1
+   [345]David McKinley [117396.jpg]
+
+[346]David McKinley
+
+   U.S. House (WV)
+   Republican
+   District 1
+   [347]Richard Neal [26895.jpg]
+
+[348]Richard Neal
+
+   U.S. House (MA)
+   Democratic
+   District 1
+   [349]Donald Norcross [116277.jpg]
+
+[350]Donald Norcross
+
+   U.S. House (NJ)
+   Democratic
+   District 1
+   [351]Tom O'Halleran [28499.jpg]
+
+[352]Tom O'Halleran
+
+   U.S. House (AZ)
+   Democratic
+   District 1
+   [353]Christopher Pappas [42635.jpg]
+
+[354]Christopher Pappas
+
+   U.S. House (NH)
+   Democratic
+   District 1
+   [355]Chellie Pingree [6586.jpg]
+
+[356]Chellie Pingree
+
+   U.S. House (ME)
+   Democratic
+   District 1
+   [357]Phil Roe [65306.jpg]
+
+[358]Phil Roe
+
+   U.S. House (TN)
+   Republican
+   District 1
+   [359]Bobby Rush [26831.jpg]
+
+[360]Bobby Rush
+
+   U.S. House (IL)
+   Democratic
+   District 1
+   [361]Steve Scalise [9026.jpg]
+
+[362]Steve Scalise
+
+   U.S. House (LA)
+   Republican
+   District 1
+   [363]Bryan Steil [181289.jpg]
+
+[364]Bryan Steil
+
+   U.S. House (WI)
+   Republican
+   District 1
+   [365]Dina Titus [2629.jpg]
+
+[366]Dina Titus
+
+   U.S. House (NV)
+   Democratic
+   District 1
+   [367]Pete Visclosky [26851.jpg]
+
+[368]Pete Visclosky
+
+   U.S. House (IN)
+   Democratic
+   District 1
+   [369]Rob Wittman [58133.jpg]
+
+[370]Rob Wittman
+
+   U.S. House (VA)
+   Republican
+   District 1
+   [371]Lee Zeldin [110252.jpg]
+
+[372]Lee Zeldin
+
+   U.S. House (NY)
+   Republican
+   District 1
+   [373]Mark Amodei [12537.jpg]
+
+[374]Mark Amodei
+
+   U.S. House (NV)
+   Republican
+   District 2
+   [375]Donald Bacon [166299.jpg]
+
+[376]Donald Bacon
+
+   U.S. House (NE)
+   Republican
+   District 2
+   [377]Sanford Bishop, Jr. [26817.jpg]
+
+[378]Sanford Bishop, Jr.
+
+   U.S. House (GA)
+   Democratic
+   District 2
+   [379]Brendan Boyle [47357.jpg]
+
+[380]Brendan Boyle
+
+   U.S. House (PA)
+   Democratic
+   District 2
+   [381]Tim Burchett [24379.jpg]
+
+[382]Tim Burchett
+
+   U.S. House (TN)
+   Republican
+   District 2
+   [383]Joe Courtney [30333.jpg]
+
+[384]Joe Courtney
+
+   U.S. House (CT)
+   Democratic
+   District 2
+   [385]Angie Craig [166261.jpg]
+
+[386]Angie Craig
+
+   U.S. House (MN)
+   Democratic/Farmer/Labor
+   District 2
+   [387]Dan Crenshaw [177270.jpg]
+
+[388]Dan Crenshaw
+
+   U.S. House (TX)
+   Republican
+   District 2
+   [389]Neal Dunn [166297.jpg]
+
+[390]Neal Dunn
+
+   U.S. House (FL)
+   Republican
+   District 2
+   [391]Tulsi Gabbard [129306.jpg]
+
+[392]Tulsi Gabbard
+
+   U.S. House (HI)
+   Democratic
+   District 2
+   [393]Jared Golden [151420.jpg]
+
+[394]Jared Golden
+
+   U.S. House (ME)
+   Democratic
+   District 2
+   [395]Brett Guthrie [18829.jpg]
+
+[396]Brett Guthrie
+
+   U.S. House (KY)
+   Republican
+   District 2
+   [397]French Hill [146290.jpg]
+
+[398]French Hill
+
+   U.S. House (AR)
+   Republican
+   District 2
+   [399]George Holding [136462.jpg]
+
+[400]George Holding
+
+   U.S. House (NC)
+   Republican
+   District 2
+   [401]Jared Huffman [59849.jpg]
+
+[402]Jared Huffman
+
+   U.S. House (CA)
+   Democratic
+   District 2
+   [403]Bill Huizenga [38351.jpg]
+
+[404]Bill Huizenga
+
+   U.S. House (MI)
+   Republican
+   District 2
+   [405]Robin Kelly [33384.jpg]
+
+[406]Robin Kelly
+
+   U.S. House (IL)
+   Democratic
+   District 2
+   [407]Pete King [26968.jpg]
+
+[408]Pete King
+
+   U.S. House (NY)
+   Republican
+   District 2
+   [409]Ann Kirkpatrick [28425.jpg]
+
+[410]Ann Kirkpatrick
+
+   U.S. House (AZ)
+   Democratic
+   District 2
+   [411]Ann Kuster [122256.jpg]
+
+[412]Ann Kuster
+
+   U.S. House (NH)
+   Democratic
+   District 2
+   [413]Jim Langevin [55787.jpg]
+
+[414]Jim Langevin
+
+   U.S. House (RI)
+   Democratic
+   District 2
+   [415]Rick Larsen [56231.jpg]
+
+[416]Rick Larsen
+
+   U.S. House (WA)
+   Democratic
+   District 2
+   [417]Dave Loebsack [68964.jpg]
+
+[418]Dave Loebsack
+
+   U.S. House (IA)
+   Democratic
+   District 2
+   [419]Elaine Luria [179677.jpg]
+
+[420]Elaine Luria
+
+   U.S. House (VA)
+   Democratic
+   District 2
+   [421]Jim McGovern [552.jpg]
+
+[422]Jim McGovern
+
+   U.S. House (MA)
+   Democratic
+   District 2
+   [423]Alex Mooney [145943.jpg]
+
+[424]Alex Mooney
+
+   U.S. House (WV)
+   Republican
+   District 2
+   [425]Markwayne Mullin [135898.jpg]
+
+[426]Markwayne Mullin
+
+   U.S. House (OK)
+   Republican
+   District 2
+   [427]Joseph Neguse [151075.jpg]
+
+[428]Joseph Neguse
+
+   U.S. House (CO)
+   Democratic
+   District 2
+   [429]Mark Pocan [26238.jpg]
+
+[430]Mark Pocan
+
+   U.S. House (WI)
+   Democratic
+   District 2
+   [431]Cedric Richmond [35384.jpg]
+
+[432]Cedric Richmond
+
+   U.S. House (LA)
+   Democratic
+   District 2
+   [433]Martha Roby [71604.jpg]
+
+[434]Martha Roby
+
+   U.S. House (AL)
+   Republican
+   District 2
+   [435]Dutch Ruppersberger [36130.jpg]
+
+[436]Dutch Ruppersberger
+
+   U.S. House (MD)
+   Democratic
+   District 2
+   [437]Mike Simpson [2917.jpg]
+
+[438]Mike Simpson
+
+   U.S. House (ID)
+   Republican
+   District 2
+   [439]Chris Stewart [135930.jpg]
+
+[440]Chris Stewart
+
+   U.S. House (UT)
+   Republican
+   District 2
+   [441]Bennie Thompson [26929.jpg]
+
+[442]Bennie Thompson
+
+   U.S. House (MS)
+   Democratic
+   District 2
+   [443]Xochitl Torres Small [177978.jpg]
+
+[444]Xochitl Torres Small
+
+   U.S. House (NM)
+   Democratic
+   District 2
+   [445]Jeff Van Drew [24685.jpg]
+
+[446]Jeff Van Drew
+
+   U.S. House (NJ)
+   Democratic
+   District 2
+   [447]Ann Wagner [136083.jpg]
+
+[448]Ann Wagner
+
+   U.S. House (MO)
+   Republican
+   District 2
+   [449]Greg Walden [2979.jpg]
+
+[450]Greg Walden
+
+   U.S. House (OR)
+   Republican
+   District 2
+   [451]Jackie Walorski [34205.jpg]
+
+[452]Jackie Walorski
+
+   U.S. House (IN)
+   Republican
+   District 2
+   [453]Steven Watkins, Jr. [181200.jpg]
+
+[454]Steven Watkins, Jr.
+
+   U.S. House (KS)
+   Republican
+   District 2
+   [455]Brad Wenstrup [135326.jpg]
+
+[456]Brad Wenstrup
+
+   U.S. House (OH)
+   Republican
+   District 2
+   [457]Joe Wilson, Sr. [3985.jpg]
+
+[458]Joe Wilson, Sr.
+
+   U.S. House (SC)
+   Republican
+   District 2
+   [459]Justin Amash [105566.jpg]
+
+[460]Justin Amash
+
+   U.S. House (MI)
+   Republican
+   District 3
+   [461]Cindy Axne [179226.jpg]
+
+[462]Cindy Axne
+
+   U.S. House (IA)
+   Democratic
+   District 3
+   [463]Jim Banks [116801.jpg]
+
+[464]Jim Banks
+
+   U.S. House (IN)
+   Republican
+   District 3
+   [465]Joyce Beatty [2427.jpg]
+
+[466]Joyce Beatty
+
+   U.S. House (OH)
+   Democratic
+   District 3
+   [467]Earl Blumenauer [367.jpg]
+
+[468]Earl Blumenauer
+
+   U.S. House (OR)
+   Democratic
+   District 3
+   [469]John Curtis [123390.jpg]
+
+[470]John Curtis
+
+   U.S. House (UT)
+   Republican
+   District 3
+   [471]Sharice Davids [181201.jpg]
+
+[472]Sharice Davids
+
+   U.S. House (KS)
+   Democratic
+   District 3
+   [473]Rosa DeLauro [26788.jpg]
+
+[474]Rosa DeLauro
+
+   U.S. House (CT)
+   Democratic
+   District 3
+   [475]Jeff Duncan [47967.jpg]
+
+[476]Jeff Duncan
+
+   U.S. House (SC)
+   Republican
+   District 3
+   [477]Dwight Evans [9128.jpg]
+
+[478]Dwight Evans
+
+   U.S. House (PA)
+   Democratic
+   District 3
+   [479]Drew Ferguson [168132.jpg]
+
+[480]Drew Ferguson
+
+   U.S. House (GA)
+   Republican
+   District 3
+   [481]Chuck Fleischmann [123456.jpg]
+
+[482]Chuck Fleischmann
+
+   U.S. House (TN)
+   Republican
+   District 3
+   [483]John Garamendi [29664.jpg]
+
+[484]John Garamendi
+
+   U.S. House (CA)
+   Democratic
+   District 3
+   [485]Raul Grijalva [28253.jpg]
+
+[486]Raul Grijalva
+
+   U.S. House (AZ)
+   Democratic
+   District 3
+   [487]Michael Guest [179667.jpg]
+
+[488]Michael Guest
+
+   U.S. House (MS)
+   Republican
+   District 3
+   [489]Jaime Herrera Beutler [101907.jpg]
+
+[490]Jaime Herrera Beutler
+
+   U.S. House (WA)
+   Republican
+   District 3
+   [491]Clay Higgins [174484.jpg]
+
+[492]Clay Higgins
+
+   U.S. House (LA)
+   Republican
+   District 3
+   [493]Andy Kim [179640.jpg]
+
+[494]Andy Kim
+
+   U.S. House (NJ)
+   Democratic
+   District 3
+   [495]Ron Kind [630.jpg]
+
+[496]Ron Kind
+
+   U.S. House (WI)
+   Democratic
+   District 3
+   [497]Susie Lee [169344.jpg]
+
+[498]Susie Lee
+
+   U.S. House (NV)
+   Democratic
+   District 3
+   [499]Daniel Lipinski [33692.jpg]
+
+[500]Daniel Lipinski
+
+   U.S. House (IL)
+   Democratic
+   District 3
+   [501]Frank Lucas [27032.jpg]
+
+[502]Frank Lucas
+
+   U.S. House (OK)
+   Republican
+   District 3
+   [503]Blaine Luetkemeyer [20400.jpg]
+
+[504]Blaine Luetkemeyer
+
+   U.S. House (MO)
+   Republican
+   District 3
+   [505]Ben Lujan, Jr. [102842.jpg]
+
+[506]Ben Lujan, Jr.
+
+   U.S. House (NM)
+   Democratic
+   District 3
+   [507]Carol Miller [52123.jpg]
+
+[508]Carol Miller
+
+   U.S. House (WV)
+   Republican
+   District 3
+   [509]Dean Phillips [181357.jpg]
+
+[510]Dean Phillips
+
+   U.S. House (MN)
+   Democratic/Farmer/Labor
+   District 3
+   [511]Mike Rogers [5705.jpg]
+
+[512]Mike Rogers
+
+   U.S. House (AL)
+   Republican
+   District 3
+   [513]John Sarbanes [66575.jpg]
+
+[514]John Sarbanes
+
+   U.S. House (MD)
+   Democratic
+   District 3
+   [515]Bobby Scott [27117.jpg]
+
+[516]Bobby Scott
+
+   U.S. House (VA)
+   Democratic
+   District 3
+   [517]Adrian Smith [21284.jpg]
+
+[518]Adrian Smith
+
+   U.S. House (NE)
+   Republican
+   District 3
+   [519]Thomas Suozzi [92111.jpg]
+
+[520]Thomas Suozzi
+
+   U.S. House (NY)
+   Democratic
+   District 3
+   [521]Van Taylor [147737.jpg]
+
+[522]Van Taylor
+
+   U.S. House (TX)
+   Republican
+   District 3
+   [523]Scott Tipton [65403.jpg]
+
+[524]Scott Tipton
+
+   U.S. House (CO)
+   Republican
+   District 3
+   [525]Lori Trahan [182310.jpg]
+
+[526]Lori Trahan
+
+   U.S. House (MA)
+   Democratic
+   District 3
+   [527]Steve Womack [71815.jpg]
+
+[528]Steve Womack
+
+   U.S. House (AR)
+   Republican
+   District 3
+   [529]John Yarmuth [58579.jpg]
+
+[530]John Yarmuth
+
+   U.S. House (KY)
+   Democratic
+   District 3
+   [531]Ted Yoho [137622.jpg]
+
+[532]Ted Yoho
+
+   U.S. House (FL)
+   Republican
+   District 3
+   [533]Robert Aderholt [441.jpg]
+
+[534]Robert Aderholt
+
+   U.S. House (AL)
+   Republican
+   District 4
+   [535]Jim Baird [86013.jpg]
+
+[536]Jim Baird
+
+   U.S. House (IN)
+   Republican
+   District 4
+   [537]Anthony Brown [19344.jpg]
+
+[538]Anthony Brown
+
+   U.S. House (MD)
+   Democratic
+   District 4
+   [539]Ken Buck [125319.jpg]
+
+[540]Ken Buck
+
+   U.S. House (CO)
+   Republican
+   District 4
+   [541]Tom Cole [46034.jpg]
+
+[542]Tom Cole
+
+   U.S. House (OK)
+   Republican
+   District 4
+   [543]Madeleine Dean [136484.jpg]
+
+[544]Madeleine Dean
+
+   U.S. House (PA)
+   Democratic
+   District 4
+   [545]Peter DeFazio [27037.jpg]
+
+[546]Peter DeFazio
+
+   U.S. House (OR)
+   Democratic
+   District 4
+   [547]Scott DesJarlais [123473.jpg]
+
+[548]Scott DesJarlais
+
+   U.S. House (TN)
+   Republican
+   District 4
+   [549]Ron Estes [125031.jpg]
+
+[550]Ron Estes
+
+   U.S. House (KS)
+   Republican
+   District 4
+   [551]Jesus Garcia [6261.jpg]
+
+[552]Jesus Garcia
+
+   U.S. House (IL)
+   Democratic
+   District 4
+   [553]Paul Gosar [123491.jpg]
+
+[554]Paul Gosar
+
+   U.S. House (AZ)
+   Republican
+   District 4
+   [555]Vicky Hartzler [8783.jpg]
+
+[556]Vicky Hartzler
+
+   U.S. House (MO)
+   Republican
+   District 4
+   [557]Jim Himes [106744.jpg]
+
+[558]Jim Himes
+
+   U.S. House (CT)
+   Democratic
+   District 4
+   [559]Steven Horsford [44064.jpg]
+
+[560]Steven Horsford
+
+   U.S. House (NV)
+   Democratic
+   District 4
+   [561]Hank Johnson, Jr. [68070.jpg]
+
+[562]Hank Johnson, Jr.
+
+   U.S. House (GA)
+   Democratic
+   District 4
+   [563]Mike Johnson [156097.jpg]
+
+[564]Mike Johnson
+
+   U.S. House (LA)
+   Republican
+   District 4
+   [565]Jim Jordan [8158.jpg]
+
+[566]Jim Jordan
+
+   U.S. House (OH)
+   Republican
+   District 4
+   [567]Joe Kennedy III [141275.jpg]
+
+[568]Joe Kennedy III
+
+   U.S. House (MA)
+   Democratic
+   District 4
+   [569]Steve King [10853.jpg]
+
+[570]Steve King
+
+   U.S. House (IA)
+   Republican
+   District 4
+   [571]Thomas Massie [132068.jpg]
+
+[572]Thomas Massie
+
+   U.S. House (KY)
+   Republican
+   District 4
+   [573]Ben McAdams [117512.jpg]
+
+[574]Ben McAdams
+
+   U.S. House (UT)
+   Democratic
+   District 4
+   [575]Tom McClintock [9715.jpg]
+
+[576]Tom McClintock
+
+   U.S. House (CA)
+   Republican
+   District 4
+   [577]Betty McCollum [3812.jpg]
+
+[578]Betty McCollum
+
+   U.S. House (MN)
+   Democratic
+   District 4
+   [579]Donald McEachin [8230.jpg]
+
+[580]Donald McEachin
+
+   U.S. House (VA)
+   Democratic
+   District 4
+   [581]John Moolenaar [37676.jpg]
+
+[582]John Moolenaar
+
+   U.S. House (MI)
+   Republican
+   District 4
+   [583]Gwen Moore [3457.jpg]
+
+[584]Gwen Moore
+
+   U.S. House (WI)
+   Democratic
+   District 4
+   [585]Dan Newhouse [51522.jpg]
+
+[586]Dan Newhouse
+
+   U.S. House (WA)
+   Republican
+   District 4
+   [587]Steven Palazzo [69521.jpg]
+
+[588]Steven Palazzo
+
+   U.S. House (MS)
+   Republican
+   District 4
+   [589]David Price [119.jpg]
+
+[590]David Price
+
+   U.S. House (NC)
+   Democratic
+   District 4
+   [591]John Ratcliffe [147381.jpg]
+
+[592]John Ratcliffe
+
+   U.S. House (TX)
+   Republican
+   District 4
+   [593]Kathleen Rice [127653.jpg]
+
+[594]Kathleen Rice
+
+   U.S. House (NY)
+   Democratic
+   District 4
+   [595]John Rutherford [172542.jpg]
+
+[596]John Rutherford
+
+   U.S. House (FL)
+   Republican
+   District 4
+   [597]Chris Smith [26952.jpg]
+
+[598]Chris Smith
+
+   U.S. House (NJ)
+   Republican
+   District 4
+   [599]William Timmons [168923.jpg]
+
+[600]William Timmons
+
+   U.S. House (SC)
+   Republican
+   District 4
+   [601]Bruce Westerman [119120.jpg]
+
+[602]Bruce Westerman
+
+   U.S. House (AR)
+   Republican
+   District 4
+   [603]Ralph Abraham [155414.jpg]
+
+[604]Ralph Abraham
+
+   U.S. House (LA)
+   Republican
+   District 5
+   [605]Andy Biggs [28088.jpg]
+
+[606]Andy Biggs
+
+   U.S. House (AZ)
+   Republican
+   District 5
+   [607]Mo Brooks [121610.jpg]
+
+[608]Mo Brooks
+
+   U.S. House (AL)
+   Republican
+   District 5
+   [609]Susan Brooks [135988.jpg]
+
+[610]Susan Brooks
+
+   U.S. House (IN)
+   Republican
+   District 5
+   [611]Katherine Clark [35858.jpg]
+
+[612]Katherine Clark
+
+   U.S. House (MA)
+   Democratic
+   District 5
+   [613]Emanuel Cleaver II [39507.jpg]
+
+[614]Emanuel Cleaver II
+
+   U.S. House (MO)
+   Democratic
+   District 5
+   [615]Jim Cooper [48891.jpg]
+
+[616]Jim Cooper
+
+   U.S. House (TN)
+   Democratic
+   District 5
+   [617]Virginia Foxx [6051.jpg]
+
+[618]Virginia Foxx
+
+   U.S. House (NC)
+   Republican
+   District 5
+   [619]Lance Gooden [116935.jpg]
+
+[620]Lance Gooden
+
+   U.S. House (TX)
+   Republican
+   District 5
+   [621]Joshua Gottheimer [169202.jpg]
+
+[622]Joshua Gottheimer
+
+   U.S. House (NJ)
+   Democratic
+   District 5
+   [623]Jahana Hayes [181744.jpg]
+
+[624]Jahana Hayes
+
+   U.S. House (CT)
+   Democratic
+   District 5
+   [625]Kendra Horn [180018.jpg]
+
+[626]Kendra Horn
+
+   U.S. House (OK)
+   Democratic
+   District 5
+   [627]Steny Hoyer [26890.jpg]
+
+[628]Steny Hoyer
+
+   U.S. House (MD)
+   Democratic
+   District 5
+   [629]Dan Kildee [136102.jpg]
+
+[630]Dan Kildee
+
+   U.S. House (MI)
+   Democratic
+   District 5
+   [631]Doug Lamborn [2698.jpg]
+
+[632]Doug Lamborn
+
+   U.S. House (CO)
+   Republican
+   District 5
+   [633]Bob Latta [9926.jpg]
+
+[634]Bob Latta
+
+   U.S. House (OH)
+   Republican
+   District 5
+   [635]Al Lawson, Jr. [24263.jpg]
+
+[636]Al Lawson, Jr.
+
+   U.S. House (FL)
+   Democratic
+   District 5
+   [637]John Lewis [26820.jpg]
+
+[638]John Lewis
+
+   U.S. House (GA)
+   Democratic
+   District 5
+   [639]Gregory Meeks [4360.jpg]
+
+[640]Gregory Meeks
+
+   U.S. House (NY)
+   Democratic
+   District 5
+   [641]Ralph Norman, Jr. [47930.jpg]
+
+[642]Ralph Norman, Jr.
+
+   U.S. House (SC)
+   Republican
+   District 5
+   [643]Ilhan Omar [171628.jpg]
+
+[644]Ilhan Omar
+
+   U.S. House (MN)
+   Democratic/Farmer/Labor
+   District 5
+   [645]Mike Quigley [83310.jpg]
+
+[646]Mike Quigley
+
+   U.S. House (IL)
+   Democratic
+   District 5
+   [647]Denver Riggleman III [181445.jpg]
+
+[648]Denver Riggleman III
+
+   U.S. House (VA)
+   Republican
+   District 5
+   [649]Cathy Rodgers [3217.jpg]
+
+[650]Cathy Rodgers
+
+   U.S. House (WA)
+   Republican
+   District 5
+   [651]Hal Rogers [26875.jpg]
+
+[652]Hal Rogers
+
+   U.S. House (KY)
+   Republican
+   District 5
+   [653]Mary Scanlon [178890.jpg]
+
+[654]Mary Scanlon
+
+   U.S. House (PA)
+   Democratic
+   District 5
+   [655]Kurt Schrader [10813.jpg]
+
+[656]Kurt Schrader
+
+   U.S. House (OR)
+   Democratic
+   District 5
+   [657]Jim Sensenbrenner, Jr. [27142.jpg]
+
+[658]Jim Sensenbrenner, Jr.
+
+   U.S. House (WI)
+   Republican
+   District 5
+   [659]Mike Thompson [3564.jpg]
+
+[660]Mike Thompson
+
+   U.S. House (CA)
+   Democratic
+   District 5
+   [661]Andy Barr [117290.jpg]
+
+[662]Andy Barr
+
+   U.S. House (KY)
+   Republican
+   District 6
+   [663]Sean Casten [176982.jpg]
+
+[664]Sean Casten
+
+   U.S. House (IL)
+   Democratic
+   District 6
+   [665]Benjamin Cline [50959.jpg]
+
+[666]Benjamin Cline
+
+   U.S. House (VA)
+   Republican
+   District 6
+   [667]Jim Clyburn [27066.jpg]
+
+[668]Jim Clyburn
+
+   U.S. House (SC)
+   Democratic
+   District 6
+   [669]Jason Crow [180218.jpg]
+
+[670]Jason Crow
+
+   U.S. House (CO)
+   Democratic
+   District 6
+   [671]Tom Emmer [38894.jpg]
+
+[672]Tom Emmer
+
+   U.S. House (MN)
+   Republican
+   District 6
+   [673]Garret Graves [155424.jpg]
+
+[674]Garret Graves
+
+   U.S. House (LA)
+   Republican
+   District 6
+   [675]Sam Graves [9425.jpg]
+
+[676]Sam Graves
+
+   U.S. House (MO)
+   Republican
+   District 6
+   [677]Glenn Grothman [3493.jpg]
+
+[678]Glenn Grothman
+
+   U.S. House (WI)
+   Republican
+   District 6
+   [679]Christina Houlahan [178893.jpg]
+
+[680]Christina Houlahan
+
+   U.S. House (PA)
+   Democratic
+   District 6
+   [681]Bill Johnson [120649.jpg]
+
+[682]Bill Johnson
+
+   U.S. House (OH)
+   Republican
+   District 6
+   [683]Derek Kilmer [51516.jpg]
+
+[684]Derek Kilmer
+
+   U.S. House (WA)
+   Democratic
+   District 6
+   [685]Doris Matsui [28593.jpg]
+
+[686]Doris Matsui
+
+   U.S. House (CA)
+   Democratic
+   District 6
+   [687]Lucy McBath [178538.jpg]
+
+[688]Lucy McBath
+
+   U.S. House (GA)
+   Democratic
+   District 6
+   [689]Grace Meng [69157.jpg]
+
+[690]Grace Meng
+
+   U.S. House (NY)
+   Democratic
+   District 6
+   [691]Seth Moulton [146299.jpg]
+
+[692]Seth Moulton
+
+   U.S. House (MA)
+   Democratic
+   District 6
+   [693]Frank Pallone, Jr. [26951.jpg]
+
+[694]Frank Pallone, Jr.
+
+   U.S. House (NJ)
+   Democratic
+   District 6
+   [695]Gary Palmer [146274.jpg]
+
+[696]Gary Palmer
+
+   U.S. House (AL)
+   Republican
+   District 6
+   [697]Greg Pence [177876.jpg]
+
+[698]Greg Pence
+
+   U.S. House (IN)
+   Republican
+   District 6
+   [699]John Rose [180452.jpg]
+
+[700]John Rose
+
+   U.S. House (TN)
+   Republican
+   District 6
+   [701]David Schweikert [106387.jpg]
+
+[702]David Schweikert
+
+   U.S. House (AZ)
+   Republican
+   District 6
+   [703]David Trone [167336.jpg]
+
+[704]David Trone
+
+   U.S. House (MD)
+   Democratic
+   District 6
+   [705]Fred Upton [26906.jpg]
+
+[706]Fred Upton
+
+   U.S. House (MI)
+   Republican
+   District 6
+   [707]Mark Walker [146255.jpg]
+
+[708]Mark Walker
+
+   U.S. House (NC)
+   Republican
+   District 6
+   [709]Michael Waltz [182261.jpg]
+
+[710]Michael Waltz
+
+   U.S. House (FL)
+   Republican
+   District 6
+   [711]Ron Wright [78666.jpg]
+
+[712]Ron Wright
+
+   U.S. House (TX)
+   Republican
+   District 6
+   [713]Ami Bera [120030.jpg]
+
+[714]Ami Bera
+
+   U.S. House (CA)
+   Democratic
+   District 7
+   [715]André Carson [84917.jpg]
+
+[716]André Carson
+
+   U.S. House (IN)
+   Democratic
+   District 7
+   [717]Elijah Cummings [345.jpg]
+
+[718]Elijah Cummings
+
+   U.S. House (MD)
+   Democratic
+   District 7
+   [719]Danny Davis [233.jpg]
+
+[720]Danny Davis
+
+   U.S. House (IL)
+   Democratic
+   District 7
+   [721]Sean Duffy [126238.jpg]
+
+[722]Sean Duffy
+
+   U.S. House (WI)
+   Republican
+   District 7
+   [723]Lizzie Fletcher [177031.jpg]
+
+[724]Lizzie Fletcher
+
+   U.S. House (TX)
+   Democratic
+   District 7
+   [725]Ruben Gallego [123732.jpg]
+
+[726]Ruben Gallego
+
+   U.S. House (AZ)
+   Democratic
+   District 7
+   [727]Bob Gibbs [45466.jpg]
+
+[728]Bob Gibbs
+
+   U.S. House (OH)
+   Republican
+   District 7
+   [729]Mark Green [139030.jpg]
+
+[730]Mark Green
+
+   U.S. House (TN)
+   Republican
+   District 7
+   [731]Pramila Jayapal [153141.jpg]
+
+[732]Pramila Jayapal
+
+   U.S. House (WA)
+   Democratic
+   District 7
+   [733]Billy Long [123401.jpg]
+
+[734]Billy Long
+
+   U.S. House (MO)
+   Republican
+   District 7
+   [735]Tom Malinowski [179645.jpg]
+
+[736]Tom Malinowski
+
+   U.S. House (NJ)
+   Democratic
+   District 7
+   [737]Stephanie Murphy [173426.jpg]
+
+[738]Stephanie Murphy
+
+   U.S. House (FL)
+   Democratic
+   District 7
+   [739]Ed Perlmutter [2653.jpg]
+
+[740]Ed Perlmutter
+
+   U.S. House (CO)
+   Democratic
+   District 7
+   [741]Collin Peterson [26926.jpg]
+
+[742]Collin Peterson
+
+   U.S. House (MN)
+   Democratic
+   District 7
+   [743]Ayanna Pressley [122700.jpg]
+
+[744]Ayanna Pressley
+
+   U.S. House (MA)
+   Democratic
+   District 7
+   [745]Tom Rice [132382.jpg]
+
+[746]Tom Rice
+
+   U.S. House (SC)
+   Republican
+   District 7
+   [747]David Rouzer [102964.jpg]
+
+[748]David Rouzer
+
+   U.S. House (NC)
+   Republican
+   District 7
+   [749]Terri Sewell [121621.jpg]
+
+[750]Terri Sewell
+
+   U.S. House (AL)
+   Democratic
+   District 7
+   [751]Abigail Spanberger [179682.jpg]
+
+[752]Abigail Spanberger
+
+   U.S. House (VA)
+   Democratic
+   District 7
+   [753]Nydia Velázquez [26975.jpg]
+
+[754]Nydia Velázquez
+
+   U.S. House (NY)
+   Democratic
+   District 7
+   [755]Tim Walberg [8618.jpg]
+
+[756]Tim Walberg
+
+   U.S. House (MI)
+   Republican
+   District 7
+   [757]Susan Wild [178895.jpg]
+
+[758]Susan Wild
+
+   U.S. House (PA)
+   Democratic
+   District 7
+   [759]Rob Woodall [122251.jpg]
+
+[760]Rob Woodall
+
+   U.S. House (GA)
+   Republican
+   District 7
+   [761]Don Beyer, Jr. [1707.jpg]
+
+[762]Don Beyer, Jr.
+
+   U.S. House (VA)
+   Democratic
+   District 8
+   [763]Kevin Brady [361.jpg]
+
+[764]Kevin Brady
+
+   U.S. House (TX)
+   Republican
+   District 8
+   [765]Larry Bucshon [120335.jpg]
+
+[766]Larry Bucshon
+
+   U.S. House (IN)
+   Republican
+   District 8
+   [767]Matt Cartwright [136236.jpg]
+
+[768]Matt Cartwright
+
+   U.S. House (PA)
+   Democratic
+   District 8
+   [769]Paul Cook [58121.jpg]
+
+[770]Paul Cook
+
+   U.S. House (CA)
+   Republican
+   District 8
+   [771]Warren Davidson [166760.jpg]
+
+[772]Warren Davidson
+
+   U.S. House (OH)
+   Republican
+   District 8
+   [773]Mike Gallagher [171843.jpg]
+
+[774]Mike Gallagher
+
+   U.S. House (WI)
+   Republican
+   District 8
+   [775]Richard Hudson, Jr. [136448.jpg]
+
+[776]Richard Hudson, Jr.
+
+   U.S. House (NC)
+   Republican
+   District 8
+   [777]Hakeem Jeffries [55285.jpg]
+
+[778]Hakeem Jeffries
+
+   U.S. House (NY)
+   Democratic
+   District 8
+   [779]Raja Krishnamoorthi [117519.jpg]
+
+[780]Raja Krishnamoorthi
+
+   U.S. House (IL)
+   Democratic
+   District 8
+   [781]David Kustoff [48997.jpg]
+
+[782]David Kustoff
+
+   U.S. House (TN)
+   Republican
+   District 8
+   [783]Debbie Lesko [106483.jpg]
+
+[784]Debbie Lesko
+
+   U.S. House (AZ)
+   Republican
+   District 8
+   [785]Stephen Lynch [4844.jpg]
+
+[786]Stephen Lynch
+
+   U.S. House (MA)
+   Democratic
+   District 8
+   [787]Bill Posey [24280.jpg]
+
+[788]Bill Posey
+
+   U.S. House (FL)
+   Republican
+   District 8
+   [789]Jamie Raskin [65904.jpg]
+
+[790]Jamie Raskin
+
+   U.S. House (MD)
+   Democratic
+   District 8
+   [791]Kim Schrier [181124.jpg]
+
+[792]Kim Schrier
+
+   U.S. House (WA)
+   Democratic
+   District 8
+   [793]Austin Scott [11812.jpg]
+
+[794]Austin Scott
+
+   U.S. House (GA)
+   Republican
+   District 8
+   [795]Albio Sires [22510.jpg]
+
+[796]Albio Sires
+
+   U.S. House (NJ)
+   Democratic
+   District 8
+   [797]Elissa Slotkin [181080.jpg]
+
+[798]Elissa Slotkin
+
+   U.S. House (MI)
+   Democratic
+   District 8
+   [799]Jason Smith [59318.jpg]
+
+[800]Jason Smith
+
+   U.S. House (MO)
+   Republican
+   District 8
+   [801]Peter Stauber [159954.jpg]
+
+[802]Peter Stauber
+
+   U.S. House (MN)
+   Republican
+   District 8
+   [803]Yvette Clarke [44741.jpg]
+
+[804]Yvette Clarke
+
+   U.S. House (NY)
+   Democratic
+   District 9
+   [805]Steve Cohen [24340.jpg]
+
+[806]Steve Cohen
+
+   U.S. House (TN)
+   Democratic
+   District 9
+   [807]Doug Collins [67851.jpg]
+
+[808]Doug Collins
+
+   U.S. House (GA)
+   Republican
+   District 9
+   [809]Al Green [49680.jpg]
+
+[810]Al Green
+
+   U.S. House (TX)
+   Democratic
+   District 9
+   [811]Morgan Griffith [5148.jpg]
+
+[812]Morgan Griffith
+
+   U.S. House (VA)
+   Republican
+   District 9
+   [813]Trey Hollingsworth [167423.jpg]
+
+[814]Trey Hollingsworth
+
+   U.S. House (IN)
+   Republican
+   District 9
+   [815]Marcy Kaptur [27016.jpg]
+
+[816]Marcy Kaptur
+
+   U.S. House (OH)
+   Democratic
+   District 9
+   [817]Bill Keating [4743.jpg]
+
+[818]Bill Keating
+
+   U.S. House (MA)
+   Democratic
+   District 9
+   [819]Andy Levin [66287.jpg]
+
+[820]Andy Levin
+
+   U.S. House (MI)
+   Democratic
+   District 9
+   [821]Jerry McNerney [29474.jpg]
+
+[822]Jerry McNerney
+
+   U.S. House (CA)
+   Democratic
+   District 9
+   [823]Daniel Meuser [102438.jpg]
+
+[824]Daniel Meuser
+
+   U.S. House (PA)
+   Republican
+   District 9
+   [825]Bill Pascrell, Jr. [478.jpg]
+
+[826]Bill Pascrell, Jr.
+
+   U.S. House (NJ)
+   Democratic
+   District 9
+   [827]Jan Schakowsky [6387.jpg]
+
+[828]Jan Schakowsky
+
+   U.S. House (IL)
+   Democratic
+   District 9
+   [829]Adam Smith [845.jpg]
+
+[830]Adam Smith
+
+   U.S. House (WA)
+   Democratic
+   District 9
+   [831]Darren Soto [67618.jpg]
+
+[832]Darren Soto
+
+   U.S. House (FL)
+   Democratic
+   District 9
+   [833]Greg Stanton [72030.jpg]
+
+[834]Greg Stanton
+
+   U.S. House (AZ)
+   Democratic
+   District 9
+   [835]Val Demings [137637.jpg]
+
+[836]Val Demings
+
+   U.S. House (FL)
+   Democratic
+   District 10
+   [837]Josh Harder [179326.jpg]
+
+[838]Josh Harder
+
+   U.S. House (CA)
+   Democratic
+   District 10
+   [839]Denny Heck [126058.jpg]
+
+[840]Denny Heck
+
+   U.S. House (WA)
+   Democratic
+   District 10
+   [841]Jody Hice [122246.jpg]
+
+[842]Jody Hice
+
+   U.S. House (GA)
+   Republican
+   District 10
+   [843]Michael McCaul [49210.jpg]
+
+[844]Michael McCaul
+
+   U.S. House (TX)
+   Republican
+   District 10
+   [845]Patrick McHenry [21031.jpg]
+
+[846]Patrick McHenry
+
+   U.S. House (NC)
+   Republican
+   District 10
+   [847]Paul Mitchell [152464.jpg]
+
+[848]Paul Mitchell
+
+   U.S. House (MI)
+   Republican
+   District 10
+   [849]Jerry Nadler [26980.jpg]
+
+[850]Jerry Nadler
+
+   U.S. House (NY)
+   Democratic
+   District 10
+   [851]Don Payne, Jr. [90668.jpg]
+
+[852]Don Payne, Jr.
+
+   U.S. House (NJ)
+   Democratic
+   District 10
+   [853]Scott Perry [59980.jpg]
+
+[854]Scott Perry
+
+   U.S. House (PA)
+   Republican
+   District 10
+   [855]Brad Schneider [134948.jpg]
+
+[856]Brad Schneider
+
+   U.S. House (IL)
+   Democratic
+   District 10
+   [857]Mike Turner [45519.jpg]
+
+[858]Mike Turner
+
+   U.S. House (OH)
+   Republican
+   District 10
+   [859]Jennifer Wexton [147013.jpg]
+
+[860]Jennifer Wexton
+
+   U.S. House (VA)
+   Democratic
+   District 10
+   [861]Mike Conaway [49935.jpg]
+
+[862]Mike Conaway
+
+   U.S. House (TX)
+   Republican
+   District 11
+   [863]Gerry Connolly [95078.jpg]
+
+[864]Gerry Connolly
+
+   U.S. House (VA)
+   Democratic
+   District 11
+   [865]Mark DeSaulnier [69477.jpg]
+
+[866]Mark DeSaulnier
+
+   U.S. House (CA)
+   Democratic
+   District 11
+   [867]Bill Foster [101632.jpg]
+
+[868]Bill Foster
+
+   U.S. House (IL)
+   Democratic
+   District 11
+   [869]Marcia Fudge [110640.jpg]
+
+[870]Marcia Fudge
+
+   U.S. House (OH)
+   Democratic
+   District 11
+   [871]Barry Loudermilk [31618.jpg]
+
+[872]Barry Loudermilk
+
+   U.S. House (GA)
+   Republican
+   District 11
+   [873]Mark Meadows [136459.jpg]
+
+[874]Mark Meadows
+
+   U.S. House (NC)
+   Republican
+   District 11
+   [875]Max Rose [180409.jpg]
+
+[876]Max Rose
+
+   U.S. House (NY)
+   Democratic, Working Families, Women's Equality
+   District 11
+   [877]Mikie Sherrill [179651.jpg]
+
+[878]Mikie Sherrill
+
+   U.S. House (NJ)
+   Democratic
+   District 11
+   [879]Lloyd Smucker [102454.jpg]
+
+[880]Lloyd Smucker
+
+   U.S. House (PA)
+   Republican
+   District 11
+   [881]Haley Stevens [181092.jpg]
+
+[882]Haley Stevens
+
+   U.S. House (MI)
+   Democratic
+   District 11
+   [883]Daniel Webster [24302.jpg]
+
+[884]Daniel Webster
+
+   U.S. House (FL)
+   Republican
+   District 11
+   [885]Alma Adams [5935.jpg]
+
+[886]Alma Adams
+
+   U.S. House (NC)
+   Democratic
+   District 12
+   [887]Rick Allen [136062.jpg]
+
+[888]Rick Allen
+
+   U.S. House (GA)
+   Republican
+   District 12
+   [889]Troy Balderson [102781.jpg]
+
+[890]Troy Balderson
+
+   U.S. House (OH)
+   Republican
+   District 12
+   [891]Gus Bilirakis [17318.jpg]
+
+[892]Gus Bilirakis
+
+   U.S. House (FL)
+   Republican
+   District 12
+   [893]Michael Bost [6302.jpg]
+
+[894]Michael Bost
+
+   U.S. House (IL)
+   Republican
+   District 12
+   [895]Debbie Dingell [152482.jpg]
+
+[896]Debbie Dingell
+
+   U.S. House (MI)
+   Democratic
+   District 12
+   [897]Kay Granger [334.jpg]
+
+[898]Kay Granger
+
+   U.S. House (TX)
+   Republican
+   District 12
+   [899]Carolyn Maloney [26978.jpg]
+
+[900]Carolyn Maloney
+
+   U.S. House (NY)
+   Democratic
+   District 12
+   [901]Nancy Pelosi [26732.jpg]
+
+[902]Nancy Pelosi
+
+   U.S. House (CA)
+   Democratic
+   District 12
+   [903]Bonnie Watson Coleman [24799.jpg]
+
+[904]Bonnie Watson Coleman
+
+   U.S. House (NJ)
+   Democratic
+   District 12
+   [905]Theodore Budd [171489.jpg]
+
+[906]Theodore Budd
+
+   U.S. House (NC)
+   Republican
+   District 13
+   [907]Charlie Crist, Jr. [24311.jpg]
+
+[908]Charlie Crist, Jr.
+
+   U.S. House (FL)
+   Democratic
+   District 13
+   [909]Rodney Davis [9622.jpg]
+
+[910]Rodney Davis
+
+   U.S. House (IL)
+   Republican
+   District 13
+   [911]Adriano Espaillat [14379.jpg]
+
+[912]Adriano Espaillat
+
+   U.S. House (NY)
+   Democratic
+   District 13
+   [913]John Joyce [178911.jpg]
+
+[914]John Joyce
+
+   U.S. House (PA)
+   Republican
+   District 13
+   [915]Barbara Lee [8315.jpg]
+
+[916]Barbara Lee
+
+   U.S. House (CA)
+   Democratic
+   District 13
+   [917]Tim Ryan [45638.jpg]
+
+[918]Tim Ryan
+
+   U.S. House (OH)
+   Democratic
+   District 13
+   [919]David Scott [7826.jpg]
+
+[920]David Scott
+
+   U.S. House (GA)
+   Democratic
+   District 13
+   [921]Mac Thornberry [21706.jpg]
+
+[922]Mac Thornberry
+
+   U.S. House (TX)
+   Republican
+   District 13
+   [923]Rashida Tlaib [105368.jpg]
+
+[924]Rashida Tlaib
+
+   U.S. House (MI)
+   Democratic
+   District 13
+   [925]Kathy Castor [53825.jpg]
+
+[926]Kathy Castor
+
+   U.S. House (FL)
+   Democratic
+   District 14
+   [927]Tom Graves, Jr. [31969.jpg]
+
+[928]Tom Graves, Jr.
+
+   U.S. House (GA)
+   Republican
+   District 14
+   [929]Dave Joyce [143052.jpg]
+
+[930]Dave Joyce
+
+   U.S. House (OH)
+   Republican
+   District 14
+   [931]Brenda Lawrence [78851.jpg]
+
+[932]Brenda Lawrence
+
+   U.S. House (MI)
+   Democratic
+   District 14
+   [933]Alexandria Ocasio-Cortez [180416.jpg]
+
+[934]Alexandria Ocasio-Cortez
+
+   U.S. House (NY)
+   Democratic
+   District 14
+   [935]Guy Reschenthaler [166004.jpg]
+
+[936]Guy Reschenthaler
+
+   U.S. House (PA)
+   Republican
+   District 14
+   [937]Jackie Speier [8425.jpg]
+
+[938]Jackie Speier
+
+   U.S. House (CA)
+   Democratic
+   District 14
+   [939]Lauren Underwood [177001.jpg]
+
+[940]Lauren Underwood
+
+   U.S. House (IL)
+   Democratic
+   District 14
+   [941]Randy Weber, Sr. [102026.jpg]
+
+[942]Randy Weber, Sr.
+
+   U.S. House (TX)
+   Republican
+   District 14
+   [943]Vicente Gonzalez [166483.jpg]
+
+[944]Vicente Gonzalez
+
+   U.S. House (TX)
+   Democratic
+   District 15
+   [945]José Serrano [26981.jpg]
+
+[946]José Serrano
+
+   U.S. House (NY)
+   Democratic
+   District 15
+   [947]John Shimkus [246.jpg]
+
+[948]John Shimkus
+
+   U.S. House (IL)
+   Republican
+   District 15
+   [949]Ross Spano [142164.jpg]
+
+[950]Ross Spano
+
+   U.S. House (FL)
+   Republican
+   District 15
+   [951]Steve Stivers [45333.jpg]
+
+[952]Steve Stivers
+
+   U.S. House (OH)
+   Republican
+   District 15
+   [953]Eric Swalwell [129529.jpg]
+
+[954]Eric Swalwell
+
+   U.S. House (CA)
+   Democratic
+   District 15
+   [955]GT Thompson, Jr. [24046.jpg]
+
+[956]GT Thompson, Jr.
+
+   U.S. House (PA)
+   Republican
+   District 15
+   [957]Vern Buchanan [66247.jpg]
+
+[958]Vern Buchanan
+
+   U.S. House (FL)
+   Republican
+   District 16
+   [959]Jim Costa [3577.jpg]
+
+[960]Jim Costa
+
+   U.S. House (CA)
+   Democratic
+   District 16
+   [961]Eliot Engel [26972.jpg]
+
+[962]Eliot Engel
+
+   U.S. House (NY)
+   Democratic
+   District 16
+   [963]Veronica Escobar [99345.jpg]
+
+[964]Veronica Escobar
+
+   U.S. House (TX)
+   Democratic
+   District 16
+   [965]Anthony Gonzalez [178867.jpg]
+
+[966]Anthony Gonzalez
+
+   U.S. House (OH)
+   Republican
+   District 16
+   [967]Mike Kelly, Jr. [119463.jpg]
+
+[968]Mike Kelly, Jr.
+
+   U.S. House (PA)
+   Republican
+   District 16
+   [969]Adam Kinzinger [116559.jpg]
+
+[970]Adam Kinzinger
+
+   U.S. House (IL)
+   Republican
+   District 16
+   [971]Cheri Bustos [134964.jpg]
+
+[972]Cheri Bustos
+
+   U.S. House (IL)
+   Democratic
+   District 17
+   [973]Bill Flores [116906.jpg]
+
+[974]Bill Flores
+
+   U.S. House (TX)
+   Republican
+   District 17
+   [975]Ro Khanna [29473.jpg]
+
+[976]Ro Khanna
+
+   U.S. House (CA)
+   Democratic
+   District 17
+   [977]Conor Lamb [177656.jpg]
+
+[978]Conor Lamb
+
+   U.S. House (PA)
+   Democratic
+   District 17
+   [979]Nita Lowey [26982.jpg]
+
+[980]Nita Lowey
+
+   U.S. House (NY)
+   Democratic
+   District 17
+   [981]Greg Steube [117248.jpg]
+
+[982]Greg Steube
+
+   U.S. House (FL)
+   Republican
+   District 17
+   [983]Mike Doyle, Jr. [21853.jpg]
+
+[984]Mike Doyle, Jr.
+
+   U.S. House (PA)
+   Democratic
+   District 18
+   [985]Anna Eshoo [26741.jpg]
+
+[986]Anna Eshoo
+
+   U.S. House (CA)
+   Democratic
+   District 18
+   [987]Sheila Jackson Lee [21692.jpg]
+
+[988]Sheila Jackson Lee
+
+   U.S. House (TX)
+   Democratic
+   District 18
+   [989]Darin LaHood [128760.jpg]
+
+[990]Darin LaHood
+
+   U.S. House (IL)
+   Republican
+   District 18
+   [991]Sean Maloney [139760.jpg]
+
+[992]Sean Maloney
+
+   U.S. House (NY)
+   Democratic
+   District 18
+   [993]Brian Mast [166245.jpg]
+
+[994]Brian Mast
+
+   U.S. House (FL)
+   Republican
+   District 18
+   [995]Jodey Arrington [155685.jpg]
+
+[996]Jodey Arrington
+
+   U.S. House (TX)
+   Republican
+   District 19
+   [997]Antonio Delgado [180313.jpg]
+
+[998]Antonio Delgado
+
+   U.S. House (NY)
+   Democratic, Women's Equality
+   District 19
+   [999]Zoe Lofgren [21899.jpg]
+
+[1000]Zoe Lofgren
+
+   U.S. House (CA)
+   Democratic
+   District 19
+   [1001]Francis Rooney [172678.jpg]
+
+[1002]Francis Rooney
+
+   U.S. House (FL)
+   Republican
+   District 19
+   [1003]Joaquin Castro [49227.jpg]
+
+[1004]Joaquin Castro
+
+   U.S. House (TX)
+   Democratic
+   District 20
+   [1005]Alcee Hastings, Sr. [26798.jpg]
+
+[1006]Alcee Hastings, Sr.
+
+   U.S. House (FL)
+   Democratic
+   District 20
+   [1007]Jimmy Panetta [169078.jpg]
+
+[1008]Jimmy Panetta
+
+   U.S. House (CA)
+   Democratic
+   District 20
+   [1009]Paul Tonko [4403.jpg]
+
+[1010]Paul Tonko
+
+   U.S. House (NY)
+   Democratic
+   District 20
+   [1011]T. J. Cox [57197.jpg]
+
+[1012]T. J. Cox
+
+   U.S. House (CA)
+   Democratic
+   District 21
+   [1013]Lois Frankel [8102.jpg]
+
+[1014]Lois Frankel
+
+   U.S. House (FL)
+   Democratic
+   District 21
+   [1015]Chip Roy [177319.jpg]
+
+[1016]Chip Roy
+
+   U.S. House (TX)
+   Republican
+   District 21
+   [1017]Elise Stefanik [152539.jpg]
+
+[1018]Elise Stefanik
+
+   U.S. House (NY)
+   Republican
+   District 21
+   [1019]Anthony Brindisi [135258.jpg]
+
+[1020]Anthony Brindisi
+
+   U.S. House (NY)
+   Democratic, Independence, Working Families, Women's Equality
+   District 22
+   [1021]Ted Deutch [67151.jpg]
+
+[1022]Ted Deutch
+
+   U.S. House (FL)
+   Democratic
+   District 22
+   [1023]Devin Nunes [16725.jpg]
+
+[1024]Devin Nunes
+
+   U.S. House (CA)
+   Republican
+   District 22
+   [1025]Pete Olson [102008.jpg]
+
+[1026]Pete Olson
+
+   U.S. House (TX)
+   Republican
+   District 22
+   [1027]Will Hurd [116911.jpg]
+
+[1028]Will Hurd
+
+   U.S. House (TX)
+   Republican
+   District 23
+   [1029]Kevin McCarthy [28918.jpg]
+
+[1030]Kevin McCarthy
+
+   U.S. House (CA)
+   Republican
+   District 23
+   [1031]Tom Reed II [127046.jpg]
+
+[1032]Tom Reed II
+
+   U.S. House (NY)
+   Republican
+   District 23
+   [1033]Debbie Wasserman Schultz [24301.jpg]
+
+[1034]Debbie Wasserman Schultz
+
+   U.S. House (FL)
+   Democratic
+   District 23
+   [1035]Salud Carbajal [81569.jpg]
+
+[1036]Salud Carbajal
+
+   U.S. House (CA)
+   Democratic
+   District 24
+   [1037]John Katko [152546.jpg]
+
+[1038]John Katko
+
+   U.S. House (NY)
+   Republican
+   District 24
+   [1039]Kenny Marchant [5549.jpg]
+
+[1040]Kenny Marchant
+
+   U.S. House (TX)
+   Republican
+   District 24
+   [1041]Frederica Wilson [17319.jpg]
+
+[1042]Frederica Wilson
+
+   U.S. House (FL)
+   Democratic
+   District 24
+   [1043]Mario Diaz-Balart [24312.jpg]
+
+[1044]Mario Diaz-Balart
+
+   U.S. House (FL)
+   Republican
+   District 25
+   [1045]Katie Hill [179354.jpg]
+
+[1046]Katie Hill
+
+   U.S. House (CA)
+   Democratic
+   District 25
+   [1047]Joe Morelle [4362.jpg]
+
+[1048]Joe Morelle
+
+   U.S. House (NY)
+   Democratic
+   District 25
+   [1049]Roger Williams [50112.jpg]
+
+[1050]Roger Williams
+
+   U.S. House (TX)
+   Republican
+   District 25
+   [1051]Julia Brownley [59904.jpg]
+
+[1052]Julia Brownley
+
+   U.S. House (CA)
+   Democratic
+   District 26
+   [1053]Michael Burgess [50120.jpg]
+
+[1054]Michael Burgess
+
+   U.S. House (TX)
+   Republican
+   District 26
+   [1055]Brian Higgins [23127.jpg]
+
+[1056]Brian Higgins
+
+   U.S. House (NY)
+   Democratic
+   District 26
+   [1057]Debbie Mucarsel-Powell [173449.jpg]
+
+[1058]Debbie Mucarsel-Powell
+
+   U.S. House (FL)
+   Democratic
+   District 26
+   [1059]Judy Chu [16539.jpg]
+
+[1060]Judy Chu
+
+   U.S. House (CA)
+   Democratic
+   District 27
+   [1061]Michael Cloud [177350.jpg]
+
+[1062]Michael Cloud
+
+   U.S. House (TX)
+   Republican
+   District 27
+   [1063]Chris Collins [139770.jpg]
+
+[1064]Chris Collins
+
+   U.S. House (NY)
+   Republican
+   District 27
+   [1065]Donna Shalala [182301.jpg]
+
+[1066]Donna Shalala
+
+   U.S. House (FL)
+   Democratic
+   District 27
+   [1067]Henry Cuellar [5486.jpg]
+
+[1068]Henry Cuellar
+
+   U.S. House (TX)
+   Democratic
+   District 28
+   [1069]Adam Schiff [9489.jpg]
+
+[1070]Adam Schiff
+
+   U.S. House (CA)
+   Democratic
+   District 28
+   [1071]Tony Cárdenas [9754.jpg]
+
+[1072]Tony Cárdenas
+
+   U.S. House (CA)
+   Democratic
+   District 29
+   [1073]Sylvia Garcia [49734.jpg]
+
+[1074]Sylvia Garcia
+
+   U.S. House (TX)
+   Democratic
+   District 29
+   [1075]Eddie Johnson [27098.jpg]
+
+[1076]Eddie Johnson
+
+   U.S. House (TX)
+   Democratic
+   District 30
+   [1077]Brad Sherman [142.jpg]
+
+[1078]Brad Sherman
+
+   U.S. House (CA)
+   Democratic
+   District 30
+   [1079]Pete Aguilar [70114.jpg]
+
+[1080]Pete Aguilar
+
+   U.S. House (CA)
+   Democratic
+   District 31
+   [1081]John Carter [49296.jpg]
+
+[1082]John Carter
+
+   U.S. House (TX)
+   Republican
+   District 31
+   [1083]Colin Allred [177357.jpg]
+
+[1084]Colin Allred
+
+   U.S. House (TX)
+   Democratic
+   District 32
+   [1085]Grace Napolitano [8393.jpg]
+
+[1086]Grace Napolitano
+
+   U.S. House (CA)
+   Democratic
+   District 32
+   [1087]Ted Lieu [1516.jpg]
+
+[1088]Ted Lieu
+
+   U.S. House (CA)
+   Democratic
+   District 33
+   [1089]Marc Veasey [49671.jpg]
+
+[1090]Marc Veasey
+
+   U.S. House (TX)
+   Democratic
+   District 33
+   [1091]Jimmy Gomez [138524.jpg]
+
+[1092]Jimmy Gomez
+
+   U.S. House (CA)
+   Democratic
+   District 34
+   [1093]Filemon Vela, Jr. [137719.jpg]
+
+[1094]Filemon Vela, Jr.
+
+   U.S. House (TX)
+   Democratic
+   District 34
+   [1095]Lloyd Doggett II [21689.jpg]
+
+[1096]Lloyd Doggett II
+
+   U.S. House (TX)
+   Democratic
+   District 35
+   [1097]Norma Torres [71284.jpg]
+
+[1098]Norma Torres
+
+   U.S. House (CA)
+   Democratic
+   District 35
+   [1099]Brian Babin [360.jpg]
+
+[1100]Brian Babin
+
+   U.S. House (TX)
+   Republican
+   District 36
+   [1101]Raul Ruiz [136407.jpg]
+
+[1102]Raul Ruiz
+
+   U.S. House (CA)
+   Democratic
+   District 36
+   [1103]Karen Bass [28963.jpg]
+
+[1104]Karen Bass
+
+   U.S. House (CA)
+   Democratic
+   District 37
+   [1105]Linda Sánchez [29674.jpg]
+
+[1106]Linda Sánchez
+
+   U.S. House (CA)
+   Democratic
+   District 38
+   [1107]Gil Cisneros [179370.jpg]
+
+[1108]Gil Cisneros
+
+   U.S. House (CA)
+   Democratic
+   District 39
+   [1109]Lucille Roybal-Allard [26766.jpg]
+
+[1110]Lucille Roybal-Allard
+
+   U.S. House (CA)
+   Democratic
+   District 40
+   [1111]Mark Takano [22337.jpg]
+
+[1112]Mark Takano
+
+   U.S. House (CA)
+   Democratic
+   District 41
+   [1113]Ken Calvert [26777.jpg]
+
+[1114]Ken Calvert
+
+   U.S. House (CA)
+   Republican
+   District 42
+   [1115]Maxine Waters [26759.jpg]
+
+[1116]Maxine Waters
+
+   U.S. House (CA)
+   Democratic
+   District 43
+   [1117]Nanette Barragán [166270.jpg]
+
+[1118]Nanette Barragán
+
+   U.S. House (CA)
+   Democratic
+   District 44
+   [1119]Katie Porter [179393.jpg]
+
+[1120]Katie Porter
+
+   U.S. House (CA)
+   Democratic
+   District 45
+   [1121]Lou Correa [9732.jpg]
+
+[1122]Lou Correa
+
+   U.S. House (CA)
+   Democratic
+   District 46
+   [1123]Alan Lowenthal [16469.jpg]
+
+[1124]Alan Lowenthal
+
+   U.S. House (CA)
+   Democratic
+   District 47
+   [1125]Harley Rouda [179404.jpg]
+
+[1126]Harley Rouda
+
+   U.S. House (CA)
+   Democratic
+   District 48
+   [1127]Mike Levin [179416.jpg]
+
+[1128]Mike Levin
+
+   U.S. House (CA)
+   Democratic
+   District 49
+   [1129]Duncan Hunter [104308.jpg]
+
+[1130]Duncan Hunter
+
+   U.S. House (CA)
+   Republican
+   District 50
+   [1131]Juan Vargas [29100.jpg]
+
+[1132]Juan Vargas
+
+   U.S. House (CA)
+   Democratic
+   District 51
+   [1133]Scott Peters [70351.jpg]
+
+[1134]Scott Peters
+
+   U.S. House (CA)
+   Democratic
+   District 52
+   [1135]Susan Davis [8168.jpg]
+
+[1136]Susan Davis
+
+   U.S. House (CA)
+   Democratic
+   District 53
+   [1137]Kelly Armstrong [139338.jpg]
+
+[1138]Kelly Armstrong
+
+   U.S. House (ND)
+   Republican
+   At-Large
+   [1139]Lisa Blunt Rochester [173249.jpg]
+
+[1140]Lisa Blunt Rochester
+
+   U.S. House (DE)
+   Democratic
+   At-Large
+   [1141]Liz Cheney [171319.jpg]
+
+[1142]Liz Cheney
+
+   U.S. House (WY)
+   Republican
+   At-Large
+   [1143]Greg Gianforte [168594.jpg]
+
+[1144]Greg Gianforte
+
+   U.S. House (MT)
+   Republican
+   At-Large
+   [1145]Dustin Johnson [48307.jpg]
+
+[1146]Dustin Johnson
+
+   U.S. House (SD)
+   Republican
+   At-Large
+   [1147]Peter Welch [51272.jpg]
+
+[1148]Peter Welch
+
+   U.S. House (VT)
+   Democratic
+   At-Large
+   [1149]Donald Young [26717.jpg]
+
+[1150]Donald Young
+
+   U.S. House (AK)
+   Republican
+   At-Large
+   [1151]Eleanor Norton [775.jpg]
+
+[1152]Eleanor Norton
+
+   U.S. House (DC)
+   Democratic
+   Delegate
+   [1153]Stacey Plaskett [155929.jpg]
+
+[1154]Stacey Plaskett
+
+   U.S. House (VI)
+   Democratic
+   Delegate
+   [1155]Aumua Amata Radewagen [128380.jpg]
+
+[1156]Aumua Amata Radewagen
+
+   U.S. House (AS)
+   Republican
+   Delegate
+   [1157]Kilili Sablan [110903.jpg]
+
+[1158]Kilili Sablan
+
+   U.S. House (MP)
+   Democratic
+   Delegate
+   [1159]Michael San Nicolas [185972.jpg]
+
+[1160]Michael San Nicolas
+
+   U.S. House (GU)
+   Democratic
+   Delegate
+   [1161]Jenniffer González-Colón [47514.jpg]
+
+[1162]Jenniffer González-Colón
+
+   U.S. House (PR)
+   New Progressive Party
+
+53% Democrats
+
+47% Republicans
+
+1% Other
+
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png] [democart-icon.png]
+   [democart-icon.png] [democart-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png] [republican-icon.png]
+   [republican-icon.png] [republican-icon.png]
+   [other-party-icon.png] [other-party-icon.png] [other-party-icon.png]
+
+   Site Search Form
+
+   ____________________ SUBMIT
+
+About Vote Smart
+
+     * [1163]Background
+     * [1164]Board
+     * [1165]Staff
+     * [1166]Advisors
+     * [1167]Finances
+     * [1168]Jobs
+     * [1169]News Room
+     * [1170]Contact Us
+
+WAYS TO HELP
+
+     * [1171]Donate
+     * [1172]Volunteer
+     * [1173]Ambassador
+     * [1174]Leave a Legacy
+     * [1175]Internships
+
+EDUCATION
+
+     * [1176]Government 101
+     * [1177]For Teachers
+
+PUBLICATIONS
+
+     * [1178]Blog
+     * [1179]Voter's Self-Defense Manual
+     * [1180]Request Materials
+
+USING OUR DATA
+
+     * [1181]API
+     * [1182]Widgets
+     * [1183]Link to Vote Smart
+     * [1184]RSS Feeds
+
+GOVERNMENT & OFFICIALS
+
+     * [1185]Offices & Officials
+     * [1186]Legislation
+     * [1187]Issues
+     * [1188]Interest Groups
+     * [1189]Public Statements
+     * [1190]Committees
+     * [1191]Leadership
+     * [1192]Vetoes
+
+RESEARCH TOOLS
+
+     * [1193]Political Galaxy
+     * [1194]Vote Easy
+     * [1195]MyVoteSmart
+     * [1196]OnPoint
+
+ELECTIONS & CANDIDATES
+
+     * [1197]Elections Summary
+     * [1198]Voter Registration & Polling Place
+     * [1199]Ballot Measures
+     * [1200]Issues
+     * [1201]Public Statements
+     * [1202]Political Parties
+     * [1203]Election Contacts
+
+POLITICAL COURAGE TEST
+
+     * [1204]About / Results
+     * [1205]For Candidates
+
+
+    1153 24th Street, Des Moines, IA 50311 Hotline: [1206]888-Vote-Smart
+    (888-868-3762)
+
+   All content © 1992 - 2019 Vote Smart [1207]unless otherwise attributed
+   - [1208]Privacy Policy -
+
+   Legislative demographic data provided by [1209]Aristotle International,
+   Inc. [1210]Mobile Version
+   [1211]Subscribe to our Newsletter
+
+   [1212]Skip to top
+
+   [1213]x
+
+#{title}
+
+   #{text}
+
+   Vote Smart
+
+Help us stay free for all your Fellow Americans
+
+Just $5 from everyone reading this would do it.
+
+   1
+   Select an amount
+   2
+   How often
+   3
+   Payment details
+   (_) $5 (_) $10 (_) $15 (_)
+   $
+   ____________________
+   (_) One Time (_) Monthly (_) Quarterly (_) Biannually (_) Yearly
+
+Thank You!
+
+   You are about to be redirected to a secure checkout page.
+
+   Please note:
+
+   The total order amount will read $0.01. This is a card processor fee.
+   Please know that a recurring donation of the amount and frequency that
+   you selected will be processed and initiated tomorrow. You may see a
+   one-time charge of $0.01 on your statement.
+
+   Continue to secure page »
+   (Submit) Next
+   [1214]Continue to Web site »
+   1
+   Select an amount
+   2
+   How often
+   3
+   Payment details
+
+   Back to top
+
+References
+
+   Visible links
+   1. https://www.votesmart.org/opensearch.xml
+   2. https://votesmart.org/donate?utm_source=votesmart&utm_medium=helpusbanner&utm_campaign=donate
+   3. https://votesmart.org/login/facebook/
+   4. https://votesmart.org/login/twitter/
+   5. https://votesmart.org/forgot-password
+   6. https://votesmart.org/officials/NA/C/national-congressional
+   7. https://votesmart.org/login#signup
+   8. https://votesmart.org/login
+   9. https://votesmart.org/officials
+  10. https://votesmart.org/bills
+  11. https://votesmart.org/interest-groups
+  12. https://votesmart.org/public-statements
+  13. https://votesmart.org/offices/committees
+  14. https://votesmart.org/offices/leadership
+  15. https://votesmart.org/vetoes
+  16. https://votesmart.org/officials/NA/P/national-presidential
+  17. https://votesmart.org/officials/NA/C/national-congressional
+  18. https://votesmart.org/officials/NA/G/national-gubernatorial
+  19. https://votesmart.org/officials/NA/L/national-state-legislative
+  20. https://votesmart.org/officials/NA/J/national-federal-judicial
+  21. https://votesmart.org/officials/NA/S/national-statewide
+  22. https://votesmart.org/officials/NA/K/national-state-judicial
+  23. https://votesmart.org/officials/NA/M/national-local-executive
+  24. https://votesmart.org/officials/NA/N/national-local-legislative
+  25. https://votesmart.org/officials/NA/H/national-local-judicial
+  26. https://votesmart.org/officials/NA/C/national-congressional
+  27. https://votesmart.org/officials/AL/C/alabama-congressional
+  28. https://votesmart.org/officials/AK/C/alaska-congressional
+  29. https://votesmart.org/officials/AS/C/american-samoa-congressional
+  30. https://votesmart.org/officials/AZ/C/arizona-congressional
+  31. https://votesmart.org/officials/AR/C/arkansas-congressional
+  32. https://votesmart.org/officials/CA/C/california-congressional
+  33. https://votesmart.org/officials/CO/C/colorado-congressional
+  34. https://votesmart.org/officials/CT/C/connecticut-congressional
+  35. https://votesmart.org/officials/DE/C/delaware-congressional
+  36. https://votesmart.org/officials/DC/C/district-of-columbia-congressional
+  37. https://votesmart.org/officials/FL/C/florida-congressional
+  38. https://votesmart.org/officials/GA/C/georgia-congressional
+  39. https://votesmart.org/officials/GU/C/guam-congressional
+  40. https://votesmart.org/officials/HI/C/hawaii-congressional
+  41. https://votesmart.org/officials/ID/C/idaho-congressional
+  42. https://votesmart.org/officials/IL/C/illinois-congressional
+  43. https://votesmart.org/officials/IN/C/indiana-congressional
+  44. https://votesmart.org/officials/IA/C/iowa-congressional
+  45. https://votesmart.org/officials/KS/C/kansas-congressional
+  46. https://votesmart.org/officials/KY/C/kentucky-congressional
+  47. https://votesmart.org/officials/LA/C/louisiana-congressional
+  48. https://votesmart.org/officials/ME/C/maine-congressional
+  49. https://votesmart.org/officials/MD/C/maryland-congressional
+  50. https://votesmart.org/officials/MA/C/massachusetts-congressional
+  51. https://votesmart.org/officials/MI/C/michigan-congressional
+  52. https://votesmart.org/officials/MN/C/minnesota-congressional
+  53. https://votesmart.org/officials/MS/C/mississippi-congressional
+  54. https://votesmart.org/officials/MO/C/missouri-congressional
+  55. https://votesmart.org/officials/MT/C/montana-congressional
+  56. https://votesmart.org/officials/NA/C/national-congressional
+  57. https://votesmart.org/officials/NE/C/nebraska-congressional
+  58. https://votesmart.org/officials/NV/C/nevada-congressional
+  59. https://votesmart.org/officials/NH/C/new-hampshire-congressional
+  60. https://votesmart.org/officials/NJ/C/new-jersey-congressional
+  61. https://votesmart.org/officials/NM/C/new-mexico-congressional
+  62. https://votesmart.org/officials/NY/C/new-york-congressional
+  63. https://votesmart.org/officials/NC/C/north-carolina-congressional
+  64. https://votesmart.org/officials/ND/C/north-dakota-congressional
+  65. https://votesmart.org/officials/MP/C/northern-mariana-islands-congressional
+  66. https://votesmart.org/officials/OH/C/ohio-congressional
+  67. https://votesmart.org/officials/OK/C/oklahoma-congressional
+  68. https://votesmart.org/officials/OR/C/oregon-congressional
+  69. https://votesmart.org/officials/PA/C/pennsylvania-congressional
+  70. https://votesmart.org/officials/PR/C/puerto-rico-congressional
+  71. https://votesmart.org/officials/RI/C/rhode-island-congressional
+  72. https://votesmart.org/officials/SC/C/south-carolina-congressional
+  73. https://votesmart.org/officials/SD/C/south-dakota-congressional
+  74. https://votesmart.org/officials/TN/C/tennessee-congressional
+  75. https://votesmart.org/officials/TX/C/texas-congressional
+  76. https://votesmart.org/officials/UT/C/utah-congressional
+  77. https://votesmart.org/officials/VT/C/vermont-congressional
+  78. https://votesmart.org/officials/VI/C/virgin-islands-congressional
+  79. https://votesmart.org/officials/VA/C/virginia-congressional
+  80. https://votesmart.org/officials/WA/C/washington-congressional
+  81. https://votesmart.org/officials/WV/C/west-virginia-congressional
+  82. https://votesmart.org/officials/WI/C/wisconsin-congressional
+  83. https://votesmart.org/officials/WY/C/wyoming-congressional
+  84. https://votesmart.org/officials/NA/C/-congressional
+  85. https://votesmart.org/officials/NA/C/-congressional?chamber=U
+  86. https://votesmart.org/officials/NA/C/-congressional?chamber=L
+  87. https://votesmart.org/candidate/15691/lamar-alexander
+  88. https://votesmart.org/candidate/15691/lamar-alexander
+  89. https://votesmart.org/candidate/110942/michael-bennet
+  90. https://votesmart.org/candidate/110942/michael-bennet
+  91. https://votesmart.org/candidate/1568/richard-blumenthal
+  92. https://votesmart.org/candidate/1568/richard-blumenthal
+  93. https://votesmart.org/candidate/418/roy-blunt
+  94. https://votesmart.org/candidate/418/roy-blunt
+  95. https://votesmart.org/candidate/27958/john-boozman
+  96. https://votesmart.org/candidate/27958/john-boozman
+  97. https://votesmart.org/candidate/27018/sherrod-brown
+  98. https://votesmart.org/candidate/27018/sherrod-brown
+  99. https://votesmart.org/candidate/21787/richard-burr
+ 100. https://votesmart.org/candidate/21787/richard-burr
+ 101. https://votesmart.org/candidate/26888/ben-cardin
+ 102. https://votesmart.org/candidate/26888/ben-cardin
+ 103. https://votesmart.org/candidate/22421/tom-carper
+ 104. https://votesmart.org/candidate/22421/tom-carper
+ 105. https://votesmart.org/candidate/2541/bob-casey-jr
+ 106. https://votesmart.org/candidate/2541/bob-casey-jr
+ 107. https://votesmart.org/candidate/69494/bill-cassidy
+ 108. https://votesmart.org/candidate/69494/bill-cassidy
+ 109. https://votesmart.org/candidate/379/susan-collins
+ 110. https://votesmart.org/candidate/379/susan-collins
+ 111. https://votesmart.org/candidate/15375/john-cornyn
+ 112. https://votesmart.org/candidate/15375/john-cornyn
+ 113. https://votesmart.org/candidate/69579/catherine-cortez-masto
+ 114. https://votesmart.org/candidate/69579/catherine-cortez-masto
+ 115. https://votesmart.org/candidate/26830/mike-crapo
+ 116. https://votesmart.org/candidate/26830/mike-crapo
+ 117. https://votesmart.org/candidate/26847/dick-durbin
+ 118. https://votesmart.org/candidate/26847/dick-durbin
+ 119. https://votesmart.org/candidate/558/mike-enzi
+ 120. https://votesmart.org/candidate/558/mike-enzi
+ 121. https://votesmart.org/candidate/53273/dianne-feinstein
+ 122. https://votesmart.org/candidate/53273/dianne-feinstein
+ 123. https://votesmart.org/candidate/41963/deb-fischer
+ 124. https://votesmart.org/candidate/41963/deb-fischer
+ 125. https://votesmart.org/candidate/21992/lindsey-graham
+ 126. https://votesmart.org/candidate/21992/lindsey-graham
+ 127. https://votesmart.org/candidate/53293/chuck-grassley
+ 128. https://votesmart.org/candidate/53293/chuck-grassley
+ 129. https://votesmart.org/candidate/41788/john-hoeven
+ 130. https://votesmart.org/candidate/41788/john-hoeven
+ 131. https://votesmart.org/candidate/27027/jim-inhofe
+ 132. https://votesmart.org/candidate/27027/jim-inhofe
+ 133. https://votesmart.org/candidate/1721/johnny-isakson
+ 134. https://votesmart.org/candidate/1721/johnny-isakson
+ 135. https://votesmart.org/candidate/126217/ron-johnson
+ 136. https://votesmart.org/candidate/126217/ron-johnson
+ 137. https://votesmart.org/candidate/65092/amy-klobuchar
+ 138. https://votesmart.org/candidate/65092/amy-klobuchar
+ 139. https://votesmart.org/candidate/53353/patrick-leahy
+ 140. https://votesmart.org/candidate/53353/patrick-leahy
+ 141. https://votesmart.org/candidate/66395/mike-lee
+ 142. https://votesmart.org/candidate/66395/mike-lee
+ 143. https://votesmart.org/candidate/7547/joe-manchin-iii
+ 144. https://votesmart.org/candidate/7547/joe-manchin-iii
+ 145. https://votesmart.org/candidate/53298/mitch-mcconnell
+ 146. https://votesmart.org/candidate/53298/mitch-mcconnell
+ 147. https://votesmart.org/candidate/26961/bob-menendez
+ 148. https://votesmart.org/candidate/26961/bob-menendez
+ 149. https://votesmart.org/candidate/15841/lisa-murkowski
+ 150. https://votesmart.org/candidate/15841/lisa-murkowski
+ 151. https://votesmart.org/candidate/53358/patty-murray
+ 152. https://votesmart.org/candidate/53358/patty-murray
+ 153. https://votesmart.org/candidate/27060/jack-reed
+ 154. https://votesmart.org/candidate/27060/jack-reed
+ 155. https://votesmart.org/candidate/26866/pat-roberts
+ 156. https://votesmart.org/candidate/26866/pat-roberts
+ 157. https://votesmart.org/candidate/1601/marco-rubio
+ 158. https://votesmart.org/candidate/1601/marco-rubio
+ 159. https://votesmart.org/candidate/17852/brian-schatz
+ 160. https://votesmart.org/candidate/17852/brian-schatz
+ 161. https://votesmart.org/candidate/26976/chuck-schumer
+ 162. https://votesmart.org/candidate/26976/chuck-schumer
+ 163. https://votesmart.org/candidate/1663/jeanne-shaheen
+ 164. https://votesmart.org/candidate/1663/jeanne-shaheen
+ 165. https://votesmart.org/candidate/53266/richard-shelby
+ 166. https://votesmart.org/candidate/53266/richard-shelby
+ 167. https://votesmart.org/candidate/28338/kyrsten-sinema
+ 168. https://votesmart.org/candidate/28338/kyrsten-sinema
+ 169. https://votesmart.org/candidate/515/debbie-stabenow
+ 170. https://votesmart.org/candidate/515/debbie-stabenow
+ 171. https://votesmart.org/candidate/20928/jon-tester
+ 172. https://votesmart.org/candidate/20928/jon-tester
+ 173. https://votesmart.org/candidate/398/john-thune
+ 174. https://votesmart.org/candidate/398/john-thune
+ 175. https://votesmart.org/candidate/22658/tom-udall
+ 176. https://votesmart.org/candidate/22658/tom-udall
+ 177. https://votesmart.org/candidate/535/mark-warner
+ 178. https://votesmart.org/candidate/535/mark-warner
+ 179. https://votesmart.org/candidate/141272/elizabeth-warren
+ 180. https://votesmart.org/candidate/141272/elizabeth-warren
+ 181. https://votesmart.org/candidate/21926/roger-wicker
+ 182. https://votesmart.org/candidate/21926/roger-wicker
+ 183. https://votesmart.org/candidate/27036/ron-wyden
+ 184. https://votesmart.org/candidate/27036/ron-wyden
+ 185. https://votesmart.org/candidate/120345/todd-young
+ 186. https://votesmart.org/candidate/120345/todd-young
+ 187. https://votesmart.org/candidate/3470/tammy-baldwin
+ 188. https://votesmart.org/candidate/3470/tammy-baldwin
+ 189. https://votesmart.org/candidate/52662/john-barrasso
+ 190. https://votesmart.org/candidate/52662/john-barrasso
+ 191. https://votesmart.org/candidate/25186/marsha-blackburn
+ 192. https://votesmart.org/candidate/25186/marsha-blackburn
+ 193. https://votesmart.org/candidate/76151/cory-booker
+ 194. https://votesmart.org/candidate/76151/cory-booker
+ 195. https://votesmart.org/candidate/148564/mike-braun
+ 196. https://votesmart.org/candidate/148564/mike-braun
+ 197. https://votesmart.org/candidate/27122/maria-cantwell
+ 198. https://votesmart.org/candidate/27122/maria-cantwell
+ 199. https://votesmart.org/candidate/11701/shelley-capito
+ 200. https://votesmart.org/candidate/11701/shelley-capito
+ 201. https://votesmart.org/candidate/122834/chris-coons
+ 202. https://votesmart.org/candidate/122834/chris-coons
+ 203. https://votesmart.org/candidate/135651/tom-cotton
+ 204. https://votesmart.org/candidate/135651/tom-cotton
+ 205. https://votesmart.org/candidate/444/kevin-cramer
+ 206. https://votesmart.org/candidate/444/kevin-cramer
+ 207. https://votesmart.org/candidate/135705/ted-cruz
+ 208. https://votesmart.org/candidate/135705/ted-cruz
+ 209. https://votesmart.org/candidate/135720/steve-daines
+ 210. https://votesmart.org/candidate/135720/steve-daines
+ 211. https://votesmart.org/candidate/57442/tammy-duckworth
+ 212. https://votesmart.org/candidate/57442/tammy-duckworth
+ 213. https://votesmart.org/candidate/128583/joni-ernst
+ 214. https://votesmart.org/candidate/128583/joni-ernst
+ 215. https://votesmart.org/candidate/30004/cory-gardner
+ 216. https://votesmart.org/candidate/30004/cory-gardner
+ 217. https://votesmart.org/candidate/65147/kirsten-gillibrand
+ 218. https://votesmart.org/candidate/65147/kirsten-gillibrand
+ 219. https://votesmart.org/candidate/120012/kamala-harris
+ 220. https://votesmart.org/candidate/120012/kamala-harris
+ 221. https://votesmart.org/candidate/42552/maggie-hassan
+ 222. https://votesmart.org/candidate/42552/maggie-hassan
+ 223. https://votesmart.org/candidate/169716/josh-hawley
+ 224. https://votesmart.org/candidate/169716/josh-hawley
+ 225. https://votesmart.org/candidate/74517/martin-heinrich
+ 226. https://votesmart.org/candidate/74517/martin-heinrich
+ 227. https://votesmart.org/candidate/1677/mazie-hirono
+ 228. https://votesmart.org/candidate/1677/mazie-hirono
+ 229. https://votesmart.org/candidate/20784/cindy-hyde-smith
+ 230. https://votesmart.org/candidate/20784/cindy-hyde-smith
+ 231. https://votesmart.org/candidate/176464/doug-jones
+ 232. https://votesmart.org/candidate/176464/doug-jones
+ 233. https://votesmart.org/candidate/50772/tim-kaine
+ 234. https://votesmart.org/candidate/50772/tim-kaine
+ 235. https://votesmart.org/candidate/35496/john-kennedy
+ 236. https://votesmart.org/candidate/35496/john-kennedy
+ 237. https://votesmart.org/candidate/22381/angus-king-jr
+ 238. https://votesmart.org/candidate/22381/angus-king-jr
+ 239. https://votesmart.org/candidate/124938/james-lankford
+ 240. https://votesmart.org/candidate/124938/james-lankford
+ 241. https://votesmart.org/candidate/26900/ed-markey
+ 242. https://votesmart.org/candidate/26900/ed-markey
+ 243. https://votesmart.org/candidate/137299/martha-mcsally
+ 244. https://votesmart.org/candidate/137299/martha-mcsally
+ 245. https://votesmart.org/candidate/23644/jeff-merkley
+ 246. https://votesmart.org/candidate/23644/jeff-merkley
+ 247. https://votesmart.org/candidate/542/jerry-moran
+ 248. https://votesmart.org/candidate/542/jerry-moran
+ 249. https://votesmart.org/candidate/17189/chris-murphy
+ 250. https://votesmart.org/candidate/17189/chris-murphy
+ 251. https://votesmart.org/candidate/117285/rand-paul
+ 252. https://votesmart.org/candidate/117285/rand-paul
+ 253. https://votesmart.org/candidate/151330/david-perdue
+ 254. https://votesmart.org/candidate/151330/david-perdue
+ 255. https://votesmart.org/candidate/8749/gary-peters
+ 256. https://votesmart.org/candidate/8749/gary-peters
+ 257. https://votesmart.org/candidate/27008/rob-portman
+ 258. https://votesmart.org/candidate/27008/rob-portman
+ 259. https://votesmart.org/candidate/2919/james-risch
+ 260. https://votesmart.org/candidate/2919/james-risch
+ 261. https://votesmart.org/candidate/21942/mitt-romney
+ 262. https://votesmart.org/candidate/21942/mitt-romney
+ 263. https://votesmart.org/candidate/169471/jacky-rosen
+ 264. https://votesmart.org/candidate/169471/jacky-rosen
+ 265. https://votesmart.org/candidate/7455/mike-rounds
+ 266. https://votesmart.org/candidate/7455/mike-rounds
+ 267. https://votesmart.org/candidate/27110/bernie-sanders
+ 268. https://votesmart.org/candidate/27110/bernie-sanders
+ 269. https://votesmart.org/candidate/150182/ben-sasse
+ 270. https://votesmart.org/candidate/150182/ben-sasse
+ 271. https://votesmart.org/candidate/124204/rick-scott
+ 272. https://votesmart.org/candidate/124204/rick-scott
+ 273. https://votesmart.org/candidate/11940/tim-scott
+ 274. https://votesmart.org/candidate/11940/tim-scott
+ 275. https://votesmart.org/candidate/152968/tina-smith
+ 276. https://votesmart.org/candidate/152968/tina-smith
+ 277. https://votesmart.org/candidate/114964/dan-sullivan
+ 278. https://votesmart.org/candidate/114964/dan-sullivan
+ 279. https://votesmart.org/candidate/57717/thom-tillis
+ 280. https://votesmart.org/candidate/57717/thom-tillis
+ 281. https://votesmart.org/candidate/24096/pat-toomey
+ 282. https://votesmart.org/candidate/24096/pat-toomey
+ 283. https://votesmart.org/candidate/6098/chris-van-hollen-jr
+ 284. https://votesmart.org/candidate/6098/chris-van-hollen-jr
+ 285. https://votesmart.org/candidate/2572/sheldon-whitehouse
+ 286. https://votesmart.org/candidate/2572/sheldon-whitehouse
+ 287. https://votesmart.org/candidate/170172/jack-bergman
+ 288. https://votesmart.org/candidate/170172/jack-bergman
+ 289. https://votesmart.org/candidate/50544/rob-bishop
+ 290. https://votesmart.org/candidate/50544/rob-bishop
+ 291. https://votesmart.org/candidate/59641/suzanne-bonamici
+ 292. https://votesmart.org/candidate/59641/suzanne-bonamici
+ 293. https://votesmart.org/candidate/41077/gk-butterfield-jr
+ 294. https://votesmart.org/candidate/41077/gk-butterfield-jr
+ 295. https://votesmart.org/candidate/27584/bradley-byrne
+ 296. https://votesmart.org/candidate/27584/bradley-byrne
+ 297. https://votesmart.org/candidate/32085/buddy-carter
+ 298. https://votesmart.org/candidate/32085/buddy-carter
+ 299. https://votesmart.org/candidate/3422/edward-case
+ 300. https://votesmart.org/candidate/3422/edward-case
+ 301. https://votesmart.org/candidate/21790/steve-chabot
+ 302. https://votesmart.org/candidate/21790/steve-chabot
+ 303. https://votesmart.org/candidate/7349/david-cicilline
+ 304. https://votesmart.org/candidate/7349/david-cicilline
+ 305. https://votesmart.org/candidate/8967/lacy-clay-jr
+ 306. https://votesmart.org/candidate/8967/lacy-clay-jr
+ 307. https://votesmart.org/candidate/35169/james-comer-jr
+ 308. https://votesmart.org/candidate/35169/james-comer-jr
+ 309. https://votesmart.org/candidate/119208/rick-crawford
+ 310. https://votesmart.org/candidate/119208/rick-crawford
+ 311. https://votesmart.org/candidate/179601/joe-cunningham
+ 312. https://votesmart.org/candidate/179601/joe-cunningham
+ 313. https://votesmart.org/candidate/561/diana-degette
+ 314. https://votesmart.org/candidate/561/diana-degette
+ 315. https://votesmart.org/candidate/126272/suzan-delbene
+ 316. https://votesmart.org/candidate/126272/suzan-delbene
+ 317. https://votesmart.org/candidate/151127/abby-finkenauer
+ 318. https://votesmart.org/candidate/151127/abby-finkenauer
+ 319. https://votesmart.org/candidate/167708/brian-fitzpatrick
+ 320. https://votesmart.org/candidate/167708/brian-fitzpatrick
+ 321. https://votesmart.org/candidate/41929/jeff-fortenberry
+ 322. https://votesmart.org/candidate/41929/jeff-fortenberry
+ 323. https://votesmart.org/candidate/33091/russ-fulcher
+ 324. https://votesmart.org/candidate/33091/russ-fulcher
+ 325. https://votesmart.org/candidate/117101/matt-gaetz
+ 326. https://votesmart.org/candidate/117101/matt-gaetz
+ 327. https://votesmart.org/candidate/50029/louie-gohmert
+ 328. https://votesmart.org/candidate/50029/louie-gohmert
+ 329. https://votesmart.org/candidate/149368/deb-haaland
+ 330. https://votesmart.org/candidate/149368/deb-haaland
+ 331. https://votesmart.org/candidate/146027/jim-hagedorn
+ 332. https://votesmart.org/candidate/146027/jim-hagedorn
+ 333. https://votesmart.org/candidate/19157/andy-harris
+ 334. https://votesmart.org/candidate/19157/andy-harris
+ 335. https://votesmart.org/candidate/180004/kevin-hern
+ 336. https://votesmart.org/candidate/180004/kevin-hern
+ 337. https://votesmart.org/candidate/156389/trent-kelly
+ 338. https://votesmart.org/candidate/156389/trent-kelly
+ 339. https://votesmart.org/candidate/29713/doug-lamalfa
+ 340. https://votesmart.org/candidate/29713/doug-lamalfa
+ 341. https://votesmart.org/candidate/17188/john-larson
+ 342. https://votesmart.org/candidate/17188/john-larson
+ 343. https://votesmart.org/candidate/172080/roger-marshall
+ 344. https://votesmart.org/candidate/172080/roger-marshall
+ 345. https://votesmart.org/candidate/117396/david-mckinley
+ 346. https://votesmart.org/candidate/117396/david-mckinley
+ 347. https://votesmart.org/candidate/26895/richard-neal
+ 348. https://votesmart.org/candidate/26895/richard-neal
+ 349. https://votesmart.org/candidate/116277/donald-norcross
+ 350. https://votesmart.org/candidate/116277/donald-norcross
+ 351. https://votesmart.org/candidate/28499/tom-ohalleran
+ 352. https://votesmart.org/candidate/28499/tom-ohalleran
+ 353. https://votesmart.org/candidate/42635/christopher-pappas
+ 354. https://votesmart.org/candidate/42635/christopher-pappas
+ 355. https://votesmart.org/candidate/6586/chellie-pingree
+ 356. https://votesmart.org/candidate/6586/chellie-pingree
+ 357. https://votesmart.org/candidate/65306/phil-roe
+ 358. https://votesmart.org/candidate/65306/phil-roe
+ 359. https://votesmart.org/candidate/26831/bobby-rush
+ 360. https://votesmart.org/candidate/26831/bobby-rush
+ 361. https://votesmart.org/candidate/9026/steve-scalise
+ 362. https://votesmart.org/candidate/9026/steve-scalise
+ 363. https://votesmart.org/candidate/181289/bryan-steil
+ 364. https://votesmart.org/candidate/181289/bryan-steil
+ 365. https://votesmart.org/candidate/2629/dina-titus
+ 366. https://votesmart.org/candidate/2629/dina-titus
+ 367. https://votesmart.org/candidate/26851/pete-visclosky
+ 368. https://votesmart.org/candidate/26851/pete-visclosky
+ 369. https://votesmart.org/candidate/58133/rob-wittman
+ 370. https://votesmart.org/candidate/58133/rob-wittman
+ 371. https://votesmart.org/candidate/110252/lee-zeldin
+ 372. https://votesmart.org/candidate/110252/lee-zeldin
+ 373. https://votesmart.org/candidate/12537/mark-amodei
+ 374. https://votesmart.org/candidate/12537/mark-amodei
+ 375. https://votesmart.org/candidate/166299/donald-bacon
+ 376. https://votesmart.org/candidate/166299/donald-bacon
+ 377. https://votesmart.org/candidate/26817/sanford-bishop-jr
+ 378. https://votesmart.org/candidate/26817/sanford-bishop-jr
+ 379. https://votesmart.org/candidate/47357/brendan-boyle
+ 380. https://votesmart.org/candidate/47357/brendan-boyle
+ 381. https://votesmart.org/candidate/24379/tim-burchett
+ 382. https://votesmart.org/candidate/24379/tim-burchett
+ 383. https://votesmart.org/candidate/30333/joe-courtney
+ 384. https://votesmart.org/candidate/30333/joe-courtney
+ 385. https://votesmart.org/candidate/166261/angie-craig
+ 386. https://votesmart.org/candidate/166261/angie-craig
+ 387. https://votesmart.org/candidate/177270/dan-crenshaw
+ 388. https://votesmart.org/candidate/177270/dan-crenshaw
+ 389. https://votesmart.org/candidate/166297/neal-dunn
+ 390. https://votesmart.org/candidate/166297/neal-dunn
+ 391. https://votesmart.org/candidate/129306/tulsi-gabbard
+ 392. https://votesmart.org/candidate/129306/tulsi-gabbard
+ 393. https://votesmart.org/candidate/151420/jared-golden
+ 394. https://votesmart.org/candidate/151420/jared-golden
+ 395. https://votesmart.org/candidate/18829/brett-guthrie
+ 396. https://votesmart.org/candidate/18829/brett-guthrie
+ 397. https://votesmart.org/candidate/146290/french-hill
+ 398. https://votesmart.org/candidate/146290/french-hill
+ 399. https://votesmart.org/candidate/136462/george-holding
+ 400. https://votesmart.org/candidate/136462/george-holding
+ 401. https://votesmart.org/candidate/59849/jared-huffman
+ 402. https://votesmart.org/candidate/59849/jared-huffman
+ 403. https://votesmart.org/candidate/38351/bill-huizenga
+ 404. https://votesmart.org/candidate/38351/bill-huizenga
+ 405. https://votesmart.org/candidate/33384/robin-kelly
+ 406. https://votesmart.org/candidate/33384/robin-kelly
+ 407. https://votesmart.org/candidate/26968/pete-king
+ 408. https://votesmart.org/candidate/26968/pete-king
+ 409. https://votesmart.org/candidate/28425/ann-kirkpatrick
+ 410. https://votesmart.org/candidate/28425/ann-kirkpatrick
+ 411. https://votesmart.org/candidate/122256/ann-kuster
+ 412. https://votesmart.org/candidate/122256/ann-kuster
+ 413. https://votesmart.org/candidate/55787/jim-langevin
+ 414. https://votesmart.org/candidate/55787/jim-langevin
+ 415. https://votesmart.org/candidate/56231/rick-larsen
+ 416. https://votesmart.org/candidate/56231/rick-larsen
+ 417. https://votesmart.org/candidate/68964/dave-loebsack
+ 418. https://votesmart.org/candidate/68964/dave-loebsack
+ 419. https://votesmart.org/candidate/179677/elaine-luria
+ 420. https://votesmart.org/candidate/179677/elaine-luria
+ 421. https://votesmart.org/candidate/552/jim-mcgovern
+ 422. https://votesmart.org/candidate/552/jim-mcgovern
+ 423. https://votesmart.org/candidate/145943/alex-mooney
+ 424. https://votesmart.org/candidate/145943/alex-mooney
+ 425. https://votesmart.org/candidate/135898/markwayne-mullin
+ 426. https://votesmart.org/candidate/135898/markwayne-mullin
+ 427. https://votesmart.org/candidate/151075/joseph-neguse
+ 428. https://votesmart.org/candidate/151075/joseph-neguse
+ 429. https://votesmart.org/candidate/26238/mark-pocan
+ 430. https://votesmart.org/candidate/26238/mark-pocan
+ 431. https://votesmart.org/candidate/35384/cedric-richmond
+ 432. https://votesmart.org/candidate/35384/cedric-richmond
+ 433. https://votesmart.org/candidate/71604/martha-roby
+ 434. https://votesmart.org/candidate/71604/martha-roby
+ 435. https://votesmart.org/candidate/36130/dutch-ruppersberger
+ 436. https://votesmart.org/candidate/36130/dutch-ruppersberger
+ 437. https://votesmart.org/candidate/2917/mike-simpson
+ 438. https://votesmart.org/candidate/2917/mike-simpson
+ 439. https://votesmart.org/candidate/135930/chris-stewart
+ 440. https://votesmart.org/candidate/135930/chris-stewart
+ 441. https://votesmart.org/candidate/26929/bennie-thompson
+ 442. https://votesmart.org/candidate/26929/bennie-thompson
+ 443. https://votesmart.org/candidate/177978/xochitl-torres-small
+ 444. https://votesmart.org/candidate/177978/xochitl-torres-small
+ 445. https://votesmart.org/candidate/24685/jeff-van-drew
+ 446. https://votesmart.org/candidate/24685/jeff-van-drew
+ 447. https://votesmart.org/candidate/136083/ann-wagner
+ 448. https://votesmart.org/candidate/136083/ann-wagner
+ 449. https://votesmart.org/candidate/2979/greg-walden
+ 450. https://votesmart.org/candidate/2979/greg-walden
+ 451. https://votesmart.org/candidate/34205/jackie-walorski
+ 452. https://votesmart.org/candidate/34205/jackie-walorski
+ 453. https://votesmart.org/candidate/181200/steven-watkins-jr
+ 454. https://votesmart.org/candidate/181200/steven-watkins-jr
+ 455. https://votesmart.org/candidate/135326/brad-wenstrup
+ 456. https://votesmart.org/candidate/135326/brad-wenstrup
+ 457. https://votesmart.org/candidate/3985/joe-wilson-sr
+ 458. https://votesmart.org/candidate/3985/joe-wilson-sr
+ 459. https://votesmart.org/candidate/105566/justin-amash
+ 460. https://votesmart.org/candidate/105566/justin-amash
+ 461. https://votesmart.org/candidate/179226/cindy-axne
+ 462. https://votesmart.org/candidate/179226/cindy-axne
+ 463. https://votesmart.org/candidate/116801/jim-banks
+ 464. https://votesmart.org/candidate/116801/jim-banks
+ 465. https://votesmart.org/candidate/2427/joyce-beatty
+ 466. https://votesmart.org/candidate/2427/joyce-beatty
+ 467. https://votesmart.org/candidate/367/earl-blumenauer
+ 468. https://votesmart.org/candidate/367/earl-blumenauer
+ 469. https://votesmart.org/candidate/123390/john-curtis
+ 470. https://votesmart.org/candidate/123390/john-curtis
+ 471. https://votesmart.org/candidate/181201/sharice-davids
+ 472. https://votesmart.org/candidate/181201/sharice-davids
+ 473. https://votesmart.org/candidate/26788/rosa-delauro
+ 474. https://votesmart.org/candidate/26788/rosa-delauro
+ 475. https://votesmart.org/candidate/47967/jeff-duncan
+ 476. https://votesmart.org/candidate/47967/jeff-duncan
+ 477. https://votesmart.org/candidate/9128/dwight-evans
+ 478. https://votesmart.org/candidate/9128/dwight-evans
+ 479. https://votesmart.org/candidate/168132/drew-ferguson
+ 480. https://votesmart.org/candidate/168132/drew-ferguson
+ 481. https://votesmart.org/candidate/123456/chuck-fleischmann
+ 482. https://votesmart.org/candidate/123456/chuck-fleischmann
+ 483. https://votesmart.org/candidate/29664/john-garamendi
+ 484. https://votesmart.org/candidate/29664/john-garamendi
+ 485. https://votesmart.org/candidate/28253/raul-grijalva
+ 486. https://votesmart.org/candidate/28253/raul-grijalva
+ 487. https://votesmart.org/candidate/179667/michael-guest
+ 488. https://votesmart.org/candidate/179667/michael-guest
+ 489. https://votesmart.org/candidate/101907/jaime-herrera-beutler
+ 490. https://votesmart.org/candidate/101907/jaime-herrera-beutler
+ 491. https://votesmart.org/candidate/174484/clay-higgins
+ 492. https://votesmart.org/candidate/174484/clay-higgins
+ 493. https://votesmart.org/candidate/179640/andy-kim
+ 494. https://votesmart.org/candidate/179640/andy-kim
+ 495. https://votesmart.org/candidate/630/ron-kind
+ 496. https://votesmart.org/candidate/630/ron-kind
+ 497. https://votesmart.org/candidate/169344/susie-lee
+ 498. https://votesmart.org/candidate/169344/susie-lee
+ 499. https://votesmart.org/candidate/33692/daniel-lipinski
+ 500. https://votesmart.org/candidate/33692/daniel-lipinski
+ 501. https://votesmart.org/candidate/27032/frank-lucas
+ 502. https://votesmart.org/candidate/27032/frank-lucas
+ 503. https://votesmart.org/candidate/20400/blaine-luetkemeyer
+ 504. https://votesmart.org/candidate/20400/blaine-luetkemeyer
+ 505. https://votesmart.org/candidate/102842/ben-lujan-jr
+ 506. https://votesmart.org/candidate/102842/ben-lujan-jr
+ 507. https://votesmart.org/candidate/52123/carol-miller
+ 508. https://votesmart.org/candidate/52123/carol-miller
+ 509. https://votesmart.org/candidate/181357/dean-phillips
+ 510. https://votesmart.org/candidate/181357/dean-phillips
+ 511. https://votesmart.org/candidate/5705/mike-rogers
+ 512. https://votesmart.org/candidate/5705/mike-rogers
+ 513. https://votesmart.org/candidate/66575/john-sarbanes
+ 514. https://votesmart.org/candidate/66575/john-sarbanes
+ 515. https://votesmart.org/candidate/27117/bobby-scott
+ 516. https://votesmart.org/candidate/27117/bobby-scott
+ 517. https://votesmart.org/candidate/21284/adrian-smith
+ 518. https://votesmart.org/candidate/21284/adrian-smith
+ 519. https://votesmart.org/candidate/92111/thomas-suozzi
+ 520. https://votesmart.org/candidate/92111/thomas-suozzi
+ 521. https://votesmart.org/candidate/147737/van-taylor
+ 522. https://votesmart.org/candidate/147737/van-taylor
+ 523. https://votesmart.org/candidate/65403/scott-tipton
+ 524. https://votesmart.org/candidate/65403/scott-tipton
+ 525. https://votesmart.org/candidate/182310/lori-trahan
+ 526. https://votesmart.org/candidate/182310/lori-trahan
+ 527. https://votesmart.org/candidate/71815/steve-womack
+ 528. https://votesmart.org/candidate/71815/steve-womack
+ 529. https://votesmart.org/candidate/58579/john-yarmuth
+ 530. https://votesmart.org/candidate/58579/john-yarmuth
+ 531. https://votesmart.org/candidate/137622/ted-yoho
+ 532. https://votesmart.org/candidate/137622/ted-yoho
+ 533. https://votesmart.org/candidate/441/robert-aderholt
+ 534. https://votesmart.org/candidate/441/robert-aderholt
+ 535. https://votesmart.org/candidate/86013/jim-baird
+ 536. https://votesmart.org/candidate/86013/jim-baird
+ 537. https://votesmart.org/candidate/19344/anthony-brown
+ 538. https://votesmart.org/candidate/19344/anthony-brown
+ 539. https://votesmart.org/candidate/125319/ken-buck
+ 540. https://votesmart.org/candidate/125319/ken-buck
+ 541. https://votesmart.org/candidate/46034/tom-cole
+ 542. https://votesmart.org/candidate/46034/tom-cole
+ 543. https://votesmart.org/candidate/136484/madeleine-dean
+ 544. https://votesmart.org/candidate/136484/madeleine-dean
+ 545. https://votesmart.org/candidate/27037/peter-defazio
+ 546. https://votesmart.org/candidate/27037/peter-defazio
+ 547. https://votesmart.org/candidate/123473/scott-desjarlais
+ 548. https://votesmart.org/candidate/123473/scott-desjarlais
+ 549. https://votesmart.org/candidate/125031/ron-estes
+ 550. https://votesmart.org/candidate/125031/ron-estes
+ 551. https://votesmart.org/candidate/6261/jesus-garcia
+ 552. https://votesmart.org/candidate/6261/jesus-garcia
+ 553. https://votesmart.org/candidate/123491/paul-gosar
+ 554. https://votesmart.org/candidate/123491/paul-gosar
+ 555. https://votesmart.org/candidate/8783/vicky-hartzler
+ 556. https://votesmart.org/candidate/8783/vicky-hartzler
+ 557. https://votesmart.org/candidate/106744/jim-himes
+ 558. https://votesmart.org/candidate/106744/jim-himes
+ 559. https://votesmart.org/candidate/44064/steven-horsford
+ 560. https://votesmart.org/candidate/44064/steven-horsford
+ 561. https://votesmart.org/candidate/68070/hank-johnson-jr
+ 562. https://votesmart.org/candidate/68070/hank-johnson-jr
+ 563. https://votesmart.org/candidate/156097/mike-johnson
+ 564. https://votesmart.org/candidate/156097/mike-johnson
+ 565. https://votesmart.org/candidate/8158/jim-jordan
+ 566. https://votesmart.org/candidate/8158/jim-jordan
+ 567. https://votesmart.org/candidate/141275/joe-kennedy-iii
+ 568. https://votesmart.org/candidate/141275/joe-kennedy-iii
+ 569. https://votesmart.org/candidate/10853/steve-king
+ 570. https://votesmart.org/candidate/10853/steve-king
+ 571. https://votesmart.org/candidate/132068/thomas-massie
+ 572. https://votesmart.org/candidate/132068/thomas-massie
+ 573. https://votesmart.org/candidate/117512/ben-mcadams
+ 574. https://votesmart.org/candidate/117512/ben-mcadams
+ 575. https://votesmart.org/candidate/9715/tom-mcclintock
+ 576. https://votesmart.org/candidate/9715/tom-mcclintock
+ 577. https://votesmart.org/candidate/3812/betty-mccollum
+ 578. https://votesmart.org/candidate/3812/betty-mccollum
+ 579. https://votesmart.org/candidate/8230/donald-mceachin
+ 580. https://votesmart.org/candidate/8230/donald-mceachin
+ 581. https://votesmart.org/candidate/37676/john-moolenaar
+ 582. https://votesmart.org/candidate/37676/john-moolenaar
+ 583. https://votesmart.org/candidate/3457/gwen-moore
+ 584. https://votesmart.org/candidate/3457/gwen-moore
+ 585. https://votesmart.org/candidate/51522/dan-newhouse
+ 586. https://votesmart.org/candidate/51522/dan-newhouse
+ 587. https://votesmart.org/candidate/69521/steven-palazzo
+ 588. https://votesmart.org/candidate/69521/steven-palazzo
+ 589. https://votesmart.org/candidate/119/david-price
+ 590. https://votesmart.org/candidate/119/david-price
+ 591. https://votesmart.org/candidate/147381/john-ratcliffe
+ 592. https://votesmart.org/candidate/147381/john-ratcliffe
+ 593. https://votesmart.org/candidate/127653/kathleen-rice
+ 594. https://votesmart.org/candidate/127653/kathleen-rice
+ 595. https://votesmart.org/candidate/172542/john-rutherford
+ 596. https://votesmart.org/candidate/172542/john-rutherford
+ 597. https://votesmart.org/candidate/26952/chris-smith
+ 598. https://votesmart.org/candidate/26952/chris-smith
+ 599. https://votesmart.org/candidate/168923/william-timmons
+ 600. https://votesmart.org/candidate/168923/william-timmons
+ 601. https://votesmart.org/candidate/119120/bruce-westerman
+ 602. https://votesmart.org/candidate/119120/bruce-westerman
+ 603. https://votesmart.org/candidate/155414/ralph-abraham
+ 604. https://votesmart.org/candidate/155414/ralph-abraham
+ 605. https://votesmart.org/candidate/28088/andy-biggs
+ 606. https://votesmart.org/candidate/28088/andy-biggs
+ 607. https://votesmart.org/candidate/121610/mo-brooks
+ 608. https://votesmart.org/candidate/121610/mo-brooks
+ 609. https://votesmart.org/candidate/135988/susan-brooks
+ 610. https://votesmart.org/candidate/135988/susan-brooks
+ 611. https://votesmart.org/candidate/35858/katherine-clark
+ 612. https://votesmart.org/candidate/35858/katherine-clark
+ 613. https://votesmart.org/candidate/39507/emanuel-cleaver-ii
+ 614. https://votesmart.org/candidate/39507/emanuel-cleaver-ii
+ 615. https://votesmart.org/candidate/48891/jim-cooper
+ 616. https://votesmart.org/candidate/48891/jim-cooper
+ 617. https://votesmart.org/candidate/6051/virginia-foxx
+ 618. https://votesmart.org/candidate/6051/virginia-foxx
+ 619. https://votesmart.org/candidate/116935/lance-gooden
+ 620. https://votesmart.org/candidate/116935/lance-gooden
+ 621. https://votesmart.org/candidate/169202/joshua-gottheimer
+ 622. https://votesmart.org/candidate/169202/joshua-gottheimer
+ 623. https://votesmart.org/candidate/181744/jahana-hayes
+ 624. https://votesmart.org/candidate/181744/jahana-hayes
+ 625. https://votesmart.org/candidate/180018/kendra-horn
+ 626. https://votesmart.org/candidate/180018/kendra-horn
+ 627. https://votesmart.org/candidate/26890/steny-hoyer
+ 628. https://votesmart.org/candidate/26890/steny-hoyer
+ 629. https://votesmart.org/candidate/136102/dan-kildee
+ 630. https://votesmart.org/candidate/136102/dan-kildee
+ 631. https://votesmart.org/candidate/2698/doug-lamborn
+ 632. https://votesmart.org/candidate/2698/doug-lamborn
+ 633. https://votesmart.org/candidate/9926/bob-latta
+ 634. https://votesmart.org/candidate/9926/bob-latta
+ 635. https://votesmart.org/candidate/24263/al-lawson-jr
+ 636. https://votesmart.org/candidate/24263/al-lawson-jr
+ 637. https://votesmart.org/candidate/26820/john-lewis
+ 638. https://votesmart.org/candidate/26820/john-lewis
+ 639. https://votesmart.org/candidate/4360/gregory-meeks
+ 640. https://votesmart.org/candidate/4360/gregory-meeks
+ 641. https://votesmart.org/candidate/47930/ralph-norman-jr
+ 642. https://votesmart.org/candidate/47930/ralph-norman-jr
+ 643. https://votesmart.org/candidate/171628/ilhan-omar
+ 644. https://votesmart.org/candidate/171628/ilhan-omar
+ 645. https://votesmart.org/candidate/83310/mike-quigley
+ 646. https://votesmart.org/candidate/83310/mike-quigley
+ 647. https://votesmart.org/candidate/181445/denver-riggleman-iii
+ 648. https://votesmart.org/candidate/181445/denver-riggleman-iii
+ 649. https://votesmart.org/candidate/3217/cathy-rodgers
+ 650. https://votesmart.org/candidate/3217/cathy-rodgers
+ 651. https://votesmart.org/candidate/26875/hal-rogers
+ 652. https://votesmart.org/candidate/26875/hal-rogers
+ 653. https://votesmart.org/candidate/178890/mary-scanlon
+ 654. https://votesmart.org/candidate/178890/mary-scanlon
+ 655. https://votesmart.org/candidate/10813/kurt-schrader
+ 656. https://votesmart.org/candidate/10813/kurt-schrader
+ 657. https://votesmart.org/candidate/27142/jim-sensenbrenner-jr
+ 658. https://votesmart.org/candidate/27142/jim-sensenbrenner-jr
+ 659. https://votesmart.org/candidate/3564/mike-thompson
+ 660. https://votesmart.org/candidate/3564/mike-thompson
+ 661. https://votesmart.org/candidate/117290/andy-barr
+ 662. https://votesmart.org/candidate/117290/andy-barr
+ 663. https://votesmart.org/candidate/176982/sean-casten
+ 664. https://votesmart.org/candidate/176982/sean-casten
+ 665. https://votesmart.org/candidate/50959/benjamin-cline
+ 666. https://votesmart.org/candidate/50959/benjamin-cline
+ 667. https://votesmart.org/candidate/27066/jim-clyburn
+ 668. https://votesmart.org/candidate/27066/jim-clyburn
+ 669. https://votesmart.org/candidate/180218/jason-crow
+ 670. https://votesmart.org/candidate/180218/jason-crow
+ 671. https://votesmart.org/candidate/38894/tom-emmer
+ 672. https://votesmart.org/candidate/38894/tom-emmer
+ 673. https://votesmart.org/candidate/155424/garret-graves
+ 674. https://votesmart.org/candidate/155424/garret-graves
+ 675. https://votesmart.org/candidate/9425/sam-graves
+ 676. https://votesmart.org/candidate/9425/sam-graves
+ 677. https://votesmart.org/candidate/3493/glenn-grothman
+ 678. https://votesmart.org/candidate/3493/glenn-grothman
+ 679. https://votesmart.org/candidate/178893/christina-houlahan
+ 680. https://votesmart.org/candidate/178893/christina-houlahan
+ 681. https://votesmart.org/candidate/120649/bill-johnson
+ 682. https://votesmart.org/candidate/120649/bill-johnson
+ 683. https://votesmart.org/candidate/51516/derek-kilmer
+ 684. https://votesmart.org/candidate/51516/derek-kilmer
+ 685. https://votesmart.org/candidate/28593/doris-matsui
+ 686. https://votesmart.org/candidate/28593/doris-matsui
+ 687. https://votesmart.org/candidate/178538/lucy-mcbath
+ 688. https://votesmart.org/candidate/178538/lucy-mcbath
+ 689. https://votesmart.org/candidate/69157/grace-meng
+ 690. https://votesmart.org/candidate/69157/grace-meng
+ 691. https://votesmart.org/candidate/146299/seth-moulton
+ 692. https://votesmart.org/candidate/146299/seth-moulton
+ 693. https://votesmart.org/candidate/26951/frank-pallone-jr
+ 694. https://votesmart.org/candidate/26951/frank-pallone-jr
+ 695. https://votesmart.org/candidate/146274/gary-palmer
+ 696. https://votesmart.org/candidate/146274/gary-palmer
+ 697. https://votesmart.org/candidate/177876/greg-pence
+ 698. https://votesmart.org/candidate/177876/greg-pence
+ 699. https://votesmart.org/candidate/180452/john-rose
+ 700. https://votesmart.org/candidate/180452/john-rose
+ 701. https://votesmart.org/candidate/106387/david-schweikert
+ 702. https://votesmart.org/candidate/106387/david-schweikert
+ 703. https://votesmart.org/candidate/167336/david-trone
+ 704. https://votesmart.org/candidate/167336/david-trone
+ 705. https://votesmart.org/candidate/26906/fred-upton
+ 706. https://votesmart.org/candidate/26906/fred-upton
+ 707. https://votesmart.org/candidate/146255/mark-walker
+ 708. https://votesmart.org/candidate/146255/mark-walker
+ 709. https://votesmart.org/candidate/182261/michael-waltz
+ 710. https://votesmart.org/candidate/182261/michael-waltz
+ 711. https://votesmart.org/candidate/78666/ron-wright
+ 712. https://votesmart.org/candidate/78666/ron-wright
+ 713. https://votesmart.org/candidate/120030/ami-bera
+ 714. https://votesmart.org/candidate/120030/ami-bera
+ 715. https://votesmart.org/candidate/84917/andre-carson
+ 716. https://votesmart.org/candidate/84917/andre-carson
+ 717. https://votesmart.org/candidate/345/elijah-cummings
+ 718. https://votesmart.org/candidate/345/elijah-cummings
+ 719. https://votesmart.org/candidate/233/danny-davis
+ 720. https://votesmart.org/candidate/233/danny-davis
+ 721. https://votesmart.org/candidate/126238/sean-duffy
+ 722. https://votesmart.org/candidate/126238/sean-duffy
+ 723. https://votesmart.org/candidate/177031/lizzie-fletcher
+ 724. https://votesmart.org/candidate/177031/lizzie-fletcher
+ 725. https://votesmart.org/candidate/123732/ruben-gallego
+ 726. https://votesmart.org/candidate/123732/ruben-gallego
+ 727. https://votesmart.org/candidate/45466/bob-gibbs
+ 728. https://votesmart.org/candidate/45466/bob-gibbs
+ 729. https://votesmart.org/candidate/139030/mark-green
+ 730. https://votesmart.org/candidate/139030/mark-green
+ 731. https://votesmart.org/candidate/153141/pramila-jayapal
+ 732. https://votesmart.org/candidate/153141/pramila-jayapal
+ 733. https://votesmart.org/candidate/123401/billy-long
+ 734. https://votesmart.org/candidate/123401/billy-long
+ 735. https://votesmart.org/candidate/179645/tom-malinowski
+ 736. https://votesmart.org/candidate/179645/tom-malinowski
+ 737. https://votesmart.org/candidate/173426/stephanie-murphy
+ 738. https://votesmart.org/candidate/173426/stephanie-murphy
+ 739. https://votesmart.org/candidate/2653/ed-perlmutter
+ 740. https://votesmart.org/candidate/2653/ed-perlmutter
+ 741. https://votesmart.org/candidate/26926/collin-peterson
+ 742. https://votesmart.org/candidate/26926/collin-peterson
+ 743. https://votesmart.org/candidate/122700/ayanna-pressley
+ 744. https://votesmart.org/candidate/122700/ayanna-pressley
+ 745. https://votesmart.org/candidate/132382/tom-rice
+ 746. https://votesmart.org/candidate/132382/tom-rice
+ 747. https://votesmart.org/candidate/102964/david-rouzer
+ 748. https://votesmart.org/candidate/102964/david-rouzer
+ 749. https://votesmart.org/candidate/121621/terri-sewell
+ 750. https://votesmart.org/candidate/121621/terri-sewell
+ 751. https://votesmart.org/candidate/179682/abigail-spanberger
+ 752. https://votesmart.org/candidate/179682/abigail-spanberger
+ 753. https://votesmart.org/candidate/26975/nydia-velazquez
+ 754. https://votesmart.org/candidate/26975/nydia-velazquez
+ 755. https://votesmart.org/candidate/8618/tim-walberg
+ 756. https://votesmart.org/candidate/8618/tim-walberg
+ 757. https://votesmart.org/candidate/178895/susan-wild
+ 758. https://votesmart.org/candidate/178895/susan-wild
+ 759. https://votesmart.org/candidate/122251/rob-woodall
+ 760. https://votesmart.org/candidate/122251/rob-woodall
+ 761. https://votesmart.org/candidate/1707/don-beyer-jr
+ 762. https://votesmart.org/candidate/1707/don-beyer-jr
+ 763. https://votesmart.org/candidate/361/kevin-brady
+ 764. https://votesmart.org/candidate/361/kevin-brady
+ 765. https://votesmart.org/candidate/120335/larry-bucshon
+ 766. https://votesmart.org/candidate/120335/larry-bucshon
+ 767. https://votesmart.org/candidate/136236/matt-cartwright
+ 768. https://votesmart.org/candidate/136236/matt-cartwright
+ 769. https://votesmart.org/candidate/58121/paul-cook
+ 770. https://votesmart.org/candidate/58121/paul-cook
+ 771. https://votesmart.org/candidate/166760/warren-davidson
+ 772. https://votesmart.org/candidate/166760/warren-davidson
+ 773. https://votesmart.org/candidate/171843/mike-gallagher
+ 774. https://votesmart.org/candidate/171843/mike-gallagher
+ 775. https://votesmart.org/candidate/136448/richard-hudson-jr
+ 776. https://votesmart.org/candidate/136448/richard-hudson-jr
+ 777. https://votesmart.org/candidate/55285/hakeem-jeffries
+ 778. https://votesmart.org/candidate/55285/hakeem-jeffries
+ 779. https://votesmart.org/candidate/117519/raja-krishnamoorthi
+ 780. https://votesmart.org/candidate/117519/raja-krishnamoorthi
+ 781. https://votesmart.org/candidate/48997/david-kustoff
+ 782. https://votesmart.org/candidate/48997/david-kustoff
+ 783. https://votesmart.org/candidate/106483/debbie-lesko
+ 784. https://votesmart.org/candidate/106483/debbie-lesko
+ 785. https://votesmart.org/candidate/4844/stephen-lynch
+ 786. https://votesmart.org/candidate/4844/stephen-lynch
+ 787. https://votesmart.org/candidate/24280/bill-posey
+ 788. https://votesmart.org/candidate/24280/bill-posey
+ 789. https://votesmart.org/candidate/65904/jamie-raskin
+ 790. https://votesmart.org/candidate/65904/jamie-raskin
+ 791. https://votesmart.org/candidate/181124/kim-schrier
+ 792. https://votesmart.org/candidate/181124/kim-schrier
+ 793. https://votesmart.org/candidate/11812/austin-scott
+ 794. https://votesmart.org/candidate/11812/austin-scott
+ 795. https://votesmart.org/candidate/22510/albio-sires
+ 796. https://votesmart.org/candidate/22510/albio-sires
+ 797. https://votesmart.org/candidate/181080/elissa-slotkin
+ 798. https://votesmart.org/candidate/181080/elissa-slotkin
+ 799. https://votesmart.org/candidate/59318/jason-smith
+ 800. https://votesmart.org/candidate/59318/jason-smith
+ 801. https://votesmart.org/candidate/159954/peter-stauber
+ 802. https://votesmart.org/candidate/159954/peter-stauber
+ 803. https://votesmart.org/candidate/44741/yvette-clarke
+ 804. https://votesmart.org/candidate/44741/yvette-clarke
+ 805. https://votesmart.org/candidate/24340/steve-cohen
+ 806. https://votesmart.org/candidate/24340/steve-cohen
+ 807. https://votesmart.org/candidate/67851/doug-collins
+ 808. https://votesmart.org/candidate/67851/doug-collins
+ 809. https://votesmart.org/candidate/49680/al-green
+ 810. https://votesmart.org/candidate/49680/al-green
+ 811. https://votesmart.org/candidate/5148/morgan-griffith
+ 812. https://votesmart.org/candidate/5148/morgan-griffith
+ 813. https://votesmart.org/candidate/167423/trey-hollingsworth
+ 814. https://votesmart.org/candidate/167423/trey-hollingsworth
+ 815. https://votesmart.org/candidate/27016/marcy-kaptur
+ 816. https://votesmart.org/candidate/27016/marcy-kaptur
+ 817. https://votesmart.org/candidate/4743/bill-keating
+ 818. https://votesmart.org/candidate/4743/bill-keating
+ 819. https://votesmart.org/candidate/66287/andy-levin
+ 820. https://votesmart.org/candidate/66287/andy-levin
+ 821. https://votesmart.org/candidate/29474/jerry-mcnerney
+ 822. https://votesmart.org/candidate/29474/jerry-mcnerney
+ 823. https://votesmart.org/candidate/102438/daniel-meuser
+ 824. https://votesmart.org/candidate/102438/daniel-meuser
+ 825. https://votesmart.org/candidate/478/bill-pascrell-jr
+ 826. https://votesmart.org/candidate/478/bill-pascrell-jr
+ 827. https://votesmart.org/candidate/6387/jan-schakowsky
+ 828. https://votesmart.org/candidate/6387/jan-schakowsky
+ 829. https://votesmart.org/candidate/845/adam-smith
+ 830. https://votesmart.org/candidate/845/adam-smith
+ 831. https://votesmart.org/candidate/67618/darren-soto
+ 832. https://votesmart.org/candidate/67618/darren-soto
+ 833. https://votesmart.org/candidate/72030/greg-stanton
+ 834. https://votesmart.org/candidate/72030/greg-stanton
+ 835. https://votesmart.org/candidate/137637/val-demings
+ 836. https://votesmart.org/candidate/137637/val-demings
+ 837. https://votesmart.org/candidate/179326/josh-harder
+ 838. https://votesmart.org/candidate/179326/josh-harder
+ 839. https://votesmart.org/candidate/126058/denny-heck
+ 840. https://votesmart.org/candidate/126058/denny-heck
+ 841. https://votesmart.org/candidate/122246/jody-hice
+ 842. https://votesmart.org/candidate/122246/jody-hice
+ 843. https://votesmart.org/candidate/49210/michael-mccaul
+ 844. https://votesmart.org/candidate/49210/michael-mccaul
+ 845. https://votesmart.org/candidate/21031/patrick-mchenry
+ 846. https://votesmart.org/candidate/21031/patrick-mchenry
+ 847. https://votesmart.org/candidate/152464/paul-mitchell
+ 848. https://votesmart.org/candidate/152464/paul-mitchell
+ 849. https://votesmart.org/candidate/26980/jerry-nadler
+ 850. https://votesmart.org/candidate/26980/jerry-nadler
+ 851. https://votesmart.org/candidate/90668/don-payne-jr
+ 852. https://votesmart.org/candidate/90668/don-payne-jr
+ 853. https://votesmart.org/candidate/59980/scott-perry
+ 854. https://votesmart.org/candidate/59980/scott-perry
+ 855. https://votesmart.org/candidate/134948/brad-schneider
+ 856. https://votesmart.org/candidate/134948/brad-schneider
+ 857. https://votesmart.org/candidate/45519/mike-turner
+ 858. https://votesmart.org/candidate/45519/mike-turner
+ 859. https://votesmart.org/candidate/147013/jennifer-wexton
+ 860. https://votesmart.org/candidate/147013/jennifer-wexton
+ 861. https://votesmart.org/candidate/49935/mike-conaway
+ 862. https://votesmart.org/candidate/49935/mike-conaway
+ 863. https://votesmart.org/candidate/95078/gerry-connolly
+ 864. https://votesmart.org/candidate/95078/gerry-connolly
+ 865. https://votesmart.org/candidate/69477/mark-desaulnier
+ 866. https://votesmart.org/candidate/69477/mark-desaulnier
+ 867. https://votesmart.org/candidate/101632/bill-foster
+ 868. https://votesmart.org/candidate/101632/bill-foster
+ 869. https://votesmart.org/candidate/110640/marcia-fudge
+ 870. https://votesmart.org/candidate/110640/marcia-fudge
+ 871. https://votesmart.org/candidate/31618/barry-loudermilk
+ 872. https://votesmart.org/candidate/31618/barry-loudermilk
+ 873. https://votesmart.org/candidate/136459/mark-meadows
+ 874. https://votesmart.org/candidate/136459/mark-meadows
+ 875. https://votesmart.org/candidate/180409/max-rose
+ 876. https://votesmart.org/candidate/180409/max-rose
+ 877. https://votesmart.org/candidate/179651/mikie-sherrill
+ 878. https://votesmart.org/candidate/179651/mikie-sherrill
+ 879. https://votesmart.org/candidate/102454/lloyd-smucker
+ 880. https://votesmart.org/candidate/102454/lloyd-smucker
+ 881. https://votesmart.org/candidate/181092/haley-stevens
+ 882. https://votesmart.org/candidate/181092/haley-stevens
+ 883. https://votesmart.org/candidate/24302/daniel-webster
+ 884. https://votesmart.org/candidate/24302/daniel-webster
+ 885. https://votesmart.org/candidate/5935/alma-adams
+ 886. https://votesmart.org/candidate/5935/alma-adams
+ 887. https://votesmart.org/candidate/136062/rick-allen
+ 888. https://votesmart.org/candidate/136062/rick-allen
+ 889. https://votesmart.org/candidate/102781/troy-balderson
+ 890. https://votesmart.org/candidate/102781/troy-balderson
+ 891. https://votesmart.org/candidate/17318/gus-bilirakis
+ 892. https://votesmart.org/candidate/17318/gus-bilirakis
+ 893. https://votesmart.org/candidate/6302/michael-bost
+ 894. https://votesmart.org/candidate/6302/michael-bost
+ 895. https://votesmart.org/candidate/152482/debbie-dingell
+ 896. https://votesmart.org/candidate/152482/debbie-dingell
+ 897. https://votesmart.org/candidate/334/kay-granger
+ 898. https://votesmart.org/candidate/334/kay-granger
+ 899. https://votesmart.org/candidate/26978/carolyn-maloney
+ 900. https://votesmart.org/candidate/26978/carolyn-maloney
+ 901. https://votesmart.org/candidate/26732/nancy-pelosi
+ 902. https://votesmart.org/candidate/26732/nancy-pelosi
+ 903. https://votesmart.org/candidate/24799/bonnie-watson-coleman
+ 904. https://votesmart.org/candidate/24799/bonnie-watson-coleman
+ 905. https://votesmart.org/candidate/171489/theodore-budd
+ 906. https://votesmart.org/candidate/171489/theodore-budd
+ 907. https://votesmart.org/candidate/24311/charlie-crist-jr
+ 908. https://votesmart.org/candidate/24311/charlie-crist-jr
+ 909. https://votesmart.org/candidate/9622/rodney-davis
+ 910. https://votesmart.org/candidate/9622/rodney-davis
+ 911. https://votesmart.org/candidate/14379/adriano-espaillat
+ 912. https://votesmart.org/candidate/14379/adriano-espaillat
+ 913. https://votesmart.org/candidate/178911/john-joyce
+ 914. https://votesmart.org/candidate/178911/john-joyce
+ 915. https://votesmart.org/candidate/8315/barbara-lee
+ 916. https://votesmart.org/candidate/8315/barbara-lee
+ 917. https://votesmart.org/candidate/45638/tim-ryan
+ 918. https://votesmart.org/candidate/45638/tim-ryan
+ 919. https://votesmart.org/candidate/7826/david-scott
+ 920. https://votesmart.org/candidate/7826/david-scott
+ 921. https://votesmart.org/candidate/21706/mac-thornberry
+ 922. https://votesmart.org/candidate/21706/mac-thornberry
+ 923. https://votesmart.org/candidate/105368/rashida-tlaib
+ 924. https://votesmart.org/candidate/105368/rashida-tlaib
+ 925. https://votesmart.org/candidate/53825/kathy-castor
+ 926. https://votesmart.org/candidate/53825/kathy-castor
+ 927. https://votesmart.org/candidate/31969/tom-graves-jr
+ 928. https://votesmart.org/candidate/31969/tom-graves-jr
+ 929. https://votesmart.org/candidate/143052/dave-joyce
+ 930. https://votesmart.org/candidate/143052/dave-joyce
+ 931. https://votesmart.org/candidate/78851/brenda-lawrence
+ 932. https://votesmart.org/candidate/78851/brenda-lawrence
+ 933. https://votesmart.org/candidate/180416/alexandria-ocasio-cortez
+ 934. https://votesmart.org/candidate/180416/alexandria-ocasio-cortez
+ 935. https://votesmart.org/candidate/166004/guy-reschenthaler
+ 936. https://votesmart.org/candidate/166004/guy-reschenthaler
+ 937. https://votesmart.org/candidate/8425/jackie-speier
+ 938. https://votesmart.org/candidate/8425/jackie-speier
+ 939. https://votesmart.org/candidate/177001/lauren-underwood
+ 940. https://votesmart.org/candidate/177001/lauren-underwood
+ 941. https://votesmart.org/candidate/102026/randy-weber-sr
+ 942. https://votesmart.org/candidate/102026/randy-weber-sr
+ 943. https://votesmart.org/candidate/166483/vicente-gonzalez
+ 944. https://votesmart.org/candidate/166483/vicente-gonzalez
+ 945. https://votesmart.org/candidate/26981/jose-serrano
+ 946. https://votesmart.org/candidate/26981/jose-serrano
+ 947. https://votesmart.org/candidate/246/john-shimkus
+ 948. https://votesmart.org/candidate/246/john-shimkus
+ 949. https://votesmart.org/candidate/142164/ross-spano
+ 950. https://votesmart.org/candidate/142164/ross-spano
+ 951. https://votesmart.org/candidate/45333/steve-stivers
+ 952. https://votesmart.org/candidate/45333/steve-stivers
+ 953. https://votesmart.org/candidate/129529/eric-swalwell
+ 954. https://votesmart.org/candidate/129529/eric-swalwell
+ 955. https://votesmart.org/candidate/24046/gt-thompson-jr
+ 956. https://votesmart.org/candidate/24046/gt-thompson-jr
+ 957. https://votesmart.org/candidate/66247/vern-buchanan
+ 958. https://votesmart.org/candidate/66247/vern-buchanan
+ 959. https://votesmart.org/candidate/3577/jim-costa
+ 960. https://votesmart.org/candidate/3577/jim-costa
+ 961. https://votesmart.org/candidate/26972/eliot-engel
+ 962. https://votesmart.org/candidate/26972/eliot-engel
+ 963. https://votesmart.org/candidate/99345/veronica-escobar
+ 964. https://votesmart.org/candidate/99345/veronica-escobar
+ 965. https://votesmart.org/candidate/178867/anthony-gonzalez
+ 966. https://votesmart.org/candidate/178867/anthony-gonzalez
+ 967. https://votesmart.org/candidate/119463/mike-kelly-jr
+ 968. https://votesmart.org/candidate/119463/mike-kelly-jr
+ 969. https://votesmart.org/candidate/116559/adam-kinzinger
+ 970. https://votesmart.org/candidate/116559/adam-kinzinger
+ 971. https://votesmart.org/candidate/134964/cheri-bustos
+ 972. https://votesmart.org/candidate/134964/cheri-bustos
+ 973. https://votesmart.org/candidate/116906/bill-flores
+ 974. https://votesmart.org/candidate/116906/bill-flores
+ 975. https://votesmart.org/candidate/29473/ro-khanna
+ 976. https://votesmart.org/candidate/29473/ro-khanna
+ 977. https://votesmart.org/candidate/177656/conor-lamb
+ 978. https://votesmart.org/candidate/177656/conor-lamb
+ 979. https://votesmart.org/candidate/26982/nita-lowey
+ 980. https://votesmart.org/candidate/26982/nita-lowey
+ 981. https://votesmart.org/candidate/117248/greg-steube
+ 982. https://votesmart.org/candidate/117248/greg-steube
+ 983. https://votesmart.org/candidate/21853/mike-doyle-jr
+ 984. https://votesmart.org/candidate/21853/mike-doyle-jr
+ 985. https://votesmart.org/candidate/26741/anna-eshoo
+ 986. https://votesmart.org/candidate/26741/anna-eshoo
+ 987. https://votesmart.org/candidate/21692/sheila-jackson-lee
+ 988. https://votesmart.org/candidate/21692/sheila-jackson-lee
+ 989. https://votesmart.org/candidate/128760/darin-lahood
+ 990. https://votesmart.org/candidate/128760/darin-lahood
+ 991. https://votesmart.org/candidate/139760/sean-maloney
+ 992. https://votesmart.org/candidate/139760/sean-maloney
+ 993. https://votesmart.org/candidate/166245/brian-mast
+ 994. https://votesmart.org/candidate/166245/brian-mast
+ 995. https://votesmart.org/candidate/155685/jodey-arrington
+ 996. https://votesmart.org/candidate/155685/jodey-arrington
+ 997. https://votesmart.org/candidate/180313/antonio-delgado
+ 998. https://votesmart.org/candidate/180313/antonio-delgado
+ 999. https://votesmart.org/candidate/21899/zoe-lofgren
+1000. https://votesmart.org/candidate/21899/zoe-lofgren
+1001. https://votesmart.org/candidate/172678/francis-rooney
+1002. https://votesmart.org/candidate/172678/francis-rooney
+1003. https://votesmart.org/candidate/49227/joaquin-castro
+1004. https://votesmart.org/candidate/49227/joaquin-castro
+1005. https://votesmart.org/candidate/26798/alcee-hastings-sr
+1006. https://votesmart.org/candidate/26798/alcee-hastings-sr
+1007. https://votesmart.org/candidate/169078/jimmy-panetta
+1008. https://votesmart.org/candidate/169078/jimmy-panetta
+1009. https://votesmart.org/candidate/4403/paul-tonko
+1010. https://votesmart.org/candidate/4403/paul-tonko
+1011. https://votesmart.org/candidate/57197/t-j-cox
+1012. https://votesmart.org/candidate/57197/t-j-cox
+1013. https://votesmart.org/candidate/8102/lois-frankel
+1014. https://votesmart.org/candidate/8102/lois-frankel
+1015. https://votesmart.org/candidate/177319/chip-roy
+1016. https://votesmart.org/candidate/177319/chip-roy
+1017. https://votesmart.org/candidate/152539/elise-stefanik
+1018. https://votesmart.org/candidate/152539/elise-stefanik
+1019. https://votesmart.org/candidate/135258/anthony-brindisi
+1020. https://votesmart.org/candidate/135258/anthony-brindisi
+1021. https://votesmart.org/candidate/67151/ted-deutch
+1022. https://votesmart.org/candidate/67151/ted-deutch
+1023. https://votesmart.org/candidate/16725/devin-nunes
+1024. https://votesmart.org/candidate/16725/devin-nunes
+1025. https://votesmart.org/candidate/102008/pete-olson
+1026. https://votesmart.org/candidate/102008/pete-olson
+1027. https://votesmart.org/candidate/116911/will-hurd
+1028. https://votesmart.org/candidate/116911/will-hurd
+1029. https://votesmart.org/candidate/28918/kevin-mccarthy
+1030. https://votesmart.org/candidate/28918/kevin-mccarthy
+1031. https://votesmart.org/candidate/127046/tom-reed-ii
+1032. https://votesmart.org/candidate/127046/tom-reed-ii
+1033. https://votesmart.org/candidate/24301/debbie-wasserman-schultz
+1034. https://votesmart.org/candidate/24301/debbie-wasserman-schultz
+1035. https://votesmart.org/candidate/81569/salud-carbajal
+1036. https://votesmart.org/candidate/81569/salud-carbajal
+1037. https://votesmart.org/candidate/152546/john-katko
+1038. https://votesmart.org/candidate/152546/john-katko
+1039. https://votesmart.org/candidate/5549/kenny-marchant
+1040. https://votesmart.org/candidate/5549/kenny-marchant
+1041. https://votesmart.org/candidate/17319/frederica-wilson
+1042. https://votesmart.org/candidate/17319/frederica-wilson
+1043. https://votesmart.org/candidate/24312/mario-diaz-balart
+1044. https://votesmart.org/candidate/24312/mario-diaz-balart
+1045. https://votesmart.org/candidate/179354/katie-hill
+1046. https://votesmart.org/candidate/179354/katie-hill
+1047. https://votesmart.org/candidate/4362/joe-morelle
+1048. https://votesmart.org/candidate/4362/joe-morelle
+1049. https://votesmart.org/candidate/50112/roger-williams
+1050. https://votesmart.org/candidate/50112/roger-williams
+1051. https://votesmart.org/candidate/59904/julia-brownley
+1052. https://votesmart.org/candidate/59904/julia-brownley
+1053. https://votesmart.org/candidate/50120/michael-burgess
+1054. https://votesmart.org/candidate/50120/michael-burgess
+1055. https://votesmart.org/candidate/23127/brian-higgins
+1056. https://votesmart.org/candidate/23127/brian-higgins
+1057. https://votesmart.org/candidate/173449/debbie-mucarsel-powell
+1058. https://votesmart.org/candidate/173449/debbie-mucarsel-powell
+1059. https://votesmart.org/candidate/16539/judy-chu
+1060. https://votesmart.org/candidate/16539/judy-chu
+1061. https://votesmart.org/candidate/177350/michael-cloud
+1062. https://votesmart.org/candidate/177350/michael-cloud
+1063. https://votesmart.org/candidate/139770/chris-collins
+1064. https://votesmart.org/candidate/139770/chris-collins
+1065. https://votesmart.org/candidate/182301/donna-shalala
+1066. https://votesmart.org/candidate/182301/donna-shalala
+1067. https://votesmart.org/candidate/5486/henry-cuellar
+1068. https://votesmart.org/candidate/5486/henry-cuellar
+1069. https://votesmart.org/candidate/9489/adam-schiff
+1070. https://votesmart.org/candidate/9489/adam-schiff
+1071. https://votesmart.org/candidate/9754/tony-cardenas
+1072. https://votesmart.org/candidate/9754/tony-cardenas
+1073. https://votesmart.org/candidate/49734/sylvia-garcia
+1074. https://votesmart.org/candidate/49734/sylvia-garcia
+1075. https://votesmart.org/candidate/27098/eddie-johnson
+1076. https://votesmart.org/candidate/27098/eddie-johnson
+1077. https://votesmart.org/candidate/142/brad-sherman
+1078. https://votesmart.org/candidate/142/brad-sherman
+1079. https://votesmart.org/candidate/70114/pete-aguilar
+1080. https://votesmart.org/candidate/70114/pete-aguilar
+1081. https://votesmart.org/candidate/49296/john-carter
+1082. https://votesmart.org/candidate/49296/john-carter
+1083. https://votesmart.org/candidate/177357/colin-allred
+1084. https://votesmart.org/candidate/177357/colin-allred
+1085. https://votesmart.org/candidate/8393/grace-napolitano
+1086. https://votesmart.org/candidate/8393/grace-napolitano
+1087. https://votesmart.org/candidate/1516/ted-lieu
+1088. https://votesmart.org/candidate/1516/ted-lieu
+1089. https://votesmart.org/candidate/49671/marc-veasey
+1090. https://votesmart.org/candidate/49671/marc-veasey
+1091. https://votesmart.org/candidate/138524/jimmy-gomez
+1092. https://votesmart.org/candidate/138524/jimmy-gomez
+1093. https://votesmart.org/candidate/137719/filemon-vela-jr
+1094. https://votesmart.org/candidate/137719/filemon-vela-jr
+1095. https://votesmart.org/candidate/21689/lloyd-doggett-ii
+1096. https://votesmart.org/candidate/21689/lloyd-doggett-ii
+1097. https://votesmart.org/candidate/71284/norma-torres
+1098. https://votesmart.org/candidate/71284/norma-torres
+1099. https://votesmart.org/candidate/360/brian-babin
+1100. https://votesmart.org/candidate/360/brian-babin
+1101. https://votesmart.org/candidate/136407/raul-ruiz
+1102. https://votesmart.org/candidate/136407/raul-ruiz
+1103. https://votesmart.org/candidate/28963/karen-bass
+1104. https://votesmart.org/candidate/28963/karen-bass
+1105. https://votesmart.org/candidate/29674/linda-sanchez
+1106. https://votesmart.org/candidate/29674/linda-sanchez
+1107. https://votesmart.org/candidate/179370/gil-cisneros
+1108. https://votesmart.org/candidate/179370/gil-cisneros
+1109. https://votesmart.org/candidate/26766/lucille-roybal-allard
+1110. https://votesmart.org/candidate/26766/lucille-roybal-allard
+1111. https://votesmart.org/candidate/22337/mark-takano
+1112. https://votesmart.org/candidate/22337/mark-takano
+1113. https://votesmart.org/candidate/26777/ken-calvert
+1114. https://votesmart.org/candidate/26777/ken-calvert
+1115. https://votesmart.org/candidate/26759/maxine-waters
+1116. https://votesmart.org/candidate/26759/maxine-waters
+1117. https://votesmart.org/candidate/166270/nanette-barragan
+1118. https://votesmart.org/candidate/166270/nanette-barragan
+1119. https://votesmart.org/candidate/179393/katie-porter
+1120. https://votesmart.org/candidate/179393/katie-porter
+1121. https://votesmart.org/candidate/9732/lou-correa
+1122. https://votesmart.org/candidate/9732/lou-correa
+1123. https://votesmart.org/candidate/16469/alan-lowenthal
+1124. https://votesmart.org/candidate/16469/alan-lowenthal
+1125. https://votesmart.org/candidate/179404/harley-rouda
+1126. https://votesmart.org/candidate/179404/harley-rouda
+1127. https://votesmart.org/candidate/179416/mike-levin
+1128. https://votesmart.org/candidate/179416/mike-levin
+1129. https://votesmart.org/candidate/104308/duncan-hunter
+1130. https://votesmart.org/candidate/104308/duncan-hunter
+1131. https://votesmart.org/candidate/29100/juan-vargas
+1132. https://votesmart.org/candidate/29100/juan-vargas
+1133. https://votesmart.org/candidate/70351/scott-peters
+1134. https://votesmart.org/candidate/70351/scott-peters
+1135. https://votesmart.org/candidate/8168/susan-davis
+1136. https://votesmart.org/candidate/8168/susan-davis
+1137. https://votesmart.org/candidate/139338/kelly-armstrong
+1138. https://votesmart.org/candidate/139338/kelly-armstrong
+1139. https://votesmart.org/candidate/173249/lisa-blunt-rochester
+1140. https://votesmart.org/candidate/173249/lisa-blunt-rochester
+1141. https://votesmart.org/candidate/171319/liz-cheney
+1142. https://votesmart.org/candidate/171319/liz-cheney
+1143. https://votesmart.org/candidate/168594/greg-gianforte
+1144. https://votesmart.org/candidate/168594/greg-gianforte
+1145. https://votesmart.org/candidate/48307/dustin-johnson
+1146. https://votesmart.org/candidate/48307/dustin-johnson
+1147. https://votesmart.org/candidate/51272/peter-welch
+1148. https://votesmart.org/candidate/51272/peter-welch
+1149. https://votesmart.org/candidate/26717/donald-young
+1150. https://votesmart.org/candidate/26717/donald-young
+1151. https://votesmart.org/candidate/775/eleanor-norton
+1152. https://votesmart.org/candidate/775/eleanor-norton
+1153. https://votesmart.org/candidate/155929/stacey-plaskett
+1154. https://votesmart.org/candidate/155929/stacey-plaskett
+1155. https://votesmart.org/candidate/128380/aumua-amata-radewagen
+1156. https://votesmart.org/candidate/128380/aumua-amata-radewagen
+1157. https://votesmart.org/candidate/110903/kilili-sablan
+1158. https://votesmart.org/candidate/110903/kilili-sablan
+1159. https://votesmart.org/candidate/185972/michael-san-nicolas
+1160. https://votesmart.org/candidate/185972/michael-san-nicolas
+1161. https://votesmart.org/candidate/47514/jenniffer-gonzalez-colon
+1162. https://votesmart.org/candidate/47514/jenniffer-gonzalez-colon
+1163. https://votesmart.org/about
+1164. https://votesmart.org/about/board
+1165. https://votesmart.org/about/staff
+1166. https://votesmart.org/about/advisors
+1167. https://votesmart.org/about#finances
+1168. https://votesmart.org/jobs
+1169. https://votesmart.org/media
+1170. https://votesmart.org/about/contact
+1171. https://votesmart.org/donate?utm_source=votesmart&utm_medium=bottomnav&utm_campaign=donate
+1172. https://votesmart.org/volunteer?utm_source=votesmart&utm_medium=bottomnav&utm_campaign=donate
+1173. https://votesmart.org/ambassadors
+1174. https://votesmart.org/legacy
+1175. https://votesmart.org/internships
+1176. https://votesmart.org/education/government
+1177. https://votesmart.org/education
+1178. https://votesmart.org/blog
+1179. https://votesmart.org/media/publications
+1180. https://votesmart.org/request-materials
+1181. https://votesmart.org/share/api
+1182. https://votesmart.org/share/widgets
+1183. https://votesmart.org/share/link-to-us
+1184. https://votesmart.org/media/rss
+1185. https://votesmart.org/officials
+1186. https://votesmart.org/bills
+1187. https://votesmart.org/issues
+1188. https://votesmart.org/interest-groups
+1189. https://votesmart.org/public-statements
+1190. https://votesmart.org/offices/committees
+1191. https://votesmart.org/offices/leadership
+1192. https://votesmart.org/vetoes
+1193. https://votesmart.org/galaxy
+1194. https://votesmart.org/voteeasy
+1195. https://votesmart.org/user?
+1196. https://votesmart.org/onpoint
+1197. https://votesmart.org/elections
+1198. https://votesmart.org/elections/voter-registration
+1199. https://votesmart.org/elections/ballot-measures
+1200. https://votesmart.org/issues
+1201. https://votesmart.org/public-statements
+1202. https://votesmart.org/political-parties
+1203. https://votesmart.org/elections/offices
+1204. https://votesmart.org/about/political-courage-test
+1205. https://votesmart.org/for-candidates
+1206. tel:18888683762
+1207. https://votesmart.org/copyright
+1208. https://votesmart.org/about/privacy
+1209. http://www.aristotle.com/
+1210. https://votesmart.org/officials/NA/C/national-congressional?flavour=mobile&utm_source=votesmart&utm_medium=mobile-link&utm_campaign=flavourswitch
+1211. https://votesmart.org/newsletter
+1212. https://votesmart.org/officials/NA/C/national-congressional#header
+1213. https://votesmart.org/officials/NA/C/national-congressional
+1214. https://votesmart.org/officials/NA/C/national-congressional
+
+   Hidden links:
+1215. https://votesmart.org/officials/NA/C/national-congressional
+1216. https://votesmart.org/officials/NA/C/national-congressional
+1217. https://votesmart.org/officials/NA/C/national-congressional
+1218. https://votesmart.org/officials/NA/C/national-congressional
+1219. https://votesmart.org/officials/NA/C/national-congressional
+1220. https://votesmart.org/officials/NA/C/national-congressional
+1221. https://votesmart.org/officials/NA/C/national-congressional
+1222. https://votesmart.org/officials/NA/C/national-congressional

@@ -1,0 +1,17 @@
+#!/usr/bin/env ksh
+
+path=$PATH
+dir=${path%%:*}
+print $dir
+while [[ -n $path ]]; do
+   if [[ -x $dir/$1 && ! -d $dir/$1 ]]; then
+      file $dir/$1
+      exit 0
+   fi
+   path=${path#*:}
+   dir=${path%%:*}
+   print "dir " $dir
+   print "path " $path
+done
+print "File not found"
+exit 1

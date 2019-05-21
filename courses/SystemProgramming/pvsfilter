@@ -1,0 +1,66 @@
+#*******************************************************************************
+#
+#      filename:  pvsfilter
+#
+#   description:  Webpage scraping
+#
+#        author:  Sunkaralakunta Venkatarama Reddy, Rakesh
+#      login id:  SP_19_CPS444_11
+#
+#         class:  CPS 544
+#    instructor:  Perugini
+#    assignment:  Homework #7
+#
+#      assigned:  April 10, 2019
+#           due:  April 22, 2019
+#
+#******************************************************************************/
+
+#Extract official details
+
+#Extract personal information
+partOne=$(sed -n '/^\[[0-9][0-9]*\][a-ZA-Z ]*/ {N; N; N; N;  s/\n//g; p;}' dump.txt)
+
+#Strip the brackets
+partOne=$(echo "$partOne" | sed 's/^[\[]//g' | sed 's/[]]/   /g')
+
+#Strip parenthesis
+partOne=$(echo "$partOne" | sed 's/[\(]/  /g' | sed 's/[\)]//g')
+
+#Rename Democratic to Democrat
+partOne=$(echo "$partOne" | sed 's/Democratic/Democrat/g')
+
+#Rename Sr to Senior
+partOne=$(echo "$partOne" | sed 's/Sr/Senior/g' | sed 's/Jr$/Junior/g')
+
+#Remove U.S.
+partOne=$(echo "$partOne" | sed 's/U\.S\. //g')
+
+#Format the personal information
+partOne=$(echo "$partOne" | awk 'BEGIN {FS="   " } {print $1 " " $4 " " $3 " " $5 " " $6 " " $2}')
+
+
+#Prepare URLs
+
+#Extract URLs from dump.txt
+partTwo=$(sed -n '4313,5388p' dump.txt | sed 's/^ *//g')
+
+#Strip the dot after number in URLs
+partTwo=$(echo "$partTwo" |  sed 's/^\([1-9][0-9]*\)\(\.\)/\1/')
+
+#join works with files
+echo "$partOne" > f1
+echo "$partTwo" > f2
+
+#Unique urls after reverse sorting the URLs
+partTwo=$(sort -r -k 1 f2 | uniq -f 1 | sort -k 1)
+echo "$partTwo" > f3
+
+#Join, sort and do final formatting
+result=$(join --nocheck-order <(sort -k 1 f1) f3)
+result=$(echo "$result" | cut -d" " -f2-10)
+result=$(echo "$result" | sort -k 1)
+echo "$result"
+
+#clean up
+rm f1 f2 f3

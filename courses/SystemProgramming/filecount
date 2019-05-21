@@ -1,0 +1,21 @@
+#!/usr/bin/env ksh
+
+echo '$* is ' $*
+echo '$@ is ' $@
+pring '$# is ' $#
+print "The number of arguements to $0 was $#."
+
+print $0
+print $1
+print $2
+print $3
+print $#
+
+print 
+
+for file in "$@"
+do
+   echo $file
+done
+
+exit 0

@@ -1,0 +1,77 @@
+/*******************************************************************************
+/  Grade: 65 / 75
+/
+/  *  10 / 10 for style
+/  *  5 / 5 for writing result to stdout
+/  *  25 / 25 for using at least 5 filters (5 pts. per filter)
+/  *  5 / 10 for proper output format (sorted incorrectly)
+/  *  0 / 5 for not using any intermediate files except for pvsurls.txt (f1, f2)
+/  *  20 / 20 for producing output
+/
+/******************************************************************************/
+
+#*******************************************************************************
+#
+#      filename:  pvsfilter
+#
+#   description:  Webpage scraping
+#
+#        author:  Sunkaralakunta Venkatarama Reddy, Rakesh
+#      login id:  SP_19_CPS444_11
+#
+#         class:  CPS 544
+#    instructor:  Perugini
+#    assignment:  Homework #7
+#
+#      assigned:  April 10, 2019
+#           due:  April 22, 2019
+#
+#******************************************************************************/
+
+#Extract official details, URLs and map them to format to a defined output.
+lynx -dump -width=200 'https://votesmart.org/officials/NA/C/national-congressional' > dump.txt
+
+#Extract personal information
+partOne=$(sed -n '/^\[[0-9][0-9]*\][a-ZA-Z ]*/ {N; N; N; N;  s/\n//g; p;}' dump.txt)
+
+#Strip the brackets
+partOne=$(echo "$partOne" | sed 's/^[\[]//g' | sed 's/[]]/   /g')
+
+#Strip parenthesis
+partOne=$(echo "$partOne" | sed 's/[\(]/  /g' | sed 's/[\)]//g')
+
+#Rename Democratic to Democrat
+partOne=$(echo "$partOne" | sed 's/Democratic/Democrat/g')
+
+#Rename Sr to Senior
+partOne=$(echo "$partOne" | sed 's/Sr/Senior/g' | sed 's/Jr$/Junior/g')
+
+#Remove U.S.
+partOne=$(echo "$partOne" | sed 's/U\.S\. //g')
+
+#Format the personal information
+partOne=$(echo "$partOne" | awk 'BEGIN {FS="   " } {print $1 " " $4 " " $3 " " $5 " " $6 " " $2}')
+
+#join works with files
+echo "$partOne" > f1
+
+
+#Prepare URLs
+#Extract URLs from dump.txt
+partTwo=$(sed -n '4313,5388p' dump.txt | sed 's/^ *//g')
+
+#Strip the dot after number in URLs
+partTwo=$(echo "$partTwo" |  sed 's/^\([1-9][0-9]*\)\(\.\)/\1/')
+
+#Unique urls after reverse sorting the URLs to match the numbers in partOne(BONUS)
+partTwo=$(echo "$partTwo" | sort -r -k 1 | uniq -f 1 | sort -k 1)
+echo "$partTwo" > f2
+
+#Join, sort and do final formatting
+result=$(join --nocheck-order <(sort -k 1 f1) f2)
+result=$(echo "$result" | cut -d" " -f2-10)
+result=$(echo "$result" | sort -k 1)
+echo "$result"
+
+#clean up
+rm f1 f2

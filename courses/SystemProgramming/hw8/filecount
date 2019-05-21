@@ -1,0 +1,117 @@
+#*******************************************************************************
+#
+#      filename:  filecount
+#
+#   description:  filecount script
+#
+#        author:  Sunkaralakunta Venkatarama Reddy, Rakesh
+#      login id:  SP_19_CPS444_11
+#
+#         class:  CPS 544
+#    instructor:  Perugini
+#    assignment:  Homework #8
+#
+#      assigned:  April 17, 2019
+#           due:  April 29, 2019
+#
+#******************************************************************************/
+
+
+#!/usr/bin/env ksh
+
+#if (($# < 1)); then
+#   print "Usage: ./filecount <file_type_options> <directories>"
+#   exit 1
+#fi
+
+args=" "$*
+#echo args:$args:
+
+options=${args%% ([a-zA-Z0-9]|/)*}
+options=$(echo $options | sed 's/^[ ]//')
+
+dirs=${args# $options}
+dirs=$(echo $dirs | sed 's/^[ ]//')
+
+if [ -z $options ]; then
+   options="-f -x -l -d"
+fi
+
+#print options:$options:
+#print dirs:$dirs:
+
+integer isEx=0
+integer isOr=0
+integer isLn=0
+integer isDr=0
+ 
+for opt in $options; do
+   #echo $opt"  "
+   case $opt in
+      -f )
+         isOr=1 ;;
+      -x )
+         isEx=1 ;;
+      -l )
+         isLn=1 ;;
+      -d )
+         isDr=1 ;;
+      -- )
+         dir=" ./"$dir ;;
+      * )
+         print "filecount: Illegal option: "$opt
+         print "Usage: filecount [-dflx] [directory ...]"
+         exit 1 ;;
+   esac
+done
+
+#print $isEx" "$isOr" "$isLn" "$isDr
+
+if [ -z $dirs ]; then
+   dirs="."
+fi
+
+#print $dirs
+
+for dir in $dirs; do
+   integer ex=0
+   integer or=0
+   integer ln=0
+   integer dr=0
+   if [ ! -d $dir ]; then
+       print "filecount: Invalid directory: "$dir
+       exit 2
+   fi
+   for file in $dir/*; do
+      if [[ -d $file ]]; then
+         (( dr++ ))
+      elif [[ -L $file ]]; then
+         (( ln++ ))
+      elif [[ -x $file ]]; then
+         (( ex++ ))
+      else 
+         (( or++ ))
+      fi
+   done
+
+   orFile=""
+   exFiles=""
+   lnFiles=""
+   drFiles=""
+ 
+   if [[ $isOr = 1 ]]; then
+      orFiles=$or" ordinary  "
+   fi
+   if [[ $isEx = 1 ]]; then
+      exFiles=$ex" executable  "
+   fi
+   if [[ $isLn = 1 ]]; then
+      lnFiles=$ln" links  "
+   fi
+   if [[ $isDr = 1 ]]; then
+      drFiles=$dr" directories  "
+   fi
+
+   print $dir":  "$orFiles""$exFiles""$lnFiles""$drFiles
+done
+exit 0

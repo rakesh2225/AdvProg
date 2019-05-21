@@ -1,8 +1,8 @@
-package edu.udayton.bst;
+package edu.udayton.tree;
 
 public class BST {
 
-    private void printBST(BSTNode node) {
+    private void printBST(Node node) {
         if (node == null) {
             return;
         }
@@ -11,7 +11,7 @@ public class BST {
         printBST(node.right);
     }
 
-    private boolean searchNode(BSTNode node, int val) {
+    private boolean searchNode(Node node, int val) {
         if (node == null) {
             return false;
         }
@@ -24,7 +24,7 @@ public class BST {
             return searchNode(node.right, val);
     }
 
-    private BSTNode getPredecessor(BSTNode node, BSTNode prevNode) {
+    private Node getPredecessor(Node node, Node prevNode) {
         System.out.println("Searching a Predecessor for " + prevNode.val);
         if (node == null) {
             return prevNode;
@@ -36,7 +36,7 @@ public class BST {
         return getPredecessor(node.left, node);
     }
 
-    private BSTNode getSuccessor(BSTNode node, BSTNode prevNode) {
+    private Node getSuccessor(Node node, Node prevNode) {
         System.out.println("Searching a Successor for " + prevNode.val);
         if (node == null) {
             return prevNode;
@@ -48,12 +48,12 @@ public class BST {
         return getSuccessor(node.left, node);
     }
 
-    private boolean deleteNode(BSTNode node, BSTNode prevNode, int delVal) {
+    private boolean deleteNode(Node node, Node prevNode, int delVal) {
         if (node == null) {
             return false;
         }
         if (node.val == delVal) {
-            BSTNode replaceNode = null;
+            Node replaceNode = null;
             if (node.left == null && node.right == null) {
                 prevNode.left = null;
             }
@@ -81,7 +81,7 @@ public class BST {
         int delVal = 2;
         System.out.println("Initiating BST...");
         BST bst = new BST();
-        BSTNode rootNode = new BSTNode(5, new BSTNode(2, new BSTNode(1), new BSTNode(3)), new BSTNode(8, new BSTNode(7), null));
+        Node rootNode = new Node(5, new Node(2, new Node(1), new Node(3)), new Node(8, new Node(7), null));
         bst.printBST(rootNode);
         System.out.println("Found? " + bst.searchNode(rootNode, delVal));
         System.out.println("Deleted? " + bst.deleteNode(rootNode, rootNode, delVal));

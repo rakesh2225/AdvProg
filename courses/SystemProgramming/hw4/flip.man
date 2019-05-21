@@ -1,0 +1,111 @@
+FLIP(1)                     General Commands Manual                    FLIP(1)
+
+
+
+[1mNAME[0m
+       flip - do newline conversions between **IX and MS-DOS
+
+[1mSYNOPSIS[0m
+       [1mflip -h[0m
+       [1mflip [22m-umvtsbz [1mfile ...[0m
+
+[1mDESCRIPTION[0m
+       [4mFlip[24m  is  a  file  interchange  program that converts text file formats
+       between **IX and MS-DOS.  It converts lines ending with carriage-return
+       (CR)  and  linefeed  (LF)  to  lines ending with just linefeed, or vice
+       versa.
+
+       [4mFlip[24m has the following features.
+
+       o      If a file contains isolated CR  characters  for  underlining  or
+              overprinting, [4mflip[24m does not change them.
+
+       o      When  asked to convert a file to the same format that it already
+              has, [4mflip[24m causes no change to the file.   Thus  to  convert  all
+              files to **IX format you can type
+
+                 [4mflip[24m [1m-u [22m*.*  (under MS-DOS)
+                 [4mflip[24m [1m-u [22m*    (under **IX)
+
+            and  all  files will end up right, regardless of whether they were
+            in MS-DOS or in **IX format to begin with.  This also works in the
+            opposite direction.
+
+       o    [4mFlip[24m preserves file timestamps.  You can override this.
+
+       o    [4mFlip[24m  is  written in C and will compile and run under MS-DOS/Turbo
+            C, 4.3BSD, and System V.
+
+       o    [4mFlip[24m accepts wildcards and multiple filenames on the command line.
+
+       o    If a user interrupt aborts [4mFlip[24m, it  does  not  leave  behind  any
+            garbage files or cause corruption of the files being converted.
+
+       o    [4mFlip[24m  will normally refuse to convert binary files.  You can over-
+            ride this.
+
+       o    When converting from MS-DOS  to  **IX  format,  [4mflip[24m  removes  any
+            trailing  control  Z  (the last character in the file), but leaves
+            embedded control Z characters unchanged.  This minimizes the  pos-
+            sibility  of accidentally converting a binary file that contains a
+            control Z near the beginning.  You can override this and ask  [4mflip[0m
+            to recognize the first control Z found as end-of-file.
+
+       o    [4mFlip[24m  can be asked to strip the high (parity) bit as it converts a
+            file.
+
+       [4mFlip[24m is normally invoked as:
+
+            [4mflip[24m [1m-umhvtb [22mfile ...
+
+
+       One of [1m-u[22m, [1m-m[22m, or [1m-h [22mis required.  Switches may be given separately  or
+       combined  together  after a dash.  For example, the three command lines
+       given below are equivalent:
+
+            [4mflip[24m [1m-uvt [22m*.c
+            [4mflip[24m [1m-u -v -t [22m*.c
+            [4mflip[24m [1m-u -vt [22m*.c
+
+       The meanings of the switches are as follows.
+
+       -u     convert to **IX format (CR LF => LF, lone CR  or  LF  unchanged,
+              trailing control Z removed, embedded control Z unchanged)
+
+       -m     convert to MS-DOS format (lone LF => CR LF, lone CR unchanged)
+
+       -h     give a help message
+
+       -v     be verbose, print filenames as they are processed
+
+       -t     touch files (don't preserve timestamps)
+
+       -s     strip high bit
+
+       -b     convert binary files too (else binary files are left unchanged)
+
+       -z     truncate file at first control Z encountered
+
+       On  systems  that  allow  a  program  to know its own name, [4mflip[24m may be
+       renamed (or linked) to a file called [4mtoix[24m (or  [4mtoix.exe[24m  under  MS-DOS)
+       for  conversion  to  **IX format, or to a file called [4mtoms[24m (or [4mtoms.exe[0m
+       under MS-DOS) for conversion to MS-DOS format.  When invoked  with  the
+       name  [4mtoix[24m  or [4mtoms,[24m [4mflip[24m will act as if it were invoked with the [1m-u [22mor
+       [1m-m [22moption respectively.
+
+[1mCOPYRIGHT[0m
+       Both this documentation and [4mflip[24m are Copyright 1989  Rahul  Dhesi,  all
+       rights  reserved.   Permission  is granted to copy, use, and distribute
+       for any commercial or noncommercial  purpose  in  accordance  with  the
+       requirements of version 1.0 of the [4mGNU[24m [4mGeneral[24m [4mPublic[24m [4mlicense.[0m
+
+       Note:  This software has not been endorsed by the Free Software Founda-
+       tion, the creator of the GNU license, and I am not affiliated with that
+       organization.
+
+[1mAUTHOR[0m
+       Rahul Dhesi
+
+
+
+7th Edition                       Jul 4, 1989                          FLIP(1)

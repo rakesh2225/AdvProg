@@ -1,0 +1,44 @@
+/*******************************************************************************
+/  Grade: 75 / 80
+/
+/  *  10 / 10 for style
+/  *  10 / 15 for README with correct answers (note 1)
+/  *  25 / 25 for infinite loop Server and correctness (note 2)
+/  *  15 / 15 for clients waiting for correct number
+/  *  15 / 15 for correct file structure
+/ 
+/  Additional notes
+/
+/  *  The server survives because it's in an infinite loop.
+/  *  Both barriers call themselves barrier 1. Not enough of a problem to
+/     take points off for, but I thought it was noteworthy.
+/
+/******************************************************************************/
+
+/*******************************************************************************
+/
+/      filename:  README
+/
+/   description:  Explanation for 1. Why barrierserver keeps running?
+/                                 2. Can malicious client bring down the server?
+/
+/        author:  Sunkaralakunta Venkatarama Reddy, Rakesh
+/      login id:  SP_19_CPS444_11
+/
+/         class:  CPS 444
+/    instructor:  Perugini
+/    assignment:  Homework #2
+/
+/      assigned:  March 6, 2019
+/           due:  April 3, 2019
+/
+/******************************************************************************/
+
+1. Because the clients are reading only one byte at a time and they
+   are not waiting for the EOF from the server before terminating. Since there
+   is no client listening to the release pipe, server gets blocked forever as 
+   the release pipe is no longer opened for read by any process. Hence the
+   server gets straded.
+
+2. Since only one byte is read by the server at a time from the pipe,
+   server is safe from any malicious clients.

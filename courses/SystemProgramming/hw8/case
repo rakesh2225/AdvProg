@@ -1,0 +1,11 @@
+#!/usr/bin/env ksh
+person=( linus lucia linda )
+
+case $person in
+   linus)
+      print "Oh..He's on the tenth floor." ;;
+   lucia | linda)
+      print "They're out to lunch." ;;
+   *)
+      print "Hmm. Not sure." ;;
+esac
