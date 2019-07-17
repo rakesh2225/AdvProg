@@ -1,0 +1,7 @@
+{
+  "users":{
+  "pphung":{"salt":"$2b$10$faN1h/cbjG07vyLABdTGre","password":"$2b$10$faN1h/cbjG07vyLABdTGrenDkzhHqhyv6K4i9dZvK8GtBNitGxKT."},
+  "rreddy":{"salt":"$2b$10$1jLg.vE9EwOCpycSICnb/e","password":"$2b$10$1jLg.vE9EwOCpycSICnb/ehTwQ14wsOI.clsQfafKR5ioVAJlU8aS"},
+  "bhagya":{"salt":"$2b$10$fGMdR7idAfFzZk.UAbeq1.","password":"$2b$10$fGMdR7idAfFzZk.UAbeq1.In7xbqDowKXxmh2qOkKUNwOAQyyWecG"}
+  }
+}
